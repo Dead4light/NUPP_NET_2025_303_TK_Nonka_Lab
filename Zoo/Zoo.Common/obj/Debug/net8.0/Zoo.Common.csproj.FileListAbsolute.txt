@@ -1,0 +1,12 @@
+D:\net\Zoo\Zoo.Common\bin\Debug\net8.0\Zoo.Common.deps.json
+D:\net\Zoo\Zoo.Common\bin\Debug\net8.0\Zoo.Common.dll
+D:\net\Zoo\Zoo.Common\bin\Debug\net8.0\Zoo.Common.pdb
+D:\net\Zoo\Zoo.Common\obj\Debug\net8.0\Zoo.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\net\Zoo\Zoo.Common\obj\Debug\net8.0\Zoo.Common.AssemblyInfoInputs.cache
+D:\net\Zoo\Zoo.Common\obj\Debug\net8.0\Zoo.Common.AssemblyInfo.cs
+D:\net\Zoo\Zoo.Common\obj\Debug\net8.0\Zoo.Common.csproj.CoreCompileInputs.cache
+D:\net\Zoo\Zoo.Common\obj\Debug\net8.0\Zoo.Common.sourcelink.json
+D:\net\Zoo\Zoo.Common\obj\Debug\net8.0\Zoo.Common.dll
+D:\net\Zoo\Zoo.Common\obj\Debug\net8.0\refint\Zoo.Common.dll
+D:\net\Zoo\Zoo.Common\obj\Debug\net8.0\Zoo.Common.pdb
+D:\net\Zoo\Zoo.Common\obj\Debug\net8.0\ref\Zoo.Common.dll
