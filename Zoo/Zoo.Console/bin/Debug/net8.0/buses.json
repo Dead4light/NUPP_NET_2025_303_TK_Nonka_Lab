@@ -1,0 +1,6002 @@
+[
+  {
+    "Id": "1f264beb-f9f2-41e3-9bf6-74a721342afb",
+    "Brand": "Brand 55",
+    "Capacity": 54,
+    "Mileage": 1094.1601756811915
+  },
+  {
+    "Id": "8183c015-1444-4e46-b6a6-6e1e130e877f",
+    "Brand": "Brand 88",
+    "Capacity": 35,
+    "Mileage": 13442.687354035354
+  },
+  {
+    "Id": "55f9eba0-e0b6-4f2f-88aa-7616b8000113",
+    "Brand": "Brand 99",
+    "Capacity": 72,
+    "Mileage": 45649.263075056755
+  },
+  {
+    "Id": "c283836a-b429-4591-8533-4cfe49dc411d",
+    "Brand": "Brand 35",
+    "Capacity": 21,
+    "Mileage": 85169.44530964452
+  },
+  {
+    "Id": "26e8465f-d5ad-4ae7-9f5b-eced97009bef",
+    "Brand": "Brand 99",
+    "Capacity": 50,
+    "Mileage": 78351.95952890145
+  },
+  {
+    "Id": "5db812e4-9487-4eb0-b1af-fdf4373d01d3",
+    "Brand": "Brand 95",
+    "Capacity": 57,
+    "Mileage": 32376.11844490892
+  },
+  {
+    "Id": "06046ec0-8b51-4a48-ba3f-5145caa7755b",
+    "Brand": "Brand 47",
+    "Capacity": 47,
+    "Mileage": 99607.82179151743
+  },
+  {
+    "Id": "0064b056-a00d-4ad1-ab1c-e3541511a612",
+    "Brand": "Brand 7",
+    "Capacity": 27,
+    "Mileage": 76490.16989370575
+  },
+  {
+    "Id": "14169902-bf7c-493f-a4c6-87408d816c54",
+    "Brand": "Brand 26",
+    "Capacity": 44,
+    "Mileage": 82440.41414952364
+  },
+  {
+    "Id": "638e9a91-f851-48bd-a32e-dcb43d5fe400",
+    "Brand": "Brand 91",
+    "Capacity": 24,
+    "Mileage": 46435.43925396152
+  },
+  {
+    "Id": "68a30dbd-30a1-49ef-9dc3-83a4b2cdb32f",
+    "Brand": "Brand 69",
+    "Capacity": 27,
+    "Mileage": 52236.38925989761
+  },
+  {
+    "Id": "70b961af-be58-4c80-9018-cc188c40a608",
+    "Brand": "Brand 31",
+    "Capacity": 51,
+    "Mileage": 95049.833507399
+  },
+  {
+    "Id": "409acb50-2ea1-4abe-af45-609943085ded",
+    "Brand": "Brand 40",
+    "Capacity": 71,
+    "Mileage": 23453.564016196393
+  },
+  {
+    "Id": "cc4f9948-5e4e-40b5-be51-0eb212b52197",
+    "Brand": "Brand 72",
+    "Capacity": 61,
+    "Mileage": 18537.18296756599
+  },
+  {
+    "Id": "cee32672-21f6-4057-ade0-70f0a43f9536",
+    "Brand": "Brand 38",
+    "Capacity": 49,
+    "Mileage": 88331.47212159731
+  },
+  {
+    "Id": "f1e1dc76-f9eb-4b32-88bf-ce6a3cf2128b",
+    "Brand": "Brand 60",
+    "Capacity": 30,
+    "Mileage": 35898.924316742006
+  },
+  {
+    "Id": "572b4e02-0f7a-49ce-9fe9-bd427da5adef",
+    "Brand": "Brand 74",
+    "Capacity": 34,
+    "Mileage": 12470.849622391934
+  },
+  {
+    "Id": "3accfa67-1094-4909-93f9-115180bc835c",
+    "Brand": "Brand 71",
+    "Capacity": 28,
+    "Mileage": 62315.77018740432
+  },
+  {
+    "Id": "3e4f3d13-c3d5-4715-a74c-a642d2f1eb43",
+    "Brand": "Brand 53",
+    "Capacity": 57,
+    "Mileage": 89500.25265681847
+  },
+  {
+    "Id": "dd5230f9-fdc7-4bc3-8f34-78155475a1fd",
+    "Brand": "Brand 30",
+    "Capacity": 35,
+    "Mileage": 94563.06865195575
+  },
+  {
+    "Id": "316a0301-987e-4793-9ca2-eb4561f0b73d",
+    "Brand": "Brand 46",
+    "Capacity": 23,
+    "Mileage": 97788.87186313444
+  },
+  {
+    "Id": "fe442bdf-69f3-4b0f-86b4-c67966be2626",
+    "Brand": "Brand 51",
+    "Capacity": 30,
+    "Mileage": 36982.549812503996
+  },
+  {
+    "Id": "6abbd58f-6179-4a57-8fdd-2d9ea9d2aa99",
+    "Brand": "Brand 98",
+    "Capacity": 33,
+    "Mileage": 51513.66263099526
+  },
+  {
+    "Id": "c645a2be-6d7b-4778-8b73-4e6d96b26255",
+    "Brand": "Brand 59",
+    "Capacity": 37,
+    "Mileage": 82709.76858568107
+  },
+  {
+    "Id": "101f35bd-d25b-48bb-84dd-89419fd259f5",
+    "Brand": "Brand 33",
+    "Capacity": 73,
+    "Mileage": 57189.574369949856
+  },
+  {
+    "Id": "da5b2686-864e-430d-91b7-613a73d5912e",
+    "Brand": "Brand 45",
+    "Capacity": 27,
+    "Mileage": 47520.61735434367
+  },
+  {
+    "Id": "2adfb594-fbd6-4c30-85eb-a758a844e54f",
+    "Brand": "Brand 39",
+    "Capacity": 66,
+    "Mileage": 26501.736695850886
+  },
+  {
+    "Id": "2b220d7d-c923-45e7-9966-7edadcfa3204",
+    "Brand": "Brand 83",
+    "Capacity": 25,
+    "Mileage": 54987.305577460946
+  },
+  {
+    "Id": "34681148-5632-471b-b953-1d1bbd3c30f2",
+    "Brand": "Brand 51",
+    "Capacity": 73,
+    "Mileage": 69137.60904954326
+  },
+  {
+    "Id": "75133b4a-74ab-4cec-9492-8d36ce1b95dd",
+    "Brand": "Brand 87",
+    "Capacity": 39,
+    "Mileage": 9975.593341151323
+  },
+  {
+    "Id": "f97bdad6-e448-4f70-9a2e-c7ab5341523f",
+    "Brand": "Brand 45",
+    "Capacity": 43,
+    "Mileage": 59409.02793124393
+  },
+  {
+    "Id": "b323cd13-f6a9-4c1b-ad02-6df9f4544327",
+    "Brand": "Brand 89",
+    "Capacity": 45,
+    "Mileage": 92141.65157551257
+  },
+  {
+    "Id": "80f076f0-9f8a-4f5e-a5aa-ead6955622d9",
+    "Brand": "Brand 21",
+    "Capacity": 34,
+    "Mileage": 71305.40745081895
+  },
+  {
+    "Id": "62b4bb1f-66de-4ea7-98f4-6bd9fe42bede",
+    "Brand": "Brand 48",
+    "Capacity": 28,
+    "Mileage": 73068.63002338541
+  },
+  {
+    "Id": "b00bd932-591d-4726-9fe4-ace2b7b363ba",
+    "Brand": "Brand 65",
+    "Capacity": 39,
+    "Mileage": 72715.13092715327
+  },
+  {
+    "Id": "65b53f92-45ca-4b0d-9d8e-b6a65c605452",
+    "Brand": "Brand 18",
+    "Capacity": 22,
+    "Mileage": 15184.703985518488
+  },
+  {
+    "Id": "232ebf28-86f1-4bd5-ac29-e43bba2bc0aa",
+    "Brand": "Brand 79",
+    "Capacity": 46,
+    "Mileage": 6000.295846085557
+  },
+  {
+    "Id": "b4cd4440-4529-4a3f-91f6-380ede0f4c73",
+    "Brand": "Brand 71",
+    "Capacity": 70,
+    "Mileage": 2315.014473077681
+  },
+  {
+    "Id": "8c8d6763-caa1-4faa-9a3e-d3c8383e7d24",
+    "Brand": "Brand 91",
+    "Capacity": 53,
+    "Mileage": 92762.92098545106
+  },
+  {
+    "Id": "e999e9b7-21a8-4adf-8043-95bbc52720a8",
+    "Brand": "Brand 41",
+    "Capacity": 26,
+    "Mileage": 93526.91562357715
+  },
+  {
+    "Id": "8e0c40e3-232c-4398-b1a7-bada5f16faf3",
+    "Brand": "Brand 48",
+    "Capacity": 64,
+    "Mileage": 18661.180986067604
+  },
+  {
+    "Id": "298db674-a57e-4ea4-ba27-7e6c68756b9f",
+    "Brand": "Brand 78",
+    "Capacity": 69,
+    "Mileage": 65198.52383161625
+  },
+  {
+    "Id": "1a6d8282-1c48-4df3-82f0-47d652a4abce",
+    "Brand": "Brand 44",
+    "Capacity": 24,
+    "Mileage": 98191.85555994116
+  },
+  {
+    "Id": "7d3d8b79-da40-4305-a829-7b51587fcc64",
+    "Brand": "Brand 98",
+    "Capacity": 62,
+    "Mileage": 84156.202866547
+  },
+  {
+    "Id": "08019c2c-43bd-4850-be32-fd16f256863d",
+    "Brand": "Brand 47",
+    "Capacity": 48,
+    "Mileage": 75433.60191827534
+  },
+  {
+    "Id": "f495daab-7d39-4d33-ad47-6b302362304b",
+    "Brand": "Brand 1",
+    "Capacity": 79,
+    "Mileage": 31349.58301627001
+  },
+  {
+    "Id": "67f84d35-1853-42fb-9519-797de18c3c51",
+    "Brand": "Brand 16",
+    "Capacity": 55,
+    "Mileage": 38039.69484730233
+  },
+  {
+    "Id": "39848432-4d25-471b-a264-7b8de06a019f",
+    "Brand": "Brand 24",
+    "Capacity": 50,
+    "Mileage": 99035.59487492155
+  },
+  {
+    "Id": "92221674-0f0b-4ac0-aa72-2126cf2b9a51",
+    "Brand": "Brand 72",
+    "Capacity": 40,
+    "Mileage": 4667.97309541328
+  },
+  {
+    "Id": "0fb07e99-a151-4370-9918-096953f85251",
+    "Brand": "Brand 20",
+    "Capacity": 28,
+    "Mileage": 55390.1298763613
+  },
+  {
+    "Id": "a2a0eff5-1365-4203-92c8-1e888805a43b",
+    "Brand": "Brand 42",
+    "Capacity": 39,
+    "Mileage": 60959.676783095994
+  },
+  {
+    "Id": "4bf56062-6132-43fd-8ab7-d5e215681a84",
+    "Brand": "Brand 76",
+    "Capacity": 50,
+    "Mileage": 66181.95463303404
+  },
+  {
+    "Id": "0ed723ec-6e2a-427f-b955-f80ff600754d",
+    "Brand": "Brand 94",
+    "Capacity": 41,
+    "Mileage": 76618.39598004131
+  },
+  {
+    "Id": "2d91323d-8f80-4a76-bdde-96e5b0b16b9d",
+    "Brand": "Brand 82",
+    "Capacity": 24,
+    "Mileage": 44817.262619119334
+  },
+  {
+    "Id": "6c8a92b1-f7a7-4d0c-a4c0-e7d5870e35f7",
+    "Brand": "Brand 58",
+    "Capacity": 76,
+    "Mileage": 25712.343046459686
+  },
+  {
+    "Id": "5071c0df-bd00-46cb-9367-a5358fde7385",
+    "Brand": "Brand 74",
+    "Capacity": 60,
+    "Mileage": 87182.01550604026
+  },
+  {
+    "Id": "b08ef4a7-bd9a-4d30-ad22-8ad01e412377",
+    "Brand": "Brand 75",
+    "Capacity": 47,
+    "Mileage": 94333.72465503571
+  },
+  {
+    "Id": "5497d4f4-1833-4de8-a596-1686d79d3ff2",
+    "Brand": "Brand 43",
+    "Capacity": 39,
+    "Mileage": 27791.68138117609
+  },
+  {
+    "Id": "99a0490a-1362-4e49-a31d-64a95abaad7c",
+    "Brand": "Brand 61",
+    "Capacity": 40,
+    "Mileage": 42999.902562269745
+  },
+  {
+    "Id": "24946837-f397-41db-b90b-34e875471632",
+    "Brand": "Brand 71",
+    "Capacity": 35,
+    "Mileage": 43598.53119664751
+  },
+  {
+    "Id": "cfad97c5-e8d5-4626-b3fe-2a9b28f3d706",
+    "Brand": "Brand 54",
+    "Capacity": 23,
+    "Mileage": 24018.894234129984
+  },
+  {
+    "Id": "cc63e87c-ce3a-4951-bf8d-8ecc5c99db14",
+    "Brand": "Brand 74",
+    "Capacity": 69,
+    "Mileage": 7853.3453932272405
+  },
+  {
+    "Id": "49c31d95-4f60-49ce-be45-3da28f91d468",
+    "Brand": "Brand 25",
+    "Capacity": 59,
+    "Mileage": 59053.17753908792
+  },
+  {
+    "Id": "c3c39f39-eccb-4c32-b9d4-3cb1b73ae446",
+    "Brand": "Brand 65",
+    "Capacity": 54,
+    "Mileage": 4861.814495072092
+  },
+  {
+    "Id": "7d2da03c-c03a-4cf2-a53b-dae9bc85e8bb",
+    "Brand": "Brand 70",
+    "Capacity": 65,
+    "Mileage": 44750.059616107166
+  },
+  {
+    "Id": "76a859b0-e93d-46aa-9c50-adfa7d7acb98",
+    "Brand": "Brand 70",
+    "Capacity": 41,
+    "Mileage": 23801.882237679405
+  },
+  {
+    "Id": "a7865f68-11f4-46de-bdec-1f781ecbed77",
+    "Brand": "Brand 58",
+    "Capacity": 56,
+    "Mileage": 32314.3951578442
+  },
+  {
+    "Id": "ffbc6fd7-70f3-4e17-a6c0-d6163fafd4c8",
+    "Brand": "Brand 18",
+    "Capacity": 38,
+    "Mileage": 49186.53729276746
+  },
+  {
+    "Id": "d4803873-e956-49f1-a3e8-b88c0ea2ed75",
+    "Brand": "Brand 18",
+    "Capacity": 78,
+    "Mileage": 83477.62179044061
+  },
+  {
+    "Id": "64bcf878-e2f7-4f74-bd27-cb97e0caf2cd",
+    "Brand": "Brand 96",
+    "Capacity": 75,
+    "Mileage": 96994.1948509295
+  },
+  {
+    "Id": "1c1ba34c-6c0f-4f0f-8f26-006771d8266f",
+    "Brand": "Brand 15",
+    "Capacity": 72,
+    "Mileage": 26065.863963749223
+  },
+  {
+    "Id": "9d0bdcf0-d15c-4a4d-95f8-17e6beb5da3e",
+    "Brand": "Brand 74",
+    "Capacity": 24,
+    "Mileage": 22157.221453621612
+  },
+  {
+    "Id": "de74e783-4322-470e-b550-15767b1901f6",
+    "Brand": "Brand 29",
+    "Capacity": 26,
+    "Mileage": 74111.73862986731
+  },
+  {
+    "Id": "05248025-0ff6-4076-a749-9a86359af206",
+    "Brand": "Brand 90",
+    "Capacity": 46,
+    "Mileage": 26549.1790390365
+  },
+  {
+    "Id": "10552377-821d-46b7-bbd6-9503eccaa11f",
+    "Brand": "Brand 70",
+    "Capacity": 48,
+    "Mileage": 43839.53608357373
+  },
+  {
+    "Id": "38f89dc7-8d87-444d-83ed-d41652237874",
+    "Brand": "Brand 32",
+    "Capacity": 21,
+    "Mileage": 20020.25163706631
+  },
+  {
+    "Id": "c4e17185-e4f3-4795-b338-93b0e6909c53",
+    "Brand": "Brand 14",
+    "Capacity": 28,
+    "Mileage": 33504.33623003739
+  },
+  {
+    "Id": "d20bb549-e02e-4ca0-b117-a7a02799c7fb",
+    "Brand": "Brand 60",
+    "Capacity": 67,
+    "Mileage": 26238.662827224067
+  },
+  {
+    "Id": "58b4349c-2805-4538-8ce5-558b51bf9865",
+    "Brand": "Brand 12",
+    "Capacity": 42,
+    "Mileage": 64789.60984905469
+  },
+  {
+    "Id": "3a9b4ee0-29bf-48cb-8c56-846382f0b27d",
+    "Brand": "Brand 80",
+    "Capacity": 73,
+    "Mileage": 77759.62405525042
+  },
+  {
+    "Id": "a816d721-b556-48a6-8e62-70e351fa5a1a",
+    "Brand": "Brand 74",
+    "Capacity": 72,
+    "Mileage": 60935.12941004122
+  },
+  {
+    "Id": "bb46b206-81c7-44ae-a99e-70da26f71394",
+    "Brand": "Brand 52",
+    "Capacity": 76,
+    "Mileage": 4517.496709882718
+  },
+  {
+    "Id": "a6147b52-4252-4e34-bf82-c3d9e99be810",
+    "Brand": "Brand 18",
+    "Capacity": 75,
+    "Mileage": 13673.569180993405
+  },
+  {
+    "Id": "086750bf-03f5-4b54-96d0-13fdf8695260",
+    "Brand": "Brand 97",
+    "Capacity": 44,
+    "Mileage": 61180.02535064835
+  },
+  {
+    "Id": "7d7e0df9-336f-4d5f-a274-8514b1921afa",
+    "Brand": "Brand 99",
+    "Capacity": 24,
+    "Mileage": 7620.196284153347
+  },
+  {
+    "Id": "1e3a718c-0dc6-4817-adc1-489e846a07d9",
+    "Brand": "Brand 60",
+    "Capacity": 51,
+    "Mileage": 69780.85183005228
+  },
+  {
+    "Id": "0df7371c-6ebd-4a28-b711-5475186e209c",
+    "Brand": "Brand 32",
+    "Capacity": 41,
+    "Mileage": 22115.84591923983
+  },
+  {
+    "Id": "04244d83-52b7-4056-b42e-17b6d2da7bb7",
+    "Brand": "Brand 10",
+    "Capacity": 50,
+    "Mileage": 69022.57413640173
+  },
+  {
+    "Id": "fd2a74ec-ba40-405d-8eb2-ee401222ad0c",
+    "Brand": "Brand 7",
+    "Capacity": 51,
+    "Mileage": 23802.459294884015
+  },
+  {
+    "Id": "4177fba1-115d-4cc2-aead-1c9f882839af",
+    "Brand": "Brand 90",
+    "Capacity": 62,
+    "Mileage": 23349.04002878967
+  },
+  {
+    "Id": "a7f4ef82-5542-4b01-8ab8-119f28cfd40e",
+    "Brand": "Brand 46",
+    "Capacity": 40,
+    "Mileage": 80624.08150797637
+  },
+  {
+    "Id": "a647781c-6fbd-47f2-9310-2fc00a45f5ed",
+    "Brand": "Brand 25",
+    "Capacity": 21,
+    "Mileage": 75093.85447570434
+  },
+  {
+    "Id": "0ab1f9a1-af3b-4e24-9065-5f7fb08775a8",
+    "Brand": "Brand 51",
+    "Capacity": 41,
+    "Mileage": 83703.00651962063
+  },
+  {
+    "Id": "7f995a16-3601-43fb-89d2-4c4b424b7324",
+    "Brand": "Brand 14",
+    "Capacity": 79,
+    "Mileage": 69527.07769691956
+  },
+  {
+    "Id": "4cb76b8b-8ba5-4198-8ae2-db0c67f63a12",
+    "Brand": "Brand 12",
+    "Capacity": 27,
+    "Mileage": 4141.194691584194
+  },
+  {
+    "Id": "6b312866-db01-4d95-9bac-6514f6f066a8",
+    "Brand": "Brand 76",
+    "Capacity": 38,
+    "Mileage": 17418.678716098024
+  },
+  {
+    "Id": "f92c4759-0fe5-4b86-84ac-f3e50ca92ea8",
+    "Brand": "Brand 96",
+    "Capacity": 79,
+    "Mileage": 9301.690366479032
+  },
+  {
+    "Id": "86cb9084-6d15-4887-a76e-e3a69bafde55",
+    "Brand": "Brand 76",
+    "Capacity": 46,
+    "Mileage": 45653.56552653012
+  },
+  {
+    "Id": "677d1841-9a16-4ddb-b899-9e994da597a4",
+    "Brand": "Brand 33",
+    "Capacity": 40,
+    "Mileage": 81606.53595131727
+  },
+  {
+    "Id": "c053d27e-ff31-4ca2-a214-b37ac0cff4a4",
+    "Brand": "Brand 84",
+    "Capacity": 78,
+    "Mileage": 61373.383221537726
+  },
+  {
+    "Id": "c3797a27-a0cc-440a-b11c-6a2b98cbda36",
+    "Brand": "Brand 25",
+    "Capacity": 64,
+    "Mileage": 43008.62516718936
+  },
+  {
+    "Id": "86faa14b-ff3c-4254-8436-f88d93fd8306",
+    "Brand": "Brand 5",
+    "Capacity": 64,
+    "Mileage": 67320.46823685888
+  },
+  {
+    "Id": "fb44d514-25b2-42b4-9d32-910cadb09380",
+    "Brand": "Brand 12",
+    "Capacity": 45,
+    "Mileage": 76122.79203316329
+  },
+  {
+    "Id": "9df96275-4eea-4ca1-b189-09fa1e12d725",
+    "Brand": "Brand 18",
+    "Capacity": 55,
+    "Mileage": 23824.97343916732
+  },
+  {
+    "Id": "766611cb-7ac2-433b-a08a-f3d346bd5f49",
+    "Brand": "Brand 20",
+    "Capacity": 53,
+    "Mileage": 57889.285705263894
+  },
+  {
+    "Id": "e8c23e0d-5a4e-48d3-958a-4b097fa533fd",
+    "Brand": "Brand 32",
+    "Capacity": 71,
+    "Mileage": 38727.89688640054
+  },
+  {
+    "Id": "af382e9b-bc04-4e8f-9ab3-a12d07d56a64",
+    "Brand": "Brand 31",
+    "Capacity": 76,
+    "Mileage": 29100.546270292994
+  },
+  {
+    "Id": "9b35e87c-4715-4627-b169-f9591f58724d",
+    "Brand": "Brand 15",
+    "Capacity": 70,
+    "Mileage": 44255.935821081286
+  },
+  {
+    "Id": "e7f7f0f2-2bd2-4626-a461-8737519d0485",
+    "Brand": "Brand 20",
+    "Capacity": 77,
+    "Mileage": 17907.17286056328
+  },
+  {
+    "Id": "1e9e4199-66a9-4275-8a50-8be394c8ee22",
+    "Brand": "Brand 13",
+    "Capacity": 40,
+    "Mileage": 81764.54317318615
+  },
+  {
+    "Id": "3f9b61d0-09df-44ac-b3b5-cb91874ba4ec",
+    "Brand": "Brand 81",
+    "Capacity": 27,
+    "Mileage": 26544.1725497684
+  },
+  {
+    "Id": "0ab69c2e-9c65-4394-a829-7d8a17302a69",
+    "Brand": "Brand 77",
+    "Capacity": 78,
+    "Mileage": 13262.918363511933
+  },
+  {
+    "Id": "70752245-a222-490e-a194-0555d7bf21d2",
+    "Brand": "Brand 5",
+    "Capacity": 26,
+    "Mileage": 55995.817003198186
+  },
+  {
+    "Id": "7d3855ed-9d96-4047-aa57-3ef72bc1e9d5",
+    "Brand": "Brand 20",
+    "Capacity": 57,
+    "Mileage": 48978.30107597983
+  },
+  {
+    "Id": "58afc055-26ce-4051-a652-b24676f446d6",
+    "Brand": "Brand 42",
+    "Capacity": 66,
+    "Mileage": 71650.39777551881
+  },
+  {
+    "Id": "f3ca366a-898a-4014-ae3f-c1d8c481a5b0",
+    "Brand": "Brand 65",
+    "Capacity": 33,
+    "Mileage": 7120.8751013281835
+  },
+  {
+    "Id": "1b022326-831e-4c64-ad3b-b7dfdfb97673",
+    "Brand": "Brand 21",
+    "Capacity": 22,
+    "Mileage": 46460.93200652478
+  },
+  {
+    "Id": "333ab640-e3d1-46a4-9270-9b8ea4a9a8bf",
+    "Brand": "Brand 54",
+    "Capacity": 45,
+    "Mileage": 56672.32749856972
+  },
+  {
+    "Id": "f72f51b6-7f33-4b8d-8139-3e5351db80f9",
+    "Brand": "Brand 80",
+    "Capacity": 68,
+    "Mileage": 65424.48200814005
+  },
+  {
+    "Id": "c92ed90f-c064-4956-92e1-521c2b5e2caa",
+    "Brand": "Brand 11",
+    "Capacity": 53,
+    "Mileage": 67254.84986835111
+  },
+  {
+    "Id": "f7c6b288-6e2c-4d9a-92d4-ebe60c5ab7de",
+    "Brand": "Brand 20",
+    "Capacity": 54,
+    "Mileage": 5109.922071124195
+  },
+  {
+    "Id": "70a0967f-96af-4a12-afd2-b7c298a45538",
+    "Brand": "Brand 3",
+    "Capacity": 54,
+    "Mileage": 46020.15908110923
+  },
+  {
+    "Id": "65ee2774-5945-4d1b-84eb-6915631ad07d",
+    "Brand": "Brand 20",
+    "Capacity": 57,
+    "Mileage": 51065.38986524141
+  },
+  {
+    "Id": "d42ed236-4e97-494f-b585-e0e4b6be9120",
+    "Brand": "Brand 43",
+    "Capacity": 60,
+    "Mileage": 26486.464353549876
+  },
+  {
+    "Id": "aec17f6c-9683-461b-abcd-a26e82a2d452",
+    "Brand": "Brand 7",
+    "Capacity": 71,
+    "Mileage": 40846.5989178437
+  },
+  {
+    "Id": "985d410e-c683-45aa-8e6e-0222859a24c8",
+    "Brand": "Brand 94",
+    "Capacity": 47,
+    "Mileage": 89456.25593266223
+  },
+  {
+    "Id": "3abc2ea1-083e-432b-ab6d-bb487eb911d7",
+    "Brand": "Brand 65",
+    "Capacity": 47,
+    "Mileage": 82978.72924272947
+  },
+  {
+    "Id": "e9c5a7d6-841d-4630-b016-dfa89350213d",
+    "Brand": "Brand 25",
+    "Capacity": 25,
+    "Mileage": 74454.6546292813
+  },
+  {
+    "Id": "8c8284f6-9600-4c78-887b-50132577b232",
+    "Brand": "Brand 44",
+    "Capacity": 59,
+    "Mileage": 42670.95711745314
+  },
+  {
+    "Id": "36ee889b-f336-4370-b704-e1f77bfaa340",
+    "Brand": "Brand 7",
+    "Capacity": 37,
+    "Mileage": 80702.6836609618
+  },
+  {
+    "Id": "a661fce3-cbbd-4de6-a281-0e1b71d8814e",
+    "Brand": "Brand 96",
+    "Capacity": 77,
+    "Mileage": 10647.344281842785
+  },
+  {
+    "Id": "480e8a23-2c30-487c-9e7c-fb8a3d57cd86",
+    "Brand": "Brand 34",
+    "Capacity": 39,
+    "Mileage": 14374.785026698812
+  },
+  {
+    "Id": "2159e40d-7f54-41ba-900e-7ab1a83b26d2",
+    "Brand": "Brand 47",
+    "Capacity": 31,
+    "Mileage": 31040.744250660613
+  },
+  {
+    "Id": "d8f72d76-11d9-49d0-a5e6-60163dd49d47",
+    "Brand": "Brand 86",
+    "Capacity": 54,
+    "Mileage": 69282.97574680147
+  },
+  {
+    "Id": "0750f6a0-292d-4fd1-9a39-19fae1cfa860",
+    "Brand": "Brand 37",
+    "Capacity": 39,
+    "Mileage": 67006.05416552427
+  },
+  {
+    "Id": "e224e846-6124-4963-bbaf-ff63f9d331ba",
+    "Brand": "Brand 52",
+    "Capacity": 75,
+    "Mileage": 88329.61103072866
+  },
+  {
+    "Id": "18cb12a0-d232-4412-a13d-9a746d5fb518",
+    "Brand": "Brand 6",
+    "Capacity": 26,
+    "Mileage": 39508.335503935676
+  },
+  {
+    "Id": "1bae1ef9-2459-41e3-9fd3-a56ce43c0a6d",
+    "Brand": "Brand 80",
+    "Capacity": 27,
+    "Mileage": 1157.676553159137
+  },
+  {
+    "Id": "59d512d4-445f-41cb-a4d5-0ee8b78bca4d",
+    "Brand": "Brand 36",
+    "Capacity": 48,
+    "Mileage": 68204.10675126023
+  },
+  {
+    "Id": "b43ce0ea-53c5-41a5-9436-108c654f369a",
+    "Brand": "Brand 51",
+    "Capacity": 29,
+    "Mileage": 20234.393672800597
+  },
+  {
+    "Id": "59cba0d2-df2d-442e-a384-b605eb57c06f",
+    "Brand": "Brand 5",
+    "Capacity": 77,
+    "Mileage": 13726.225319946518
+  },
+  {
+    "Id": "41c9fdfa-2d8f-48ab-b973-dcc553c44afe",
+    "Brand": "Brand 36",
+    "Capacity": 70,
+    "Mileage": 59692.93423374849
+  },
+  {
+    "Id": "6609ad23-f516-475f-a952-7b5d3cdb7f89",
+    "Brand": "Brand 56",
+    "Capacity": 20,
+    "Mileage": 28212.81917668901
+  },
+  {
+    "Id": "361dbb1e-3c92-404f-8da9-1b85e1d479cc",
+    "Brand": "Brand 24",
+    "Capacity": 75,
+    "Mileage": 48815.68831646052
+  },
+  {
+    "Id": "6f84dc8c-a987-4f94-b507-c2d4a0843d6a",
+    "Brand": "Brand 27",
+    "Capacity": 49,
+    "Mileage": 3826.677322488725
+  },
+  {
+    "Id": "acf3d7da-16db-4fd1-8262-0372371efee2",
+    "Brand": "Brand 23",
+    "Capacity": 70,
+    "Mileage": 46076.478860764284
+  },
+  {
+    "Id": "5eb1f3f9-b6c1-457e-a172-cbfc8908227b",
+    "Brand": "Brand 94",
+    "Capacity": 57,
+    "Mileage": 68842.87918253275
+  },
+  {
+    "Id": "c01030e7-f59e-480e-a40b-aec42108c833",
+    "Brand": "Brand 67",
+    "Capacity": 69,
+    "Mileage": 56276.10971460062
+  },
+  {
+    "Id": "220981be-513c-48f3-887d-9e7886e617a9",
+    "Brand": "Brand 46",
+    "Capacity": 22,
+    "Mileage": 19638.07299815743
+  },
+  {
+    "Id": "1964a7f7-1845-4d17-b4a3-b6809e0ecaa6",
+    "Brand": "Brand 76",
+    "Capacity": 78,
+    "Mileage": 9099.072796992035
+  },
+  {
+    "Id": "93eb53c9-6249-41b7-9707-4f0637e820f0",
+    "Brand": "Brand 62",
+    "Capacity": 73,
+    "Mileage": 18602.864831664534
+  },
+  {
+    "Id": "b8ef89cc-60f6-429c-a5a8-cfbad2892ddb",
+    "Brand": "Brand 34",
+    "Capacity": 78,
+    "Mileage": 5299.771381360186
+  },
+  {
+    "Id": "0047a067-826e-41d1-a0ba-aea6cbfa24b5",
+    "Brand": "Brand 4",
+    "Capacity": 67,
+    "Mileage": 45090.7554664172
+  },
+  {
+    "Id": "e222e18d-8c0e-4cda-82a1-c39f8898559c",
+    "Brand": "Brand 68",
+    "Capacity": 35,
+    "Mileage": 76597.45433752394
+  },
+  {
+    "Id": "bba11a84-7397-4f93-a153-9982967416a8",
+    "Brand": "Brand 92",
+    "Capacity": 59,
+    "Mileage": 4600.694192876431
+  },
+  {
+    "Id": "9d2d9fc2-b1f7-4aa4-b7ed-a3d3bc34987c",
+    "Brand": "Brand 43",
+    "Capacity": 40,
+    "Mileage": 43649.69315250165
+  },
+  {
+    "Id": "ebbe9a41-826a-44a7-885a-87a6f37bb524",
+    "Brand": "Brand 15",
+    "Capacity": 56,
+    "Mileage": 60542.68004294383
+  },
+  {
+    "Id": "f6b361da-3b8c-4877-a7af-796771e0eae3",
+    "Brand": "Brand 81",
+    "Capacity": 68,
+    "Mileage": 81286.18475794086
+  },
+  {
+    "Id": "522cab6c-5a04-4ac9-bcbf-16ad6a6a1a13",
+    "Brand": "Brand 14",
+    "Capacity": 27,
+    "Mileage": 81935.43454073004
+  },
+  {
+    "Id": "6de4cdf7-e7f4-4ab9-8223-2d16d530ec97",
+    "Brand": "Brand 67",
+    "Capacity": 59,
+    "Mileage": 44897.24043097422
+  },
+  {
+    "Id": "60d8b7d6-03ca-4bfa-a393-c504e5eacc48",
+    "Brand": "Brand 78",
+    "Capacity": 45,
+    "Mileage": 31715.737831856437
+  },
+  {
+    "Id": "2c95ce98-b8a1-4c65-b111-3a44f2ead47f",
+    "Brand": "Brand 8",
+    "Capacity": 57,
+    "Mileage": 48369.8558232472
+  },
+  {
+    "Id": "2c59b238-506b-48a0-8e3c-764b8fe900be",
+    "Brand": "Brand 92",
+    "Capacity": 32,
+    "Mileage": 10600.168734522409
+  },
+  {
+    "Id": "03850923-4a96-4548-9842-1f460f18d0f6",
+    "Brand": "Brand 5",
+    "Capacity": 57,
+    "Mileage": 37826.386601560844
+  },
+  {
+    "Id": "59c0f532-d7b6-4a6e-b8ed-59cf852b004a",
+    "Brand": "Brand 86",
+    "Capacity": 34,
+    "Mileage": 81886.24038719015
+  },
+  {
+    "Id": "4b0732d2-da55-4ca6-9147-2ed7593516db",
+    "Brand": "Brand 63",
+    "Capacity": 31,
+    "Mileage": 45337.43658680318
+  },
+  {
+    "Id": "13c1ec5e-297d-49f3-a21d-05c1da3aea9c",
+    "Brand": "Brand 48",
+    "Capacity": 25,
+    "Mileage": 28415.957773823364
+  },
+  {
+    "Id": "2dd9bd4b-ea68-4462-9638-abe005aa6962",
+    "Brand": "Brand 19",
+    "Capacity": 22,
+    "Mileage": 18545.320627292982
+  },
+  {
+    "Id": "0b5077c7-a33f-48bd-84d8-a1cf3164dfe5",
+    "Brand": "Brand 28",
+    "Capacity": 40,
+    "Mileage": 90209.85756569075
+  },
+  {
+    "Id": "2c6a789b-a888-4b8a-aa66-6bf7d007494a",
+    "Brand": "Brand 64",
+    "Capacity": 22,
+    "Mileage": 83074.6358341865
+  },
+  {
+    "Id": "c63de19d-3f2f-455e-9bfb-01424e2a146a",
+    "Brand": "Brand 33",
+    "Capacity": 40,
+    "Mileage": 24221.478010410046
+  },
+  {
+    "Id": "57a75285-6c58-4a58-b01b-79977f49670f",
+    "Brand": "Brand 61",
+    "Capacity": 45,
+    "Mileage": 77985.07413063926
+  },
+  {
+    "Id": "2dd15823-aca3-4891-94b6-183bbe7c5f32",
+    "Brand": "Brand 49",
+    "Capacity": 78,
+    "Mileage": 16276.09424648786
+  },
+  {
+    "Id": "ff558708-c8bd-4c41-8973-762290542661",
+    "Brand": "Brand 63",
+    "Capacity": 64,
+    "Mileage": 78869.0826891992
+  },
+  {
+    "Id": "893abf7c-a02b-418a-bee2-dbd8e345d37b",
+    "Brand": "Brand 46",
+    "Capacity": 65,
+    "Mileage": 90367.96139467187
+  },
+  {
+    "Id": "fd7c1189-f22a-4bc9-b057-564210a97a11",
+    "Brand": "Brand 79",
+    "Capacity": 41,
+    "Mileage": 18587.52622865909
+  },
+  {
+    "Id": "a312ac23-a67d-4914-ae26-9861a2f0009f",
+    "Brand": "Brand 75",
+    "Capacity": 53,
+    "Mileage": 50446.38139637159
+  },
+  {
+    "Id": "237e1ed0-9e56-4b6c-93a6-be0600346cd6",
+    "Brand": "Brand 44",
+    "Capacity": 55,
+    "Mileage": 23547.733922052816
+  },
+  {
+    "Id": "b0b7d817-5dbd-47a1-8ed6-06a44e003f49",
+    "Brand": "Brand 71",
+    "Capacity": 58,
+    "Mileage": 73369.27606909102
+  },
+  {
+    "Id": "0857abb4-34f8-483a-aa7c-6a134b9ef220",
+    "Brand": "Brand 63",
+    "Capacity": 32,
+    "Mileage": 3004.462574681621
+  },
+  {
+    "Id": "305ed2db-e894-4b99-bb0d-b45b93c877c2",
+    "Brand": "Brand 58",
+    "Capacity": 43,
+    "Mileage": 87052.13297646058
+  },
+  {
+    "Id": "ad751842-46ef-4721-9669-75beba566839",
+    "Brand": "Brand 49",
+    "Capacity": 77,
+    "Mileage": 5766.827721054291
+  },
+  {
+    "Id": "658a4c4e-c057-4cbc-ae23-33822853a27e",
+    "Brand": "Brand 87",
+    "Capacity": 49,
+    "Mileage": 60737.242386964965
+  },
+  {
+    "Id": "3df5bf91-feb2-46f6-92be-d0e292ada1c6",
+    "Brand": "Brand 97",
+    "Capacity": 68,
+    "Mileage": 63260.57272945475
+  },
+  {
+    "Id": "7d735f77-3dad-4f1d-a64d-590ca8b4a0dc",
+    "Brand": "Brand 74",
+    "Capacity": 66,
+    "Mileage": 48475.455422502666
+  },
+  {
+    "Id": "9dbc50a6-234f-4fb0-b633-930046882a6b",
+    "Brand": "Brand 98",
+    "Capacity": 35,
+    "Mileage": 58985.70099203356
+  },
+  {
+    "Id": "242946aa-38b8-4029-8b05-979de21eb3d7",
+    "Brand": "Brand 77",
+    "Capacity": 39,
+    "Mileage": 94580.88776629817
+  },
+  {
+    "Id": "fe0ce983-94e7-4980-80c9-38c2024995ef",
+    "Brand": "Brand 11",
+    "Capacity": 56,
+    "Mileage": 19619.8750612948
+  },
+  {
+    "Id": "ffbf4653-117d-4371-8637-4946e9bcdf35",
+    "Brand": "Brand 57",
+    "Capacity": 40,
+    "Mileage": 64534.676501043476
+  },
+  {
+    "Id": "16e6c7a1-6171-476d-adde-f06970e04303",
+    "Brand": "Brand 93",
+    "Capacity": 50,
+    "Mileage": 21002.14849563813
+  },
+  {
+    "Id": "85701cc3-4237-40c0-b0e9-7a734acb5432",
+    "Brand": "Brand 79",
+    "Capacity": 26,
+    "Mileage": 48620.44115443673
+  },
+  {
+    "Id": "64319901-aaac-4ace-8aad-533aced107ee",
+    "Brand": "Brand 14",
+    "Capacity": 72,
+    "Mileage": 74061.18375268491
+  },
+  {
+    "Id": "08e7d7f3-fbe6-4ec5-8d75-57a6cd6fd201",
+    "Brand": "Brand 64",
+    "Capacity": 50,
+    "Mileage": 3947.1863695361376
+  },
+  {
+    "Id": "6ad2f633-2e2a-4f9f-9260-a72be9919661",
+    "Brand": "Brand 99",
+    "Capacity": 67,
+    "Mileage": 39803.07744432635
+  },
+  {
+    "Id": "0ec6bba6-3bac-4905-a892-52985808b0e0",
+    "Brand": "Brand 52",
+    "Capacity": 61,
+    "Mileage": 33497.40530809554
+  },
+  {
+    "Id": "002965dc-f583-4bfd-99cb-7a32003b1ac7",
+    "Brand": "Brand 76",
+    "Capacity": 53,
+    "Mileage": 68932.79209229254
+  },
+  {
+    "Id": "8db713af-eac7-4751-8564-f1c41b201786",
+    "Brand": "Brand 43",
+    "Capacity": 29,
+    "Mileage": 44811.4889778558
+  },
+  {
+    "Id": "73cbddee-18a9-4ddf-bdaf-75416b70e2e1",
+    "Brand": "Brand 91",
+    "Capacity": 41,
+    "Mileage": 33943.28329708506
+  },
+  {
+    "Id": "e83a24cb-4f91-458d-9a7c-059e256e9125",
+    "Brand": "Brand 15",
+    "Capacity": 62,
+    "Mileage": 18845.884518986335
+  },
+  {
+    "Id": "a90f4a43-ac0e-4fde-98df-946a96d46a6a",
+    "Brand": "Brand 46",
+    "Capacity": 21,
+    "Mileage": 46410.9352094479
+  },
+  {
+    "Id": "e237aeda-313b-4f83-87b3-dfde77a8b3ec",
+    "Brand": "Brand 19",
+    "Capacity": 68,
+    "Mileage": 2629.432915948393
+  },
+  {
+    "Id": "7b0aaef3-01f3-4bef-83e2-c1e3177dfe41",
+    "Brand": "Brand 88",
+    "Capacity": 43,
+    "Mileage": 53548.37126140764
+  },
+  {
+    "Id": "c3b705ee-d5cf-4b61-bbfa-55aea2f8a8d6",
+    "Brand": "Brand 9",
+    "Capacity": 31,
+    "Mileage": 72729.28920740656
+  },
+  {
+    "Id": "63d8dc4e-7eef-488b-b857-0d7f7d7414c1",
+    "Brand": "Brand 61",
+    "Capacity": 76,
+    "Mileage": 70897.1298998375
+  },
+  {
+    "Id": "1bb1db4d-c99f-4e57-bf24-be4f5346c84f",
+    "Brand": "Brand 36",
+    "Capacity": 48,
+    "Mileage": 7963.131286355296
+  },
+  {
+    "Id": "87b58b47-cf9e-4f86-a7b3-464e41780a6e",
+    "Brand": "Brand 50",
+    "Capacity": 32,
+    "Mileage": 43222.868023226736
+  },
+  {
+    "Id": "eba137ca-f1dd-4239-80e9-23fed68b01dd",
+    "Brand": "Brand 58",
+    "Capacity": 51,
+    "Mileage": 46136.46232749901
+  },
+  {
+    "Id": "35dbc3b9-78ca-4339-a6ea-074e86d3cd00",
+    "Brand": "Brand 88",
+    "Capacity": 59,
+    "Mileage": 37818.56574393707
+  },
+  {
+    "Id": "2061fa3a-cade-4de6-89e8-877d15c555ee",
+    "Brand": "Brand 3",
+    "Capacity": 64,
+    "Mileage": 30411.907900873826
+  },
+  {
+    "Id": "ed8dddbd-b815-47ae-82c8-1cc12cdabe18",
+    "Brand": "Brand 88",
+    "Capacity": 39,
+    "Mileage": 81255.83781554057
+  },
+  {
+    "Id": "87c0565f-b638-4cb3-8e74-ecbd26743b4e",
+    "Brand": "Brand 88",
+    "Capacity": 61,
+    "Mileage": 32430.410525762454
+  },
+  {
+    "Id": "69e981f1-498c-4dad-a5b3-3d81df59c81a",
+    "Brand": "Brand 99",
+    "Capacity": 60,
+    "Mileage": 61442.34305499725
+  },
+  {
+    "Id": "1525e1b3-8cc7-45d4-87b7-7cc615e8d11b",
+    "Brand": "Brand 7",
+    "Capacity": 57,
+    "Mileage": 22261.008886527223
+  },
+  {
+    "Id": "9342e5c1-6c40-4f6d-8c0a-ec5b6325546d",
+    "Brand": "Brand 25",
+    "Capacity": 23,
+    "Mileage": 78746.08433955375
+  },
+  {
+    "Id": "44591763-c3d7-436f-856a-d5724de02f5c",
+    "Brand": "Brand 3",
+    "Capacity": 43,
+    "Mileage": 23650.539602014655
+  },
+  {
+    "Id": "a15aac8a-6bcb-4e98-aa88-ba53186cef96",
+    "Brand": "Brand 39",
+    "Capacity": 41,
+    "Mileage": 29372.260144318996
+  },
+  {
+    "Id": "0f500846-8d71-4948-ad3b-2caf85a43cca",
+    "Brand": "Brand 39",
+    "Capacity": 37,
+    "Mileage": 52023.91747636262
+  },
+  {
+    "Id": "75f11e74-7bde-430b-9964-80ecee47eab9",
+    "Brand": "Brand 37",
+    "Capacity": 79,
+    "Mileage": 70976.5760865651
+  },
+  {
+    "Id": "28f9a92d-d032-43db-af06-c2c3c45cb9ca",
+    "Brand": "Brand 20",
+    "Capacity": 33,
+    "Mileage": 67081.97389914466
+  },
+  {
+    "Id": "afb04b69-e526-41f7-8744-f86eea5f77a4",
+    "Brand": "Brand 74",
+    "Capacity": 58,
+    "Mileage": 17585.492991208772
+  },
+  {
+    "Id": "0d01ceb4-5f9b-41bb-896e-25155256aea3",
+    "Brand": "Brand 12",
+    "Capacity": 25,
+    "Mileage": 75379.76323375886
+  },
+  {
+    "Id": "7561e903-66d4-4bc6-a1f2-0747466682b3",
+    "Brand": "Brand 38",
+    "Capacity": 38,
+    "Mileage": 8340.444889151277
+  },
+  {
+    "Id": "e8ea4891-ab05-486a-aa4d-0cb78a11cafe",
+    "Brand": "Brand 61",
+    "Capacity": 59,
+    "Mileage": 19155.0058890427
+  },
+  {
+    "Id": "179985ce-2ae0-4579-9bdf-fa804ac802df",
+    "Brand": "Brand 95",
+    "Capacity": 58,
+    "Mileage": 87322.62927053697
+  },
+  {
+    "Id": "6005b141-2912-4136-9899-892baadd6da7",
+    "Brand": "Brand 24",
+    "Capacity": 39,
+    "Mileage": 29954.910630022856
+  },
+  {
+    "Id": "7e1d1fcb-eb45-4d8e-9588-b53b88e3ba2d",
+    "Brand": "Brand 5",
+    "Capacity": 36,
+    "Mileage": 91308.52652566136
+  },
+  {
+    "Id": "235b6c03-f635-4319-948e-398db611256e",
+    "Brand": "Brand 58",
+    "Capacity": 26,
+    "Mileage": 42783.08701092523
+  },
+  {
+    "Id": "3d398b00-bbc5-45be-af1a-134a651ccb02",
+    "Brand": "Brand 52",
+    "Capacity": 58,
+    "Mileage": 76482.85659942125
+  },
+  {
+    "Id": "ed7faf83-ddda-4044-8c90-24b86cc1e203",
+    "Brand": "Brand 38",
+    "Capacity": 49,
+    "Mileage": 25249.432417284344
+  },
+  {
+    "Id": "3cd827f1-0ae2-46b2-8365-ce15b6541cb8",
+    "Brand": "Brand 28",
+    "Capacity": 71,
+    "Mileage": 31868.431981046975
+  },
+  {
+    "Id": "d87f3898-7811-4056-b363-ff5026fe8e6b",
+    "Brand": "Brand 25",
+    "Capacity": 68,
+    "Mileage": 52514.74414940624
+  },
+  {
+    "Id": "e9140eef-9390-4db7-af03-daec98841dd2",
+    "Brand": "Brand 37",
+    "Capacity": 35,
+    "Mileage": 56154.75825754912
+  },
+  {
+    "Id": "913e3321-4bef-4985-9012-bb335c57bb1e",
+    "Brand": "Brand 16",
+    "Capacity": 32,
+    "Mileage": 24230.48643881266
+  },
+  {
+    "Id": "9bf0683b-186a-4628-a49b-445944dd587e",
+    "Brand": "Brand 39",
+    "Capacity": 34,
+    "Mileage": 5859.4101450252565
+  },
+  {
+    "Id": "c85ff39f-2919-4ce4-9de0-fa5bb2db9f33",
+    "Brand": "Brand 6",
+    "Capacity": 47,
+    "Mileage": 56625.51080464662
+  },
+  {
+    "Id": "5b556937-f7c8-43a0-8ec2-f636fb443c38",
+    "Brand": "Brand 8",
+    "Capacity": 54,
+    "Mileage": 94530.47590124475
+  },
+  {
+    "Id": "01d4b0bf-bc9f-4ef2-81bf-fb01dc7e7c5d",
+    "Brand": "Brand 77",
+    "Capacity": 62,
+    "Mileage": 27124.97090848752
+  },
+  {
+    "Id": "fddad1c7-9b1d-4d03-b5c4-cfbf1686ed93",
+    "Brand": "Brand 58",
+    "Capacity": 71,
+    "Mileage": 48014.65824758352
+  },
+  {
+    "Id": "a91caf2e-9c63-464a-90d3-6524ae68fd4a",
+    "Brand": "Brand 85",
+    "Capacity": 62,
+    "Mileage": 58282.32135866604
+  },
+  {
+    "Id": "a59ebbcc-665b-41f1-af49-799b9a4d85c0",
+    "Brand": "Brand 16",
+    "Capacity": 50,
+    "Mileage": 81111.34785711717
+  },
+  {
+    "Id": "6c21bca1-144e-41e3-b5d6-e0da2acd7cbb",
+    "Brand": "Brand 37",
+    "Capacity": 32,
+    "Mileage": 60658.51053522918
+  },
+  {
+    "Id": "02d5d5bf-3a95-4777-a76d-69f6afd49c59",
+    "Brand": "Brand 80",
+    "Capacity": 35,
+    "Mileage": 88527.4919040965
+  },
+  {
+    "Id": "f429a394-af26-47ca-a3db-a3ca3f0d92f7",
+    "Brand": "Brand 22",
+    "Capacity": 31,
+    "Mileage": 16169.048977774226
+  },
+  {
+    "Id": "cdf32878-09da-4efc-9916-0d9f21e48f5b",
+    "Brand": "Brand 83",
+    "Capacity": 61,
+    "Mileage": 98595.19278915494
+  },
+  {
+    "Id": "1c49e7f3-c52e-4f3e-8279-15beb8ee661f",
+    "Brand": "Brand 20",
+    "Capacity": 28,
+    "Mileage": 5592.828473752842
+  },
+  {
+    "Id": "2f56e2c4-94e3-4a81-ac14-2d68f55a4829",
+    "Brand": "Brand 97",
+    "Capacity": 50,
+    "Mileage": 15466.57176889904
+  },
+  {
+    "Id": "46d12c6f-3343-4d0a-81b1-0dc24402402f",
+    "Brand": "Brand 35",
+    "Capacity": 66,
+    "Mileage": 124.69901116660687
+  },
+  {
+    "Id": "99aa92ba-9269-46f3-9cb6-0ed4ceccd7e7",
+    "Brand": "Brand 48",
+    "Capacity": 68,
+    "Mileage": 17266.891512656857
+  },
+  {
+    "Id": "66330a88-3fc9-4776-a99e-f3d9a763bd49",
+    "Brand": "Brand 94",
+    "Capacity": 59,
+    "Mileage": 22272.886686848993
+  },
+  {
+    "Id": "ae6fb3b3-e15d-457e-88e7-85e98a0da7a5",
+    "Brand": "Brand 30",
+    "Capacity": 67,
+    "Mileage": 66730.767197663
+  },
+  {
+    "Id": "f70ef5ff-3130-4679-9cb5-1e152e0db2b4",
+    "Brand": "Brand 19",
+    "Capacity": 47,
+    "Mileage": 37810.895552131675
+  },
+  {
+    "Id": "9d03766c-1679-43c9-8489-235ed409981c",
+    "Brand": "Brand 52",
+    "Capacity": 78,
+    "Mileage": 42469.96994310974
+  },
+  {
+    "Id": "a826c269-3791-45d1-9e44-4221e1aa79aa",
+    "Brand": "Brand 23",
+    "Capacity": 52,
+    "Mileage": 76705.93504726789
+  },
+  {
+    "Id": "6f068251-854f-454d-b72e-71e5fdd4a175",
+    "Brand": "Brand 90",
+    "Capacity": 64,
+    "Mileage": 92482.63029349942
+  },
+  {
+    "Id": "bccdd4f8-7a5f-4e48-9a7c-3c9a1ae9313b",
+    "Brand": "Brand 21",
+    "Capacity": 39,
+    "Mileage": 1198.8053311565939
+  },
+  {
+    "Id": "128f501d-2226-4c82-912a-fdee43bf3db1",
+    "Brand": "Brand 28",
+    "Capacity": 34,
+    "Mileage": 93602.3430838401
+  },
+  {
+    "Id": "5b631bd8-57fa-4cd0-8f7a-d859a779684b",
+    "Brand": "Brand 21",
+    "Capacity": 27,
+    "Mileage": 79079.97597239279
+  },
+  {
+    "Id": "779005f4-3f0b-439e-8353-cacdbd3b1306",
+    "Brand": "Brand 94",
+    "Capacity": 58,
+    "Mileage": 34832.0098637389
+  },
+  {
+    "Id": "50a341e7-9d9d-4c3e-a7ee-15371399ef8b",
+    "Brand": "Brand 76",
+    "Capacity": 41,
+    "Mileage": 50162.08192642672
+  },
+  {
+    "Id": "6bc412ce-49a5-484c-9844-0d3fd0bb3d2d",
+    "Brand": "Brand 9",
+    "Capacity": 76,
+    "Mileage": 38801.35542125059
+  },
+  {
+    "Id": "af517800-5de9-4a4e-a578-333c1f787391",
+    "Brand": "Brand 65",
+    "Capacity": 33,
+    "Mileage": 86583.49691631254
+  },
+  {
+    "Id": "3c3124c7-c959-4112-b9af-bb033cb2b381",
+    "Brand": "Brand 47",
+    "Capacity": 63,
+    "Mileage": 18516.029700039693
+  },
+  {
+    "Id": "cc0ee233-65d4-4502-80bf-7fe8b3667100",
+    "Brand": "Brand 89",
+    "Capacity": 24,
+    "Mileage": 40074.25193621622
+  },
+  {
+    "Id": "7271e75d-fac4-4377-b45f-465bf2945071",
+    "Brand": "Brand 34",
+    "Capacity": 26,
+    "Mileage": 11068.55696223985
+  },
+  {
+    "Id": "c1dd6df1-4af7-40b0-a919-735b8a547afb",
+    "Brand": "Brand 32",
+    "Capacity": 66,
+    "Mileage": 21278.65128848889
+  },
+  {
+    "Id": "67398a95-a690-4772-a097-d454562a94ee",
+    "Brand": "Brand 84",
+    "Capacity": 39,
+    "Mileage": 93728.76461555109
+  },
+  {
+    "Id": "729b6024-c5a1-4031-9d32-05e40f7ae74e",
+    "Brand": "Brand 48",
+    "Capacity": 76,
+    "Mileage": 23972.688439970312
+  },
+  {
+    "Id": "1cd90374-52f7-4fc7-bfb7-6a5d9f254509",
+    "Brand": "Brand 39",
+    "Capacity": 24,
+    "Mileage": 25426.354497500935
+  },
+  {
+    "Id": "3821ea23-8b22-459a-a946-564562c17b8f",
+    "Brand": "Brand 77",
+    "Capacity": 39,
+    "Mileage": 47793.13620517108
+  },
+  {
+    "Id": "1f20ba11-a405-43bc-8570-1c7e80e21c14",
+    "Brand": "Brand 6",
+    "Capacity": 62,
+    "Mileage": 10683.469368207154
+  },
+  {
+    "Id": "50993570-8643-4270-aa8b-ad29fef435b7",
+    "Brand": "Brand 64",
+    "Capacity": 47,
+    "Mileage": 86049.45913198292
+  },
+  {
+    "Id": "2e8b4981-1df3-4c56-84f3-2207ebdba72a",
+    "Brand": "Brand 25",
+    "Capacity": 57,
+    "Mileage": 98705.05169441328
+  },
+  {
+    "Id": "1419f34a-39f2-470d-8ff5-cfc5bc3aa1c8",
+    "Brand": "Brand 34",
+    "Capacity": 38,
+    "Mileage": 61806.25810517534
+  },
+  {
+    "Id": "511970e7-292c-4862-a030-0c29adeac736",
+    "Brand": "Brand 89",
+    "Capacity": 73,
+    "Mileage": 60320.00965561172
+  },
+  {
+    "Id": "a8c77163-4d96-4089-8df4-f2b14512d90b",
+    "Brand": "Brand 32",
+    "Capacity": 36,
+    "Mileage": 34991.90417606939
+  },
+  {
+    "Id": "0aab18b4-f2da-4905-8828-ad763ff649de",
+    "Brand": "Brand 2",
+    "Capacity": 23,
+    "Mileage": 68842.19524067114
+  },
+  {
+    "Id": "d538d544-d0f7-48fa-bae8-c81f55fbc977",
+    "Brand": "Brand 35",
+    "Capacity": 53,
+    "Mileage": 899.940340807004
+  },
+  {
+    "Id": "06fd0892-101b-486d-890a-292cba39ef18",
+    "Brand": "Brand 51",
+    "Capacity": 56,
+    "Mileage": 37156.621641754085
+  },
+  {
+    "Id": "f0e2fe89-5b2b-41f7-9cea-6b16221af5e8",
+    "Brand": "Brand 3",
+    "Capacity": 63,
+    "Mileage": 55660.556167242044
+  },
+  {
+    "Id": "ca7c6000-bcac-4727-a319-73ecb7560a24",
+    "Brand": "Brand 98",
+    "Capacity": 37,
+    "Mileage": 14744.45266027985
+  },
+  {
+    "Id": "cf8d3db1-3476-47ad-898d-4f4396c06b01",
+    "Brand": "Brand 56",
+    "Capacity": 37,
+    "Mileage": 5632.503148531531
+  },
+  {
+    "Id": "5a7d1536-501f-4a24-8438-b3f534c15c1b",
+    "Brand": "Brand 59",
+    "Capacity": 52,
+    "Mileage": 91477.66114057753
+  },
+  {
+    "Id": "a9d90961-eae3-4e75-9bfc-fa243cbafcb7",
+    "Brand": "Brand 77",
+    "Capacity": 45,
+    "Mileage": 56182.50436130058
+  },
+  {
+    "Id": "0a9a5b5e-d61e-4764-acf0-e70469953c4c",
+    "Brand": "Brand 41",
+    "Capacity": 67,
+    "Mileage": 88942.56630681889
+  },
+  {
+    "Id": "3b2b0ae9-3d80-4c35-bd8e-42aed274365e",
+    "Brand": "Brand 43",
+    "Capacity": 53,
+    "Mileage": 90847.41418411206
+  },
+  {
+    "Id": "4d821bff-00a3-455b-a076-ff08864f211d",
+    "Brand": "Brand 91",
+    "Capacity": 71,
+    "Mileage": 64293.5394843199
+  },
+  {
+    "Id": "b9662d0e-b500-495c-854b-db825e5b30f9",
+    "Brand": "Brand 82",
+    "Capacity": 67,
+    "Mileage": 62515.314671320906
+  },
+  {
+    "Id": "a4bc8db2-d5ee-4edb-8e8e-5d6c45896396",
+    "Brand": "Brand 24",
+    "Capacity": 62,
+    "Mileage": 46332.69959476597
+  },
+  {
+    "Id": "a3b17b72-affc-4d18-8c69-07976caa161f",
+    "Brand": "Brand 54",
+    "Capacity": 21,
+    "Mileage": 62353.75465394871
+  },
+  {
+    "Id": "1f638aef-5491-4ae5-bfbf-794d75d56acd",
+    "Brand": "Brand 58",
+    "Capacity": 74,
+    "Mileage": 55283.24296885055
+  },
+  {
+    "Id": "089b6cca-60a2-4036-a15c-5efe548386c4",
+    "Brand": "Brand 70",
+    "Capacity": 26,
+    "Mileage": 7391.954766052478
+  },
+  {
+    "Id": "7ae6bada-71d3-4728-9080-bc499d1a311c",
+    "Brand": "Brand 67",
+    "Capacity": 40,
+    "Mileage": 82875.25012709151
+  },
+  {
+    "Id": "d66dcfda-f308-4310-a6e8-11e42a13ef4e",
+    "Brand": "Brand 25",
+    "Capacity": 47,
+    "Mileage": 33289.193631796756
+  },
+  {
+    "Id": "1abf6ab0-e5d5-4ebf-92e5-166c8ba18a40",
+    "Brand": "Brand 56",
+    "Capacity": 63,
+    "Mileage": 569.9454883777544
+  },
+  {
+    "Id": "018a8b59-8c50-4af6-8564-be90253d42f9",
+    "Brand": "Brand 87",
+    "Capacity": 79,
+    "Mileage": 70390.60199000304
+  },
+  {
+    "Id": "6bac9de4-80e5-4c8e-b7eb-beead8d7de36",
+    "Brand": "Brand 26",
+    "Capacity": 40,
+    "Mileage": 23898.51296548189
+  },
+  {
+    "Id": "0f53de39-7703-46f6-ad42-e3576b9e45b5",
+    "Brand": "Brand 77",
+    "Capacity": 70,
+    "Mileage": 78049.9848488445
+  },
+  {
+    "Id": "953929de-a4f4-4b1c-8ee1-9cc9a25f4ee1",
+    "Brand": "Brand 93",
+    "Capacity": 20,
+    "Mileage": 14087.978528351652
+  },
+  {
+    "Id": "6b19a2b0-8be8-4ac2-9a17-248d9cc6c856",
+    "Brand": "Brand 50",
+    "Capacity": 63,
+    "Mileage": 26254.03162150436
+  },
+  {
+    "Id": "fcba3a4b-a476-4016-9788-238e4b0c6f7f",
+    "Brand": "Brand 97",
+    "Capacity": 74,
+    "Mileage": 15490.060694613805
+  },
+  {
+    "Id": "7b924d45-2c7b-4884-9620-0d74551d4d71",
+    "Brand": "Brand 68",
+    "Capacity": 43,
+    "Mileage": 4403.983211536389
+  },
+  {
+    "Id": "737a4815-0468-46da-8737-0446496e902d",
+    "Brand": "Brand 66",
+    "Capacity": 55,
+    "Mileage": 32033.462789576683
+  },
+  {
+    "Id": "a1630cab-be43-4b37-ba23-2e092679282d",
+    "Brand": "Brand 37",
+    "Capacity": 46,
+    "Mileage": 67690.51498058646
+  },
+  {
+    "Id": "9f325c67-82d2-4b82-a6cc-1ed07b89cd5e",
+    "Brand": "Brand 73",
+    "Capacity": 56,
+    "Mileage": 69085.25179268385
+  },
+  {
+    "Id": "c5fb12d1-5f11-4d6e-9d11-5f3acf869ab1",
+    "Brand": "Brand 72",
+    "Capacity": 72,
+    "Mileage": 25019.760038738557
+  },
+  {
+    "Id": "8a40b7b2-5050-42bf-aca8-7c20581c31fe",
+    "Brand": "Brand 75",
+    "Capacity": 27,
+    "Mileage": 18906.304890302483
+  },
+  {
+    "Id": "a89ce958-e528-4eb7-9395-f73c2965d76c",
+    "Brand": "Brand 37",
+    "Capacity": 66,
+    "Mileage": 48904.634099877585
+  },
+  {
+    "Id": "553dcd92-6d10-4f3d-9fa3-f0b3429a4232",
+    "Brand": "Brand 93",
+    "Capacity": 32,
+    "Mileage": 81326.98110710499
+  },
+  {
+    "Id": "126bb7ef-c28d-4bd7-b817-64ee424fffd0",
+    "Brand": "Brand 85",
+    "Capacity": 29,
+    "Mileage": 43932.32012872303
+  },
+  {
+    "Id": "d7d1d48b-90fb-423a-a123-f27cc9effdd6",
+    "Brand": "Brand 9",
+    "Capacity": 29,
+    "Mileage": 79427.7070920231
+  },
+  {
+    "Id": "a30eb3bf-2f4f-4267-a47c-04c4e37be0af",
+    "Brand": "Brand 34",
+    "Capacity": 70,
+    "Mileage": 45308.14602761403
+  },
+  {
+    "Id": "0a362a2c-f13d-421b-80a2-c405b1d2e308",
+    "Brand": "Brand 65",
+    "Capacity": 47,
+    "Mileage": 24320.674975423593
+  },
+  {
+    "Id": "4b9907db-ab21-4802-a10f-0ce83600bcfd",
+    "Brand": "Brand 98",
+    "Capacity": 73,
+    "Mileage": 28214.03772515413
+  },
+  {
+    "Id": "d4360d80-6d6f-403e-ac00-432057d3b166",
+    "Brand": "Brand 19",
+    "Capacity": 25,
+    "Mileage": 1919.1328949496267
+  },
+  {
+    "Id": "ada2eb66-6a4d-4ae2-9549-f568a53cdbe2",
+    "Brand": "Brand 55",
+    "Capacity": 77,
+    "Mileage": 82255.9338122416
+  },
+  {
+    "Id": "223fabca-41c2-4363-abc2-b81e7e5455e4",
+    "Brand": "Brand 36",
+    "Capacity": 58,
+    "Mileage": 10533.636343960417
+  },
+  {
+    "Id": "b1565bc8-bcc5-4f9a-9cc7-18b8d7f1c319",
+    "Brand": "Brand 16",
+    "Capacity": 76,
+    "Mileage": 26926.284000697222
+  },
+  {
+    "Id": "eaca760d-9372-4a05-8836-1eb940aafa9e",
+    "Brand": "Brand 48",
+    "Capacity": 58,
+    "Mileage": 31027.976996459074
+  },
+  {
+    "Id": "1db0a666-dd43-4cd6-9575-980721fb36bc",
+    "Brand": "Brand 70",
+    "Capacity": 75,
+    "Mileage": 89808.55673778942
+  },
+  {
+    "Id": "a9115fd8-fe25-447a-889d-d92f9f5e956e",
+    "Brand": "Brand 44",
+    "Capacity": 65,
+    "Mileage": 99776.10291934438
+  },
+  {
+    "Id": "62da46a6-bc8a-4d23-9edb-3f02ad3a726b",
+    "Brand": "Brand 4",
+    "Capacity": 47,
+    "Mileage": 82648.76082531098
+  },
+  {
+    "Id": "b9e63e84-9af6-4a6a-abf5-bbaa834ac3f9",
+    "Brand": "Brand 26",
+    "Capacity": 44,
+    "Mileage": 34758.48220496475
+  },
+  {
+    "Id": "d6b2efb5-6987-4ab8-ae27-b140a9d85662",
+    "Brand": "Brand 36",
+    "Capacity": 31,
+    "Mileage": 97444.32241189157
+  },
+  {
+    "Id": "7d27553c-1643-49da-8865-d3fa3417740b",
+    "Brand": "Brand 23",
+    "Capacity": 79,
+    "Mileage": 40565.14387642294
+  },
+  {
+    "Id": "11de3c9a-1de2-4c29-9739-40620a25a735",
+    "Brand": "Brand 72",
+    "Capacity": 53,
+    "Mileage": 13115.017223967217
+  },
+  {
+    "Id": "3ec8e7d5-62f1-4c33-a650-4e01fb082dd4",
+    "Brand": "Brand 9",
+    "Capacity": 63,
+    "Mileage": 1597.3864235548363
+  },
+  {
+    "Id": "f4929559-ea56-427b-839a-8273eeb3fc69",
+    "Brand": "Brand 11",
+    "Capacity": 64,
+    "Mileage": 59106.78696618119
+  },
+  {
+    "Id": "d936255c-fbe9-487a-964e-059adf6ca9cb",
+    "Brand": "Brand 63",
+    "Capacity": 38,
+    "Mileage": 95498.82339041524
+  },
+  {
+    "Id": "18d0d460-af83-4e3a-80df-26da2d8b9786",
+    "Brand": "Brand 64",
+    "Capacity": 25,
+    "Mileage": 4512.026752212272
+  },
+  {
+    "Id": "7abadce6-7c47-400b-92b4-1c0e8f061816",
+    "Brand": "Brand 25",
+    "Capacity": 72,
+    "Mileage": 70431.34744248306
+  },
+  {
+    "Id": "f560e58b-124b-4a82-bdd9-7cd8c973a078",
+    "Brand": "Brand 63",
+    "Capacity": 41,
+    "Mileage": 99492.06547780681
+  },
+  {
+    "Id": "b02180a5-a036-4fb1-8533-231705d0176d",
+    "Brand": "Brand 43",
+    "Capacity": 43,
+    "Mileage": 32986.113969216305
+  },
+  {
+    "Id": "2d2359ed-6a90-4923-8c26-56bf8b51ec00",
+    "Brand": "Brand 37",
+    "Capacity": 20,
+    "Mileage": 56668.91298925826
+  },
+  {
+    "Id": "a3702bee-ff71-406b-946e-b307b31daa65",
+    "Brand": "Brand 31",
+    "Capacity": 59,
+    "Mileage": 5229.393498983659
+  },
+  {
+    "Id": "58e4b4b5-a75a-4d0c-b1fc-7e9331d03874",
+    "Brand": "Brand 25",
+    "Capacity": 77,
+    "Mileage": 19360.991697505713
+  },
+  {
+    "Id": "7c44d68c-a57f-470e-9eae-6e3b44d0017c",
+    "Brand": "Brand 41",
+    "Capacity": 73,
+    "Mileage": 29409.43314752066
+  },
+  {
+    "Id": "efb2d437-ba16-4612-b748-f60b1ab54af6",
+    "Brand": "Brand 94",
+    "Capacity": 77,
+    "Mileage": 31795.505318615913
+  },
+  {
+    "Id": "70eef6c3-3e8f-42b6-ab7a-1450ec2431d1",
+    "Brand": "Brand 92",
+    "Capacity": 63,
+    "Mileage": 2988.7936146945626
+  },
+  {
+    "Id": "b2122bd1-b546-4146-a1ee-0dee2255d0c0",
+    "Brand": "Brand 40",
+    "Capacity": 41,
+    "Mileage": 11920.046682183083
+  },
+  {
+    "Id": "7ced045a-82fc-411a-992e-e95ddff04318",
+    "Brand": "Brand 32",
+    "Capacity": 56,
+    "Mileage": 15782.512552430771
+  },
+  {
+    "Id": "4c49451f-a60c-4d06-a319-cb0e01c00f84",
+    "Brand": "Brand 61",
+    "Capacity": 76,
+    "Mileage": 19634.673559815197
+  },
+  {
+    "Id": "9c027f39-3ef3-4e45-99a8-46f53f3ae625",
+    "Brand": "Brand 36",
+    "Capacity": 73,
+    "Mileage": 45091.5221521258
+  },
+  {
+    "Id": "d42fba54-ef10-4541-9e21-799384281cd2",
+    "Brand": "Brand 34",
+    "Capacity": 61,
+    "Mileage": 18810.2401594349
+  },
+  {
+    "Id": "c458bbd5-2b4c-4f8d-937d-384701e3ed63",
+    "Brand": "Brand 38",
+    "Capacity": 25,
+    "Mileage": 53310.93730004643
+  },
+  {
+    "Id": "fa0bdb4c-90bd-41d3-8f50-a5919ba16f95",
+    "Brand": "Brand 24",
+    "Capacity": 52,
+    "Mileage": 65095.863879298246
+  },
+  {
+    "Id": "527df109-4334-418a-8ef0-ad9f5d33d9f9",
+    "Brand": "Brand 92",
+    "Capacity": 24,
+    "Mileage": 89024.01429878111
+  },
+  {
+    "Id": "6798b236-285c-4c11-bdaa-d65002bb81cd",
+    "Brand": "Brand 42",
+    "Capacity": 71,
+    "Mileage": 32911.74485140356
+  },
+  {
+    "Id": "2bbbd9a8-9970-48c9-9408-2c51037d4ee3",
+    "Brand": "Brand 18",
+    "Capacity": 76,
+    "Mileage": 63797.78813166009
+  },
+  {
+    "Id": "1348366c-aaae-4885-bcc8-1feb66bae4ee",
+    "Brand": "Brand 20",
+    "Capacity": 40,
+    "Mileage": 30663.245236068084
+  },
+  {
+    "Id": "717f32a4-d006-4981-8e23-1ebdc9d1fbdb",
+    "Brand": "Brand 50",
+    "Capacity": 22,
+    "Mileage": 71235.07636448802
+  },
+  {
+    "Id": "53fac922-f384-4c54-8c92-3eef5c44dc08",
+    "Brand": "Brand 60",
+    "Capacity": 65,
+    "Mileage": 97940.14232697934
+  },
+  {
+    "Id": "f70f2b7f-d58e-4300-b3c0-12157760c43d",
+    "Brand": "Brand 17",
+    "Capacity": 74,
+    "Mileage": 83325.40541100196
+  },
+  {
+    "Id": "7e956c33-35a7-483b-a3b3-00fce8b9fc5c",
+    "Brand": "Brand 99",
+    "Capacity": 27,
+    "Mileage": 42409.4386562013
+  },
+  {
+    "Id": "56bd95d3-98e0-4731-bc6d-48e2a23706cd",
+    "Brand": "Brand 36",
+    "Capacity": 30,
+    "Mileage": 20386.96589547956
+  },
+  {
+    "Id": "e61db748-d1e9-4131-97bd-4ad229fc0822",
+    "Brand": "Brand 3",
+    "Capacity": 34,
+    "Mileage": 59809.531745446286
+  },
+  {
+    "Id": "5634ec04-7cd0-4b29-898a-e19ac2111e53",
+    "Brand": "Brand 60",
+    "Capacity": 30,
+    "Mileage": 82071.00577606959
+  },
+  {
+    "Id": "ad669d13-cc46-4a04-b27b-14e28ac1e50a",
+    "Brand": "Brand 92",
+    "Capacity": 31,
+    "Mileage": 74035.45737315294
+  },
+  {
+    "Id": "461dfe0e-0a41-417f-914d-850844524380",
+    "Brand": "Brand 8",
+    "Capacity": 55,
+    "Mileage": 79174.11606320321
+  },
+  {
+    "Id": "0175a0e9-20a9-46ee-bed8-18637dc5897d",
+    "Brand": "Brand 21",
+    "Capacity": 60,
+    "Mileage": 50320.662449563235
+  },
+  {
+    "Id": "191af966-d3d0-49ee-96b5-a5cf3f42c0de",
+    "Brand": "Brand 61",
+    "Capacity": 77,
+    "Mileage": 96412.23179202274
+  },
+  {
+    "Id": "083365d2-ec27-4a64-9a90-a65d0bac10eb",
+    "Brand": "Brand 10",
+    "Capacity": 35,
+    "Mileage": 58969.32810585238
+  },
+  {
+    "Id": "476d9c85-fa4c-49ba-aaaa-8fbde17928f7",
+    "Brand": "Brand 73",
+    "Capacity": 25,
+    "Mileage": 34569.21366940804
+  },
+  {
+    "Id": "16367062-bb7a-4185-a1df-85d7a52140f0",
+    "Brand": "Brand 46",
+    "Capacity": 37,
+    "Mileage": 54394.638594114265
+  },
+  {
+    "Id": "5de2a914-6efb-4645-a819-e64f2603e2c5",
+    "Brand": "Brand 3",
+    "Capacity": 61,
+    "Mileage": 46447.63209816617
+  },
+  {
+    "Id": "cdbf95cb-7041-48d4-8486-29a522db0650",
+    "Brand": "Brand 63",
+    "Capacity": 72,
+    "Mileage": 66572.00629478965
+  },
+  {
+    "Id": "151e6775-d60b-48f9-af50-7bffede13d94",
+    "Brand": "Brand 43",
+    "Capacity": 68,
+    "Mileage": 33674.93892134924
+  },
+  {
+    "Id": "41ed2a57-75fc-4ea3-a3ec-c1ab3aee3376",
+    "Brand": "Brand 21",
+    "Capacity": 49,
+    "Mileage": 48646.79235987034
+  },
+  {
+    "Id": "ac788f6a-e17e-4776-b0cd-54740fcdb229",
+    "Brand": "Brand 91",
+    "Capacity": 24,
+    "Mileage": 82119.63649816725
+  },
+  {
+    "Id": "8260a2aa-2a14-48f0-80ae-bf5c11d00283",
+    "Brand": "Brand 26",
+    "Capacity": 74,
+    "Mileage": 25483.905353973656
+  },
+  {
+    "Id": "11cb6d64-6ddd-4104-a92f-b7537a3031a2",
+    "Brand": "Brand 4",
+    "Capacity": 49,
+    "Mileage": 56350.506568747674
+  },
+  {
+    "Id": "4ac596a9-1727-4068-82fc-1d21487315bd",
+    "Brand": "Brand 47",
+    "Capacity": 51,
+    "Mileage": 94811.17609470009
+  },
+  {
+    "Id": "bd14e715-4a34-4762-b02b-252060c6e9fc",
+    "Brand": "Brand 35",
+    "Capacity": 71,
+    "Mileage": 65426.45921462454
+  },
+  {
+    "Id": "94ecab36-3d62-4408-982f-056c6e9ccf8a",
+    "Brand": "Brand 26",
+    "Capacity": 44,
+    "Mileage": 59585.1020642998
+  },
+  {
+    "Id": "17f4cf3e-c2c2-4504-ba52-174ec6ec7667",
+    "Brand": "Brand 13",
+    "Capacity": 46,
+    "Mileage": 42913.028176675194
+  },
+  {
+    "Id": "49445e9e-090f-413c-a105-83475fe6333a",
+    "Brand": "Brand 86",
+    "Capacity": 57,
+    "Mileage": 54578.96646165954
+  },
+  {
+    "Id": "d3bc0e7a-4047-4e4c-95cb-6d3942b89ccd",
+    "Brand": "Brand 20",
+    "Capacity": 73,
+    "Mileage": 19150.15757889427
+  },
+  {
+    "Id": "c6cfd68b-c8a3-4184-9b77-41acadd390b1",
+    "Brand": "Brand 93",
+    "Capacity": 32,
+    "Mileage": 86702.91393060268
+  },
+  {
+    "Id": "18367f6d-ea35-40df-9312-8cc61144a851",
+    "Brand": "Brand 9",
+    "Capacity": 57,
+    "Mileage": 69494.95371517177
+  },
+  {
+    "Id": "e1386846-ceaa-4471-9a93-73e813cec86f",
+    "Brand": "Brand 58",
+    "Capacity": 27,
+    "Mileage": 48668.44182914045
+  },
+  {
+    "Id": "972a400d-9326-444d-85b6-62abf63db4bc",
+    "Brand": "Brand 29",
+    "Capacity": 45,
+    "Mileage": 93166.99532727
+  },
+  {
+    "Id": "daa1123d-d85d-4d3d-b88f-0dfcfeebd5a0",
+    "Brand": "Brand 24",
+    "Capacity": 77,
+    "Mileage": 40431.30193555962
+  },
+  {
+    "Id": "dddea246-5b6d-43cf-a62e-09456ebf9533",
+    "Brand": "Brand 51",
+    "Capacity": 47,
+    "Mileage": 59421.837767475336
+  },
+  {
+    "Id": "e040b682-d8fb-45eb-b948-b8c91d3eab3c",
+    "Brand": "Brand 65",
+    "Capacity": 58,
+    "Mileage": 7548.93650573063
+  },
+  {
+    "Id": "2390c79b-7d01-4f68-ab26-3a0ce4a25b76",
+    "Brand": "Brand 25",
+    "Capacity": 61,
+    "Mileage": 87849.84164142267
+  },
+  {
+    "Id": "bee1afde-9875-424f-a3a0-cc0acf46f6d9",
+    "Brand": "Brand 24",
+    "Capacity": 37,
+    "Mileage": 18592.41593900979
+  },
+  {
+    "Id": "cf367dc2-e627-479f-9b4d-758d1a6c1607",
+    "Brand": "Brand 81",
+    "Capacity": 28,
+    "Mileage": 56269.519818155975
+  },
+  {
+    "Id": "f27c85dc-20ba-4b10-aa33-c8f3a0fe4471",
+    "Brand": "Brand 39",
+    "Capacity": 78,
+    "Mileage": 84965.19105829236
+  },
+  {
+    "Id": "7fa07359-466f-4eef-87fb-6043ca173757",
+    "Brand": "Brand 60",
+    "Capacity": 38,
+    "Mileage": 99353.47762669947
+  },
+  {
+    "Id": "cfe722c8-a77c-47a5-b416-de4c9faadb62",
+    "Brand": "Brand 66",
+    "Capacity": 48,
+    "Mileage": 76705.43534428113
+  },
+  {
+    "Id": "c8da6bea-701a-409c-ac83-7d10e5815924",
+    "Brand": "Brand 69",
+    "Capacity": 41,
+    "Mileage": 25743.987808421152
+  },
+  {
+    "Id": "70d189bc-0015-418a-bb69-ccc03201c1a0",
+    "Brand": "Brand 60",
+    "Capacity": 28,
+    "Mileage": 31640.39063006915
+  },
+  {
+    "Id": "9d5d50db-6cce-4cb0-a530-256e032f631d",
+    "Brand": "Brand 30",
+    "Capacity": 61,
+    "Mileage": 34086.28372711878
+  },
+  {
+    "Id": "8b43b902-d245-4e88-8f40-57e220a7d231",
+    "Brand": "Brand 95",
+    "Capacity": 77,
+    "Mileage": 93723.26524489824
+  },
+  {
+    "Id": "f89e618d-c4c1-44ea-85b4-19ff2d84bf22",
+    "Brand": "Brand 93",
+    "Capacity": 71,
+    "Mileage": 83112.36807124091
+  },
+  {
+    "Id": "a3a48b93-c3a6-4d17-a9f9-18d0c493b58d",
+    "Brand": "Brand 88",
+    "Capacity": 63,
+    "Mileage": 27924.5978352781
+  },
+  {
+    "Id": "9e5b71dd-4cee-4e20-83e4-6105a55db5d9",
+    "Brand": "Brand 61",
+    "Capacity": 54,
+    "Mileage": 71213.82306379825
+  },
+  {
+    "Id": "96213ba1-1281-418f-b8e7-427f7142dbb4",
+    "Brand": "Brand 42",
+    "Capacity": 61,
+    "Mileage": 42405.09725764326
+  },
+  {
+    "Id": "40f1b5f5-b955-4208-ac20-b364fc913dc6",
+    "Brand": "Brand 43",
+    "Capacity": 33,
+    "Mileage": 18579.50385134123
+  },
+  {
+    "Id": "9b3f81d4-209d-46e9-b029-79c00b7ad254",
+    "Brand": "Brand 75",
+    "Capacity": 60,
+    "Mileage": 32199.19503221953
+  },
+  {
+    "Id": "7b359ce1-ae45-448f-8ec9-72f6f4def88d",
+    "Brand": "Brand 98",
+    "Capacity": 30,
+    "Mileage": 8385.957606087502
+  },
+  {
+    "Id": "4833fb13-49f8-41d6-b21e-0ebe009fd481",
+    "Brand": "Brand 92",
+    "Capacity": 59,
+    "Mileage": 12546.850031985623
+  },
+  {
+    "Id": "4946cf76-d148-4905-a198-26bdf8a6ac40",
+    "Brand": "Brand 88",
+    "Capacity": 65,
+    "Mileage": 50928.9110480525
+  },
+  {
+    "Id": "77d178df-0795-4d55-adb1-3143a754fd27",
+    "Brand": "Brand 98",
+    "Capacity": 48,
+    "Mileage": 67523.1489885649
+  },
+  {
+    "Id": "98984dc0-2468-400b-b7c8-ebe2f2fd9b4c",
+    "Brand": "Brand 35",
+    "Capacity": 67,
+    "Mileage": 76967.12565362026
+  },
+  {
+    "Id": "6bc01d92-884c-4359-9117-b37969f90005",
+    "Brand": "Brand 43",
+    "Capacity": 49,
+    "Mileage": 60864.04546435241
+  },
+  {
+    "Id": "9d9671e6-6594-4e7f-964a-800bda9aa527",
+    "Brand": "Brand 30",
+    "Capacity": 44,
+    "Mileage": 58587.71275070583
+  },
+  {
+    "Id": "c992d524-445c-46b2-af81-bb7595691591",
+    "Brand": "Brand 85",
+    "Capacity": 49,
+    "Mileage": 38174.471309721805
+  },
+  {
+    "Id": "2f7c7a4c-0c75-4d5c-8c6e-38f6ccacaf0e",
+    "Brand": "Brand 57",
+    "Capacity": 48,
+    "Mileage": 50473.43892061179
+  },
+  {
+    "Id": "3efd03a4-453e-4b9b-aa53-8b56d1c80780",
+    "Brand": "Brand 54",
+    "Capacity": 33,
+    "Mileage": 62489.30325654558
+  },
+  {
+    "Id": "83dfa42d-8654-4b61-b8cf-73d0e6e0d24c",
+    "Brand": "Brand 70",
+    "Capacity": 68,
+    "Mileage": 12682.933446432033
+  },
+  {
+    "Id": "c7dba961-4baf-4090-9df2-4cd543816a59",
+    "Brand": "Brand 18",
+    "Capacity": 56,
+    "Mileage": 10282.947974879296
+  },
+  {
+    "Id": "0ab32c3f-0f6e-4b0a-8559-e97ac0f323c1",
+    "Brand": "Brand 36",
+    "Capacity": 73,
+    "Mileage": 38254.57613999085
+  },
+  {
+    "Id": "c606471c-f84c-481d-b247-08b4cd264af8",
+    "Brand": "Brand 41",
+    "Capacity": 60,
+    "Mileage": 79343.32127556643
+  },
+  {
+    "Id": "46e8adb9-ef73-4123-88c6-c49d34617eed",
+    "Brand": "Brand 35",
+    "Capacity": 29,
+    "Mileage": 71559.82641164701
+  },
+  {
+    "Id": "1c85e24d-415e-4504-a89c-149c7abada50",
+    "Brand": "Brand 22",
+    "Capacity": 56,
+    "Mileage": 7644.85415186944
+  },
+  {
+    "Id": "0211c0d4-16f2-4ff7-b30c-1e82d00521c4",
+    "Brand": "Brand 78",
+    "Capacity": 53,
+    "Mileage": 35012.726792589325
+  },
+  {
+    "Id": "8000a944-9441-4928-a517-490f27166afe",
+    "Brand": "Brand 55",
+    "Capacity": 42,
+    "Mileage": 70999.26018745052
+  },
+  {
+    "Id": "0efe4f6f-6c1e-400e-b24c-c12b8f8696cd",
+    "Brand": "Brand 44",
+    "Capacity": 44,
+    "Mileage": 33049.2558000132
+  },
+  {
+    "Id": "5c51f2cb-7233-4c60-b2aa-b645cc871b85",
+    "Brand": "Brand 74",
+    "Capacity": 37,
+    "Mileage": 30754.028963756275
+  },
+  {
+    "Id": "6df754f3-aff1-4706-8dcb-9ca1fa1c06e3",
+    "Brand": "Brand 73",
+    "Capacity": 67,
+    "Mileage": 49898.938267043035
+  },
+  {
+    "Id": "94b8a5ad-ed33-4a95-8af4-f6db135ed233",
+    "Brand": "Brand 85",
+    "Capacity": 48,
+    "Mileage": 13030.347078080418
+  },
+  {
+    "Id": "c801b563-76d5-4c62-ae0a-0b1d07b8056b",
+    "Brand": "Brand 55",
+    "Capacity": 54,
+    "Mileage": 10489.822815053718
+  },
+  {
+    "Id": "42f711d4-0e4d-4f50-9a19-8987d948ad16",
+    "Brand": "Brand 87",
+    "Capacity": 26,
+    "Mileage": 60417.2175987387
+  },
+  {
+    "Id": "2c8463c0-7e58-4ccb-80d5-68d703ced685",
+    "Brand": "Brand 59",
+    "Capacity": 24,
+    "Mileage": 17377.848621266712
+  },
+  {
+    "Id": "a930e609-5bd8-49e1-9646-b19ee81d6450",
+    "Brand": "Brand 91",
+    "Capacity": 71,
+    "Mileage": 87844.14822425783
+  },
+  {
+    "Id": "346365b3-d8d5-4d15-831a-b14b7b23ba0c",
+    "Brand": "Brand 36",
+    "Capacity": 43,
+    "Mileage": 52070.40200819871
+  },
+  {
+    "Id": "8ba5d125-2c0f-431d-a41b-379ed805b8fa",
+    "Brand": "Brand 41",
+    "Capacity": 76,
+    "Mileage": 21296.187267382284
+  },
+  {
+    "Id": "a47464fe-5358-4ece-8d63-5439f48804f2",
+    "Brand": "Brand 57",
+    "Capacity": 66,
+    "Mileage": 56081.90141126421
+  },
+  {
+    "Id": "701fe0d8-283f-4c9c-bee8-4899e443cf29",
+    "Brand": "Brand 32",
+    "Capacity": 32,
+    "Mileage": 48398.62216870856
+  },
+  {
+    "Id": "19648af4-5864-42f3-8645-cff2adff7f0f",
+    "Brand": "Brand 61",
+    "Capacity": 48,
+    "Mileage": 29889.485744577083
+  },
+  {
+    "Id": "56a17309-1bea-4814-9e2f-0024730b5657",
+    "Brand": "Brand 82",
+    "Capacity": 66,
+    "Mileage": 66842.80984179604
+  },
+  {
+    "Id": "000a95e8-5a49-423e-ab12-eb551c90512c",
+    "Brand": "Brand 89",
+    "Capacity": 44,
+    "Mileage": 67320.78571824287
+  },
+  {
+    "Id": "ab8d3e90-cf7c-4191-b1aa-57059fe4e262",
+    "Brand": "Brand 17",
+    "Capacity": 21,
+    "Mileage": 63186.68040492156
+  },
+  {
+    "Id": "e55accd1-1fb7-4506-b7f8-cf90e9284f50",
+    "Brand": "Brand 86",
+    "Capacity": 68,
+    "Mileage": 69880.52692961246
+  },
+  {
+    "Id": "b001f8e9-e3a1-4811-ae95-2b698dfe68a4",
+    "Brand": "Brand 64",
+    "Capacity": 58,
+    "Mileage": 27741.07352464902
+  },
+  {
+    "Id": "bb0cf6cf-58a4-453e-b08e-2d8a9db54271",
+    "Brand": "Brand 39",
+    "Capacity": 30,
+    "Mileage": 82943.42467286818
+  },
+  {
+    "Id": "978e33f5-2a6a-4a58-8803-d31ef7fca72f",
+    "Brand": "Brand 78",
+    "Capacity": 63,
+    "Mileage": 38734.29733578279
+  },
+  {
+    "Id": "36917d4b-ca69-46bd-b9b2-ae4934edc67d",
+    "Brand": "Brand 23",
+    "Capacity": 75,
+    "Mileage": 83918.18289386315
+  },
+  {
+    "Id": "cc64a5e1-2d99-4d96-85fd-b64bc5953486",
+    "Brand": "Brand 45",
+    "Capacity": 63,
+    "Mileage": 13529.41210748242
+  },
+  {
+    "Id": "f348ea6d-9cdf-44b9-b43c-e74b550470fd",
+    "Brand": "Brand 7",
+    "Capacity": 36,
+    "Mileage": 58134.47741638065
+  },
+  {
+    "Id": "30b7d98e-b552-4ab2-ba1e-f3d2ea2c1ec3",
+    "Brand": "Brand 75",
+    "Capacity": 65,
+    "Mileage": 32422.584060863755
+  },
+  {
+    "Id": "138eafc9-ce79-43dd-abb9-d294eb6bbc96",
+    "Brand": "Brand 26",
+    "Capacity": 39,
+    "Mileage": 2473.5652415641907
+  },
+  {
+    "Id": "f3d124e9-d314-472f-96d3-2bcc7ced5c0c",
+    "Brand": "Brand 16",
+    "Capacity": 76,
+    "Mileage": 3409.28713205878
+  },
+  {
+    "Id": "94046ffc-8f1a-4e90-a2e8-e1a39d6b3f9d",
+    "Brand": "Brand 58",
+    "Capacity": 40,
+    "Mileage": 47855.60364557525
+  },
+  {
+    "Id": "7ab7e452-64eb-4c2e-8791-378b083961f1",
+    "Brand": "Brand 57",
+    "Capacity": 33,
+    "Mileage": 54628.042043330584
+  },
+  {
+    "Id": "8f645f6c-2111-492b-8402-4667f3adf975",
+    "Brand": "Brand 99",
+    "Capacity": 76,
+    "Mileage": 75038.89643040707
+  },
+  {
+    "Id": "2e1186af-0105-463d-819a-d1db43cf8147",
+    "Brand": "Brand 37",
+    "Capacity": 63,
+    "Mileage": 49600.301154116314
+  },
+  {
+    "Id": "2bf6b652-f10e-4376-b886-60daddc760cd",
+    "Brand": "Brand 62",
+    "Capacity": 43,
+    "Mileage": 35754.04873839496
+  },
+  {
+    "Id": "b4bcddce-aea3-4910-bf2c-e82768737b57",
+    "Brand": "Brand 83",
+    "Capacity": 38,
+    "Mileage": 9840.39066674871
+  },
+  {
+    "Id": "b18e8220-7f25-41b0-bef5-06aadec63d9f",
+    "Brand": "Brand 98",
+    "Capacity": 68,
+    "Mileage": 94849.16848804917
+  },
+  {
+    "Id": "10f1bfb6-df50-46b7-800e-415494445a81",
+    "Brand": "Brand 38",
+    "Capacity": 25,
+    "Mileage": 9270.651068444091
+  },
+  {
+    "Id": "210a2a5e-5e43-4ec0-b7e2-2ed50b9527d9",
+    "Brand": "Brand 93",
+    "Capacity": 63,
+    "Mileage": 6260.068695086418
+  },
+  {
+    "Id": "e3b2725f-6a27-4144-aa9f-7f3ca2abd505",
+    "Brand": "Brand 15",
+    "Capacity": 72,
+    "Mileage": 34242.63840907792
+  },
+  {
+    "Id": "865e39ef-5608-4c81-bcc1-e284cb749e67",
+    "Brand": "Brand 31",
+    "Capacity": 35,
+    "Mileage": 19330.167401252173
+  },
+  {
+    "Id": "d0ce1e64-e7e1-44c5-a472-91a408c817c2",
+    "Brand": "Brand 36",
+    "Capacity": 74,
+    "Mileage": 77047.93806847288
+  },
+  {
+    "Id": "f8c2999b-ec3c-48be-91ae-7c3910fe0586",
+    "Brand": "Brand 85",
+    "Capacity": 39,
+    "Mileage": 59745.57153227054
+  },
+  {
+    "Id": "a4a3c615-4dd7-49fc-a531-88dbb7cb1824",
+    "Brand": "Brand 23",
+    "Capacity": 68,
+    "Mileage": 96231.03237356848
+  },
+  {
+    "Id": "e792793a-2bfd-4f23-9ac3-32a24716dc16",
+    "Brand": "Brand 41",
+    "Capacity": 56,
+    "Mileage": 80085.52708292607
+  },
+  {
+    "Id": "af5b754e-f98f-4013-bbf1-18d79530e609",
+    "Brand": "Brand 22",
+    "Capacity": 68,
+    "Mileage": 54914.34593467823
+  },
+  {
+    "Id": "8dafa4ee-96c9-4436-8755-0ecf3d0635b9",
+    "Brand": "Brand 53",
+    "Capacity": 21,
+    "Mileage": 80921.56879133773
+  },
+  {
+    "Id": "b25ca2e7-5f5b-41d9-9ff3-cb02a22c5b66",
+    "Brand": "Brand 68",
+    "Capacity": 38,
+    "Mileage": 99222.41913166363
+  },
+  {
+    "Id": "7f9b588f-68ca-4d84-b0ab-c17620aefe9a",
+    "Brand": "Brand 92",
+    "Capacity": 78,
+    "Mileage": 79117.32394191799
+  },
+  {
+    "Id": "9339062e-6958-4841-bdce-33e85794778a",
+    "Brand": "Brand 4",
+    "Capacity": 77,
+    "Mileage": 2570.884993307787
+  },
+  {
+    "Id": "f9844343-315b-460c-9573-e880bf0d05e5",
+    "Brand": "Brand 49",
+    "Capacity": 28,
+    "Mileage": 97199.41022180692
+  },
+  {
+    "Id": "2d57dea0-be7c-452e-9cb5-cae959feeca2",
+    "Brand": "Brand 43",
+    "Capacity": 46,
+    "Mileage": 9037.374926814635
+  },
+  {
+    "Id": "4b18091f-f986-444f-bb4f-acaf4406355c",
+    "Brand": "Brand 32",
+    "Capacity": 38,
+    "Mileage": 59556.12981828868
+  },
+  {
+    "Id": "5be43f44-02c0-4d56-82dc-fff976ef5958",
+    "Brand": "Brand 81",
+    "Capacity": 55,
+    "Mileage": 88850.29553348068
+  },
+  {
+    "Id": "1abacae8-930f-47ca-b524-a0af7eee0f6d",
+    "Brand": "Brand 99",
+    "Capacity": 73,
+    "Mileage": 40623.92196037928
+  },
+  {
+    "Id": "e46b67d6-4182-469d-a6dc-b2a12ac91873",
+    "Brand": "Brand 7",
+    "Capacity": 40,
+    "Mileage": 99057.20052139835
+  },
+  {
+    "Id": "29a6e38f-7546-4f79-b275-daf559b83acb",
+    "Brand": "Brand 94",
+    "Capacity": 23,
+    "Mileage": 83893.5747269059
+  },
+  {
+    "Id": "e0da2967-87e3-4842-828d-d518623f969c",
+    "Brand": "Brand 20",
+    "Capacity": 35,
+    "Mileage": 9079.981388071323
+  },
+  {
+    "Id": "288a59bf-8af1-4afc-97b2-b3a3c6303019",
+    "Brand": "Brand 33",
+    "Capacity": 31,
+    "Mileage": 34538.321378691726
+  },
+  {
+    "Id": "294ca4c7-63c1-474c-8ed1-36e65562f8c1",
+    "Brand": "Brand 51",
+    "Capacity": 69,
+    "Mileage": 94869.62614050796
+  },
+  {
+    "Id": "688b861d-e710-4f8e-b590-050766e105c6",
+    "Brand": "Brand 35",
+    "Capacity": 21,
+    "Mileage": 15827.68736489445
+  },
+  {
+    "Id": "094b8ab7-7c8a-48d7-b14d-48ad756e7205",
+    "Brand": "Brand 56",
+    "Capacity": 56,
+    "Mileage": 8072.765868452725
+  },
+  {
+    "Id": "6a6f5f8e-fbf8-41dc-bd85-b1ecd3b548f8",
+    "Brand": "Brand 12",
+    "Capacity": 29,
+    "Mileage": 79815.69287401893
+  },
+  {
+    "Id": "b9346170-8437-4139-b44d-a35fa592fe7d",
+    "Brand": "Brand 77",
+    "Capacity": 25,
+    "Mileage": 84975.85970092799
+  },
+  {
+    "Id": "60c08eab-7041-4aaa-b06b-b85475e72e55",
+    "Brand": "Brand 56",
+    "Capacity": 40,
+    "Mileage": 53468.60674558352
+  },
+  {
+    "Id": "0e5d6dd2-3bde-4bee-91f7-8b93e2805633",
+    "Brand": "Brand 20",
+    "Capacity": 58,
+    "Mileage": 76090.96664073494
+  },
+  {
+    "Id": "ef38f77a-e76f-4bc2-a52b-c21dde655031",
+    "Brand": "Brand 6",
+    "Capacity": 71,
+    "Mileage": 76725.23126910407
+  },
+  {
+    "Id": "9f863835-77fd-4ba7-b700-b8894969057e",
+    "Brand": "Brand 60",
+    "Capacity": 49,
+    "Mileage": 68650.03287752377
+  },
+  {
+    "Id": "4b486df3-3e96-485b-865f-e19be6b8929e",
+    "Brand": "Brand 84",
+    "Capacity": 50,
+    "Mileage": 40860.64076007494
+  },
+  {
+    "Id": "d462e22a-af3b-4507-826a-1010808c3d63",
+    "Brand": "Brand 59",
+    "Capacity": 34,
+    "Mileage": 472.51393513384477
+  },
+  {
+    "Id": "b7b4063c-9ee0-4856-acef-6193dbd20d75",
+    "Brand": "Brand 7",
+    "Capacity": 48,
+    "Mileage": 90724.2839342003
+  },
+  {
+    "Id": "f2725016-c9ef-40b8-8f20-d72d34f3e80a",
+    "Brand": "Brand 70",
+    "Capacity": 57,
+    "Mileage": 20327.302214026022
+  },
+  {
+    "Id": "89c9a5fc-b867-4856-9d5c-4272c7c3ebe2",
+    "Brand": "Brand 22",
+    "Capacity": 38,
+    "Mileage": 86007.24066079788
+  },
+  {
+    "Id": "8bad0e7b-64a1-466d-a4af-b5e304fdc925",
+    "Brand": "Brand 37",
+    "Capacity": 60,
+    "Mileage": 73451.32360956432
+  },
+  {
+    "Id": "adf1218c-c0bb-4033-8813-f4e94b66fe9c",
+    "Brand": "Brand 4",
+    "Capacity": 75,
+    "Mileage": 64889.19848631978
+  },
+  {
+    "Id": "a3fa3a23-612e-458d-9012-ee2856a1ff9a",
+    "Brand": "Brand 40",
+    "Capacity": 73,
+    "Mileage": 29240.873175207817
+  },
+  {
+    "Id": "6aed1868-46c3-451b-b2a8-e83aed9b8067",
+    "Brand": "Brand 32",
+    "Capacity": 32,
+    "Mileage": 50035.86832968401
+  },
+  {
+    "Id": "c1cb78c6-e492-4b75-895e-11ffd1d1126f",
+    "Brand": "Brand 44",
+    "Capacity": 76,
+    "Mileage": 96358.1608527129
+  },
+  {
+    "Id": "cae2a026-9a77-47a7-bc62-afa81a44574a",
+    "Brand": "Brand 25",
+    "Capacity": 37,
+    "Mileage": 59258.029877576846
+  },
+  {
+    "Id": "8bcb58ce-a0ab-4d4c-a8c4-0bec5f39eb72",
+    "Brand": "Brand 76",
+    "Capacity": 43,
+    "Mileage": 95408.54096593847
+  },
+  {
+    "Id": "8da7afdc-2369-4221-87de-9adca6df0cc1",
+    "Brand": "Brand 83",
+    "Capacity": 44,
+    "Mileage": 70440.06140024481
+  },
+  {
+    "Id": "0d597f88-113d-42b1-b7c6-11f2a6d4d841",
+    "Brand": "Brand 88",
+    "Capacity": 46,
+    "Mileage": 15089.827402910683
+  },
+  {
+    "Id": "49f00aae-2340-4326-b4eb-ba535cefa393",
+    "Brand": "Brand 22",
+    "Capacity": 30,
+    "Mileage": 95634.62814773124
+  },
+  {
+    "Id": "107f09ba-7a59-4676-b0f2-47320c96f201",
+    "Brand": "Brand 55",
+    "Capacity": 23,
+    "Mileage": 66610.06939703424
+  },
+  {
+    "Id": "32645697-5ac4-475d-8652-79ef53acc5db",
+    "Brand": "Brand 69",
+    "Capacity": 58,
+    "Mileage": 17783.61109536729
+  },
+  {
+    "Id": "5f2742f4-930e-48ce-8f33-9340f44d1e08",
+    "Brand": "Brand 38",
+    "Capacity": 38,
+    "Mileage": 80719.49540207162
+  },
+  {
+    "Id": "893fd0f2-38bf-459b-afd0-c48e01903887",
+    "Brand": "Brand 33",
+    "Capacity": 38,
+    "Mileage": 61353.92325620592
+  },
+  {
+    "Id": "6e2b42c6-fb2b-4a8f-b825-cf6f474e2550",
+    "Brand": "Brand 30",
+    "Capacity": 62,
+    "Mileage": 61565.046844404045
+  },
+  {
+    "Id": "d8b665e6-cd69-44f6-a83d-2e661f55633e",
+    "Brand": "Brand 43",
+    "Capacity": 41,
+    "Mileage": 97632.22173315313
+  },
+  {
+    "Id": "651d6826-502b-427f-afa2-98504e49762d",
+    "Brand": "Brand 2",
+    "Capacity": 54,
+    "Mileage": 81468.62770191635
+  },
+  {
+    "Id": "3acbfbdf-0ac0-474f-bc0c-fb2d0b9cba23",
+    "Brand": "Brand 14",
+    "Capacity": 73,
+    "Mileage": 18274.437972115087
+  },
+  {
+    "Id": "a714c1e2-4a0e-409d-889a-0a379d2f5f3a",
+    "Brand": "Brand 82",
+    "Capacity": 77,
+    "Mileage": 11211.410843316016
+  },
+  {
+    "Id": "ea1328bd-2fc9-4447-bbe7-4d698b927632",
+    "Brand": "Brand 73",
+    "Capacity": 59,
+    "Mileage": 19781.29520172718
+  },
+  {
+    "Id": "a3d9c02b-5ced-4ea8-9efb-5b0e2a161099",
+    "Brand": "Brand 62",
+    "Capacity": 74,
+    "Mileage": 26328.007612389636
+  },
+  {
+    "Id": "c1c69e86-babd-45ae-bbdf-625fe61e2045",
+    "Brand": "Brand 32",
+    "Capacity": 60,
+    "Mileage": 4370.580374374999
+  },
+  {
+    "Id": "c531f818-ac92-4899-92fe-35093136b530",
+    "Brand": "Brand 95",
+    "Capacity": 78,
+    "Mileage": 82351.20153176099
+  },
+  {
+    "Id": "a0107152-d2e0-40b8-a67f-a2c806fec42a",
+    "Brand": "Brand 26",
+    "Capacity": 65,
+    "Mileage": 3259.0303612907933
+  },
+  {
+    "Id": "8ea95309-8755-48c4-af0a-584f3af66ada",
+    "Brand": "Brand 49",
+    "Capacity": 61,
+    "Mileage": 38720.102823813926
+  },
+  {
+    "Id": "2418b398-e57c-4484-b24d-ed7a15f9a392",
+    "Brand": "Brand 76",
+    "Capacity": 25,
+    "Mileage": 51060.773784558274
+  },
+  {
+    "Id": "342c9eb0-8474-4dcc-a8cf-ae005af38013",
+    "Brand": "Brand 82",
+    "Capacity": 50,
+    "Mileage": 62157.06133610905
+  },
+  {
+    "Id": "5c0411cb-650d-4cdc-b722-f543b4cdf90d",
+    "Brand": "Brand 4",
+    "Capacity": 43,
+    "Mileage": 38291.77363479177
+  },
+  {
+    "Id": "6e492fc5-cdc9-465f-a950-63edb11c54fa",
+    "Brand": "Brand 37",
+    "Capacity": 46,
+    "Mileage": 93634.07963001844
+  },
+  {
+    "Id": "a6d14a83-3651-4e2c-bb90-f088b6164b25",
+    "Brand": "Brand 59",
+    "Capacity": 37,
+    "Mileage": 24070.191670448137
+  },
+  {
+    "Id": "ba0fd44d-3028-4f69-8be0-df34b6bbbc27",
+    "Brand": "Brand 92",
+    "Capacity": 70,
+    "Mileage": 64288.02106997904
+  },
+  {
+    "Id": "bec1bf9f-fb64-4395-aeef-bb88ff73b9d4",
+    "Brand": "Brand 75",
+    "Capacity": 33,
+    "Mileage": 67170.92622165167
+  },
+  {
+    "Id": "2be0204a-1c5b-47e7-a569-078431183eea",
+    "Brand": "Brand 1",
+    "Capacity": 37,
+    "Mileage": 18324.812822461223
+  },
+  {
+    "Id": "2a9ec01e-94ae-4ca9-8f66-6cd9a47dd4ff",
+    "Brand": "Brand 29",
+    "Capacity": 34,
+    "Mileage": 14232.621498975539
+  },
+  {
+    "Id": "73757d28-560a-40de-9274-0542d9906e36",
+    "Brand": "Brand 47",
+    "Capacity": 52,
+    "Mileage": 32840.90504219541
+  },
+  {
+    "Id": "54514658-9e22-4e16-9f92-5b6fd459cfe4",
+    "Brand": "Brand 88",
+    "Capacity": 39,
+    "Mileage": 70795.12412026282
+  },
+  {
+    "Id": "f9e92464-eb3a-4e2f-98b2-709577d6b75a",
+    "Brand": "Brand 79",
+    "Capacity": 25,
+    "Mileage": 49266.33691974964
+  },
+  {
+    "Id": "04013c21-9ba8-4cde-bdc8-ebec09b76a28",
+    "Brand": "Brand 29",
+    "Capacity": 49,
+    "Mileage": 29029.160417616127
+  },
+  {
+    "Id": "98076560-6889-4ffc-890b-6abb899a7fb5",
+    "Brand": "Brand 20",
+    "Capacity": 42,
+    "Mileage": 45605.490630804634
+  },
+  {
+    "Id": "137b4c95-d331-4afe-8d99-9fd94e3ac7f1",
+    "Brand": "Brand 14",
+    "Capacity": 21,
+    "Mileage": 46214.15028222732
+  },
+  {
+    "Id": "547535d6-071e-46c3-ba6c-d94bd7cad10d",
+    "Brand": "Brand 22",
+    "Capacity": 23,
+    "Mileage": 63873.68252919522
+  },
+  {
+    "Id": "ed886ced-be6f-4bbd-8d0b-29b9fa5aaed7",
+    "Brand": "Brand 49",
+    "Capacity": 65,
+    "Mileage": 13107.312583363373
+  },
+  {
+    "Id": "a43420cd-ea8d-49a8-a9c9-d5233ba4f0c2",
+    "Brand": "Brand 37",
+    "Capacity": 37,
+    "Mileage": 62115.703430922295
+  },
+  {
+    "Id": "b70745f7-8162-4a57-bbd3-4886b478cb7d",
+    "Brand": "Brand 69",
+    "Capacity": 75,
+    "Mileage": 90052.6913231984
+  },
+  {
+    "Id": "393dd9f5-7088-43c8-852b-e6654b93cb4c",
+    "Brand": "Brand 19",
+    "Capacity": 34,
+    "Mileage": 31557.00778363668
+  },
+  {
+    "Id": "5caacf8e-cf42-4647-bd98-9f0a9c25dc77",
+    "Brand": "Brand 9",
+    "Capacity": 28,
+    "Mileage": 98393.59086098695
+  },
+  {
+    "Id": "0a08cc7e-6c8a-428e-affe-773a2abed548",
+    "Brand": "Brand 92",
+    "Capacity": 34,
+    "Mileage": 35463.67499840655
+  },
+  {
+    "Id": "70dfa774-9848-437b-a3aa-099c330bae60",
+    "Brand": "Brand 64",
+    "Capacity": 58,
+    "Mileage": 16740.860295993974
+  },
+  {
+    "Id": "77fdc371-5e79-4017-9cf5-2b993f7d563f",
+    "Brand": "Brand 41",
+    "Capacity": 71,
+    "Mileage": 1068.3917015270051
+  },
+  {
+    "Id": "fff547d7-643c-47a1-ac74-adcc9571c3a3",
+    "Brand": "Brand 25",
+    "Capacity": 24,
+    "Mileage": 36884.08544334932
+  },
+  {
+    "Id": "1b8b8709-5af0-46f7-a306-42807e8e2170",
+    "Brand": "Brand 98",
+    "Capacity": 35,
+    "Mileage": 93807.91357638751
+  },
+  {
+    "Id": "437cc915-5bc4-466b-877e-cf3b8abac608",
+    "Brand": "Brand 30",
+    "Capacity": 74,
+    "Mileage": 6982.887971823137
+  },
+  {
+    "Id": "18b7052f-a56f-4aa1-a66b-44bb4fb982ac",
+    "Brand": "Brand 1",
+    "Capacity": 67,
+    "Mileage": 44211.7425835566
+  },
+  {
+    "Id": "8785b8af-b94a-4607-a103-0abb4bfaf034",
+    "Brand": "Brand 69",
+    "Capacity": 51,
+    "Mileage": 76433.99298535864
+  },
+  {
+    "Id": "e2b8d4a8-127f-403f-b375-cd4900c614b0",
+    "Brand": "Brand 36",
+    "Capacity": 50,
+    "Mileage": 73536.80963531224
+  },
+  {
+    "Id": "d2482eae-f8fa-4426-a544-b788ac4e2c13",
+    "Brand": "Brand 12",
+    "Capacity": 38,
+    "Mileage": 92204.39270753879
+  },
+  {
+    "Id": "9eb0c87f-61c2-4878-b9bd-da13ac94d3e8",
+    "Brand": "Brand 83",
+    "Capacity": 41,
+    "Mileage": 87764.7389340494
+  },
+  {
+    "Id": "31b5682e-ad9b-4695-a728-9312bbdeddf3",
+    "Brand": "Brand 64",
+    "Capacity": 70,
+    "Mileage": 20477.60744170962
+  },
+  {
+    "Id": "34196b67-9276-4ac7-97d5-09890a0aa2e4",
+    "Brand": "Brand 16",
+    "Capacity": 42,
+    "Mileage": 84936.15666403371
+  },
+  {
+    "Id": "9fce1d73-73ab-45f0-9eb5-28104fbfa8bd",
+    "Brand": "Brand 2",
+    "Capacity": 58,
+    "Mileage": 53638.62621376769
+  },
+  {
+    "Id": "fa2c2d53-0491-46ef-ae95-24008c3d9b7d",
+    "Brand": "Brand 33",
+    "Capacity": 36,
+    "Mileage": 40312.74165833587
+  },
+  {
+    "Id": "055223a4-35f7-46c6-9c9a-00e43477c537",
+    "Brand": "Brand 51",
+    "Capacity": 73,
+    "Mileage": 73006.63802414549
+  },
+  {
+    "Id": "5f87cc56-6efd-497d-8e95-4551e5d97309",
+    "Brand": "Brand 84",
+    "Capacity": 44,
+    "Mileage": 40939.49173168594
+  },
+  {
+    "Id": "c660d0b3-e2e7-4081-8320-c3e2027f47f2",
+    "Brand": "Brand 89",
+    "Capacity": 23,
+    "Mileage": 86569.97410700026
+  },
+  {
+    "Id": "f1f659b9-08f2-4078-8d4d-e8d848a26002",
+    "Brand": "Brand 78",
+    "Capacity": 26,
+    "Mileage": 30672.8384081004
+  },
+  {
+    "Id": "6d71f5a1-94df-4546-9522-5ce768f298d5",
+    "Brand": "Brand 24",
+    "Capacity": 30,
+    "Mileage": 7000.525618795527
+  },
+  {
+    "Id": "267e361c-7c51-4e2f-aff5-f5780f7e59b0",
+    "Brand": "Brand 16",
+    "Capacity": 46,
+    "Mileage": 91247.01503556935
+  },
+  {
+    "Id": "0e275268-38c1-4543-b155-4a11d586ce0b",
+    "Brand": "Brand 46",
+    "Capacity": 75,
+    "Mileage": 21094.406934824274
+  },
+  {
+    "Id": "708c889c-b6f4-4eb3-9381-8aefeef4d996",
+    "Brand": "Brand 36",
+    "Capacity": 53,
+    "Mileage": 57098.13124518401
+  },
+  {
+    "Id": "1e6ad75f-381a-4004-9078-2ed584008b8d",
+    "Brand": "Brand 23",
+    "Capacity": 41,
+    "Mileage": 89735.47363858818
+  },
+  {
+    "Id": "7335cc89-5adb-4e53-a6b8-9db7466a4009",
+    "Brand": "Brand 56",
+    "Capacity": 30,
+    "Mileage": 76510.82857884222
+  },
+  {
+    "Id": "89270bee-29f8-4313-b6ad-aed7b524eb6e",
+    "Brand": "Brand 44",
+    "Capacity": 67,
+    "Mileage": 19880.49225381161
+  },
+  {
+    "Id": "66a77e64-e1fe-4807-a1ec-0c7a3c16a230",
+    "Brand": "Brand 50",
+    "Capacity": 65,
+    "Mileage": 99667.60410843471
+  },
+  {
+    "Id": "3f8b78fa-9911-44e0-9349-f77effd979a4",
+    "Brand": "Brand 66",
+    "Capacity": 49,
+    "Mileage": 93870.20993118534
+  },
+  {
+    "Id": "db1ab0e1-dfa3-4608-b1a1-43c8e2e8a0d9",
+    "Brand": "Brand 99",
+    "Capacity": 43,
+    "Mileage": 64902.18280154161
+  },
+  {
+    "Id": "c092ec84-182c-4b59-80bc-c59579020b48",
+    "Brand": "Brand 58",
+    "Capacity": 75,
+    "Mileage": 71248.1053421395
+  },
+  {
+    "Id": "ae2ce96d-bee8-4343-a32f-331fef357a1a",
+    "Brand": "Brand 88",
+    "Capacity": 35,
+    "Mileage": 50005.6730468168
+  },
+  {
+    "Id": "435d1177-9ea9-4f49-8d2d-2d437d464ca0",
+    "Brand": "Brand 83",
+    "Capacity": 21,
+    "Mileage": 41626.72919162906
+  },
+  {
+    "Id": "ed5ac6e9-7696-488d-b250-12aac3f7d049",
+    "Brand": "Brand 46",
+    "Capacity": 21,
+    "Mileage": 63940.16870415956
+  },
+  {
+    "Id": "bcd2ba6a-42cd-4b60-8c0d-0d32646e6ffc",
+    "Brand": "Brand 93",
+    "Capacity": 51,
+    "Mileage": 75639.31359272695
+  },
+  {
+    "Id": "6feb3b8a-b634-4ca7-bb9a-dd9044c43018",
+    "Brand": "Brand 5",
+    "Capacity": 70,
+    "Mileage": 34540.47234813997
+  },
+  {
+    "Id": "ba653308-9304-4ee9-b789-36525c871320",
+    "Brand": "Brand 3",
+    "Capacity": 21,
+    "Mileage": 45759.42235158056
+  },
+  {
+    "Id": "a8ffe251-d6d0-41a7-b958-e071ab8c5a0f",
+    "Brand": "Brand 84",
+    "Capacity": 52,
+    "Mileage": 42850.331728379584
+  },
+  {
+    "Id": "7faed00e-ca17-4260-8cb3-84e125502b0a",
+    "Brand": "Brand 2",
+    "Capacity": 28,
+    "Mileage": 8838.45471806307
+  },
+  {
+    "Id": "b85cbd20-bbe2-482b-94c7-fea243ea2981",
+    "Brand": "Brand 35",
+    "Capacity": 72,
+    "Mileage": 43150.37936432094
+  },
+  {
+    "Id": "08ab5b90-e318-4ba0-a713-a74e78390616",
+    "Brand": "Brand 27",
+    "Capacity": 21,
+    "Mileage": 7782.554962294719
+  },
+  {
+    "Id": "cf8d5622-732e-41a6-89f5-e8cf832362d4",
+    "Brand": "Brand 41",
+    "Capacity": 71,
+    "Mileage": 49851.103531455155
+  },
+  {
+    "Id": "1f26f714-337b-43f8-88e9-17fb98b0ae03",
+    "Brand": "Brand 47",
+    "Capacity": 28,
+    "Mileage": 80530.52873352088
+  },
+  {
+    "Id": "2d13b35b-b5a4-467e-b40d-26a934c0d395",
+    "Brand": "Brand 63",
+    "Capacity": 78,
+    "Mileage": 47562.733520009104
+  },
+  {
+    "Id": "7679aa94-d6e2-4dee-bbc5-775d9f08044a",
+    "Brand": "Brand 2",
+    "Capacity": 77,
+    "Mileage": 94971.23315429591
+  },
+  {
+    "Id": "95dfa120-8cc0-4bd9-a0dd-2c4ef46367e7",
+    "Brand": "Brand 59",
+    "Capacity": 62,
+    "Mileage": 33003.25218135427
+  },
+  {
+    "Id": "e223c4c5-c899-43da-8589-e688186812f7",
+    "Brand": "Brand 87",
+    "Capacity": 56,
+    "Mileage": 32095.530031722985
+  },
+  {
+    "Id": "272f0886-3ab4-4c99-afd3-2a9d6b41eb82",
+    "Brand": "Brand 16",
+    "Capacity": 72,
+    "Mileage": 58698.749869348445
+  },
+  {
+    "Id": "3f450364-310d-48be-a4a8-bb2809f3edf5",
+    "Brand": "Brand 32",
+    "Capacity": 53,
+    "Mileage": 39126.46031466007
+  },
+  {
+    "Id": "61408a20-4b46-4989-aa04-6f30578a5a08",
+    "Brand": "Brand 24",
+    "Capacity": 21,
+    "Mileage": 6628.1275806483245
+  },
+  {
+    "Id": "42507636-a856-4146-9bcd-e9fe0ad11fe4",
+    "Brand": "Brand 74",
+    "Capacity": 57,
+    "Mileage": 79769.45908682606
+  },
+  {
+    "Id": "449c2797-e4b2-4619-87e9-c07013ba8322",
+    "Brand": "Brand 72",
+    "Capacity": 32,
+    "Mileage": 95387.1017101761
+  },
+  {
+    "Id": "f07c3630-1f4e-43be-b510-31d1cf10cb9c",
+    "Brand": "Brand 62",
+    "Capacity": 24,
+    "Mileage": 64631.993076219005
+  },
+  {
+    "Id": "46e30d49-7626-4e2e-9f9f-b3b8e314db2f",
+    "Brand": "Brand 40",
+    "Capacity": 26,
+    "Mileage": 15878.793379629808
+  },
+  {
+    "Id": "c01ce983-cb98-450c-8298-6a8d1d6400eb",
+    "Brand": "Brand 93",
+    "Capacity": 77,
+    "Mileage": 47209.66892440856
+  },
+  {
+    "Id": "b10425af-06f2-42c6-a218-97a12f7553fd",
+    "Brand": "Brand 17",
+    "Capacity": 55,
+    "Mileage": 60000.77666096028
+  },
+  {
+    "Id": "f7c592db-b34e-49e1-99a6-51239bf4220c",
+    "Brand": "Brand 93",
+    "Capacity": 48,
+    "Mileage": 17228.801640186684
+  },
+  {
+    "Id": "2fe83910-b8a9-4dc0-a29b-1904fd906210",
+    "Brand": "Brand 81",
+    "Capacity": 78,
+    "Mileage": 90098.59897388544
+  },
+  {
+    "Id": "a2d2915e-5d38-461f-bc6e-8cdc515f6f33",
+    "Brand": "Brand 86",
+    "Capacity": 56,
+    "Mileage": 35448.933513879274
+  },
+  {
+    "Id": "94d77f74-a987-4454-bdfc-b246356c780d",
+    "Brand": "Brand 48",
+    "Capacity": 33,
+    "Mileage": 6955.501933382202
+  },
+  {
+    "Id": "2b010b73-b646-4743-afe1-cd31082b3146",
+    "Brand": "Brand 28",
+    "Capacity": 71,
+    "Mileage": 93894.84255230888
+  },
+  {
+    "Id": "e73309f7-6659-4815-a114-b1b3a660df3c",
+    "Brand": "Brand 59",
+    "Capacity": 43,
+    "Mileage": 5112.163515244383
+  },
+  {
+    "Id": "3fb08677-2949-4a36-8122-84f2176442e6",
+    "Brand": "Brand 16",
+    "Capacity": 37,
+    "Mileage": 49061.665833733074
+  },
+  {
+    "Id": "7c412332-2557-4cc0-90ca-a94e0cca4040",
+    "Brand": "Brand 56",
+    "Capacity": 38,
+    "Mileage": 10324.528595251237
+  },
+  {
+    "Id": "98fdc96b-5e16-4172-8551-b6ab9b356735",
+    "Brand": "Brand 67",
+    "Capacity": 77,
+    "Mileage": 37571.518367919256
+  },
+  {
+    "Id": "b1eac50c-7c64-48a5-86d2-f30cbb3e4271",
+    "Brand": "Brand 53",
+    "Capacity": 36,
+    "Mileage": 50242.900967102745
+  },
+  {
+    "Id": "22135bac-beda-427a-a63e-4445dd675282",
+    "Brand": "Brand 24",
+    "Capacity": 76,
+    "Mileage": 4755.716307081626
+  },
+  {
+    "Id": "88fe3c1f-eb60-46bb-adf4-24bb6b5130de",
+    "Brand": "Brand 72",
+    "Capacity": 32,
+    "Mileage": 43636.65698383923
+  },
+  {
+    "Id": "e187f5b1-274a-4abc-b72b-a005251cbd5c",
+    "Brand": "Brand 52",
+    "Capacity": 64,
+    "Mileage": 28180.378327605347
+  },
+  {
+    "Id": "35bcf571-d65b-420e-ba45-fba2c03d832d",
+    "Brand": "Brand 97",
+    "Capacity": 71,
+    "Mileage": 15120.23687196381
+  },
+  {
+    "Id": "fb187bf9-17db-406f-ac68-a0114b748bc1",
+    "Brand": "Brand 51",
+    "Capacity": 41,
+    "Mileage": 8858.584929006407
+  },
+  {
+    "Id": "ea1a757d-37d6-4a28-b604-d05e7a8118a7",
+    "Brand": "Brand 82",
+    "Capacity": 71,
+    "Mileage": 16648.359379953716
+  },
+  {
+    "Id": "12479bb2-0df9-4687-aa94-611f1f66a403",
+    "Brand": "Brand 57",
+    "Capacity": 74,
+    "Mileage": 80769.87527759536
+  },
+  {
+    "Id": "a168d564-e617-41a6-bc60-0889a75410c4",
+    "Brand": "Brand 4",
+    "Capacity": 57,
+    "Mileage": 44948.23034272474
+  },
+  {
+    "Id": "acb98480-a537-45cc-bdd9-b0ded85642b9",
+    "Brand": "Brand 91",
+    "Capacity": 33,
+    "Mileage": 5965.989668887628
+  },
+  {
+    "Id": "61a513a5-dc6f-4518-91cb-d8e1cc77725f",
+    "Brand": "Brand 72",
+    "Capacity": 63,
+    "Mileage": 86519.00502176468
+  },
+  {
+    "Id": "e911d418-1b41-426d-a844-9b00778e8d3b",
+    "Brand": "Brand 24",
+    "Capacity": 61,
+    "Mileage": 77158.00191460057
+  },
+  {
+    "Id": "6dfe9b70-98a3-474b-b51e-57db530e1d20",
+    "Brand": "Brand 22",
+    "Capacity": 35,
+    "Mileage": 11730.089891774442
+  },
+  {
+    "Id": "5e261dfe-bd3d-4495-95db-aa6c9586d490",
+    "Brand": "Brand 17",
+    "Capacity": 51,
+    "Mileage": 49002.792198640964
+  },
+  {
+    "Id": "fa6d4d47-1d7d-44d2-bb8c-929f25fada72",
+    "Brand": "Brand 2",
+    "Capacity": 54,
+    "Mileage": 83223.08192362315
+  },
+  {
+    "Id": "7555e179-f3f0-41d3-9245-f3cec16deef7",
+    "Brand": "Brand 39",
+    "Capacity": 68,
+    "Mileage": 49876.64666995402
+  },
+  {
+    "Id": "d015a3ea-4233-4332-87dd-68ee77a55c87",
+    "Brand": "Brand 21",
+    "Capacity": 77,
+    "Mileage": 23057.180334571047
+  },
+  {
+    "Id": "198cb793-08cc-4ccf-bf0c-f5b6e84b0e28",
+    "Brand": "Brand 67",
+    "Capacity": 79,
+    "Mileage": 27373.941935634073
+  },
+  {
+    "Id": "5c72b90f-62d6-4721-9d32-46e91d43259e",
+    "Brand": "Brand 5",
+    "Capacity": 52,
+    "Mileage": 1804.6804515455929
+  },
+  {
+    "Id": "baa5fdd1-1b84-47d3-9d9d-694d3cbe42b7",
+    "Brand": "Brand 6",
+    "Capacity": 72,
+    "Mileage": 77564.24207973502
+  },
+  {
+    "Id": "50f510af-211b-48e9-8b03-9ff6f3dce9d0",
+    "Brand": "Brand 92",
+    "Capacity": 75,
+    "Mileage": 23059.840549262834
+  },
+  {
+    "Id": "4ab13084-03b6-4aa0-b2fe-9f0be70307e2",
+    "Brand": "Brand 1",
+    "Capacity": 58,
+    "Mileage": 7674.515474736787
+  },
+  {
+    "Id": "60ae5b15-083e-4fe4-93f7-3a86248d7c48",
+    "Brand": "Brand 46",
+    "Capacity": 60,
+    "Mileage": 39767.53307040627
+  },
+  {
+    "Id": "1482eb5c-3bca-4f04-9567-adecad161b72",
+    "Brand": "Brand 4",
+    "Capacity": 25,
+    "Mileage": 86648.03963091312
+  },
+  {
+    "Id": "3825b34b-8cd1-4adb-a8b7-73b22cee10cb",
+    "Brand": "Brand 60",
+    "Capacity": 32,
+    "Mileage": 98383.7676906691
+  },
+  {
+    "Id": "7f4204eb-2bd4-4382-977f-6b7f05b42f13",
+    "Brand": "Brand 24",
+    "Capacity": 30,
+    "Mileage": 52678.89039213024
+  },
+  {
+    "Id": "46f2b1e7-41b2-41f4-9b04-59a0e6f504f7",
+    "Brand": "Brand 56",
+    "Capacity": 41,
+    "Mileage": 81473.70721285994
+  },
+  {
+    "Id": "2434d94d-2378-4605-81c4-91eb31fcf0c5",
+    "Brand": "Brand 30",
+    "Capacity": 27,
+    "Mileage": 98414.2668197352
+  },
+  {
+    "Id": "e74dd77f-5b9c-4a3a-9c83-4eb8ec078f09",
+    "Brand": "Brand 38",
+    "Capacity": 56,
+    "Mileage": 89561.94793273555
+  },
+  {
+    "Id": "7ba85b89-81bd-4b22-adcd-1a3e4fb552cf",
+    "Brand": "Brand 14",
+    "Capacity": 31,
+    "Mileage": 30080.70532447766
+  },
+  {
+    "Id": "04bd3271-7157-4c4d-a7a3-14664e6b3df5",
+    "Brand": "Brand 99",
+    "Capacity": 20,
+    "Mileage": 8923.215492049652
+  },
+  {
+    "Id": "43ab2374-e640-4b50-b5c2-4696f8a9f124",
+    "Brand": "Brand 50",
+    "Capacity": 28,
+    "Mileage": 91133.11559648148
+  },
+  {
+    "Id": "4acd6dbd-5cc1-4df1-a9e3-dcc86971ca4c",
+    "Brand": "Brand 16",
+    "Capacity": 58,
+    "Mileage": 92714.03921834438
+  },
+  {
+    "Id": "91e862cb-3bb0-4760-bfc8-3bbc6af528e4",
+    "Brand": "Brand 3",
+    "Capacity": 57,
+    "Mileage": 12639.213462380894
+  },
+  {
+    "Id": "b0f3c2ac-6627-46e6-90c1-ddd9d5392661",
+    "Brand": "Brand 29",
+    "Capacity": 22,
+    "Mileage": 12352.372819082535
+  },
+  {
+    "Id": "ba99bf12-b930-4318-869e-635c438230c9",
+    "Brand": "Brand 33",
+    "Capacity": 59,
+    "Mileage": 9229.977944640577
+  },
+  {
+    "Id": "8751c62e-d877-432a-af78-9f66f3df6b8b",
+    "Brand": "Brand 58",
+    "Capacity": 46,
+    "Mileage": 79760.62623099837
+  },
+  {
+    "Id": "c7986d49-b437-4e68-840c-21045ea822b5",
+    "Brand": "Brand 98",
+    "Capacity": 61,
+    "Mileage": 36293.070019728
+  },
+  {
+    "Id": "ff1771c9-2b8b-4ace-9846-566f5c4ee9b8",
+    "Brand": "Brand 42",
+    "Capacity": 73,
+    "Mileage": 47506.44017608288
+  },
+  {
+    "Id": "c77a703b-46c9-4ed0-b11b-302ee8093d11",
+    "Brand": "Brand 13",
+    "Capacity": 54,
+    "Mileage": 31307.182108259192
+  },
+  {
+    "Id": "ae8944a7-7741-4512-a106-7e924b2785c7",
+    "Brand": "Brand 91",
+    "Capacity": 39,
+    "Mileage": 75617.73830777663
+  },
+  {
+    "Id": "e1462169-5880-42dc-a300-59b6edfc2664",
+    "Brand": "Brand 51",
+    "Capacity": 51,
+    "Mileage": 12915.838654746558
+  },
+  {
+    "Id": "71a84487-8a4a-4dde-ab57-cdad655db370",
+    "Brand": "Brand 30",
+    "Capacity": 66,
+    "Mileage": 21209.343428159045
+  },
+  {
+    "Id": "6f9dbb43-78c7-4495-9914-c827feea96a6",
+    "Brand": "Brand 29",
+    "Capacity": 31,
+    "Mileage": 8850.841322625569
+  },
+  {
+    "Id": "f17da959-499f-48cd-8395-1e6512d1fd95",
+    "Brand": "Brand 84",
+    "Capacity": 73,
+    "Mileage": 82925.20130142727
+  },
+  {
+    "Id": "b8fa6350-3407-46e7-a601-84a2198cc89c",
+    "Brand": "Brand 74",
+    "Capacity": 37,
+    "Mileage": 26792.78721597078
+  },
+  {
+    "Id": "860b4f15-2b0f-46b4-85c4-6d60c3f27e51",
+    "Brand": "Brand 50",
+    "Capacity": 29,
+    "Mileage": 84029.92664584421
+  },
+  {
+    "Id": "06f97280-2fe2-40f3-9835-ef631056af3a",
+    "Brand": "Brand 11",
+    "Capacity": 49,
+    "Mileage": 75693.90507996111
+  },
+  {
+    "Id": "8c4208bd-db81-4f36-adab-2697770e50cb",
+    "Brand": "Brand 61",
+    "Capacity": 23,
+    "Mileage": 87575.18764735229
+  },
+  {
+    "Id": "ff344754-977b-46e3-94f6-840855fba028",
+    "Brand": "Brand 29",
+    "Capacity": 73,
+    "Mileage": 47124.05089247659
+  },
+  {
+    "Id": "16076231-751e-48db-9e67-0237bcea009c",
+    "Brand": "Brand 22",
+    "Capacity": 39,
+    "Mileage": 35425.388407709805
+  },
+  {
+    "Id": "10a30834-d9ca-48dc-8032-fa4578221db4",
+    "Brand": "Brand 96",
+    "Capacity": 57,
+    "Mileage": 91718.54899445607
+  },
+  {
+    "Id": "a80370ee-edb2-498a-9716-ae1cc45394db",
+    "Brand": "Brand 55",
+    "Capacity": 25,
+    "Mileage": 5342.281749635625
+  },
+  {
+    "Id": "f0b1fdb9-ad76-4820-8e33-5ac07390281d",
+    "Brand": "Brand 93",
+    "Capacity": 61,
+    "Mileage": 85272.8441797544
+  },
+  {
+    "Id": "a8dc23ce-7cd3-45b9-9dd4-a541408266f0",
+    "Brand": "Brand 68",
+    "Capacity": 20,
+    "Mileage": 3557.3664716251897
+  },
+  {
+    "Id": "7dc19baa-69e3-4fef-b04c-f8b3cebe207a",
+    "Brand": "Brand 76",
+    "Capacity": 58,
+    "Mileage": 68216.57131728693
+  },
+  {
+    "Id": "ed9fb2c2-5478-4852-aa79-1b0f496ab409",
+    "Brand": "Brand 92",
+    "Capacity": 26,
+    "Mileage": 82666.1528879911
+  },
+  {
+    "Id": "8dc4b78f-caf4-4693-8c34-be5e9c78e51f",
+    "Brand": "Brand 30",
+    "Capacity": 47,
+    "Mileage": 72549.99869095063
+  },
+  {
+    "Id": "8ffd1105-4a1e-46bf-87a3-22fa98e7caa2",
+    "Brand": "Brand 81",
+    "Capacity": 64,
+    "Mileage": 70858.93115121072
+  },
+  {
+    "Id": "f2d45504-c8e7-48d8-a151-d37618b14353",
+    "Brand": "Brand 9",
+    "Capacity": 41,
+    "Mileage": 98594.33555756994
+  },
+  {
+    "Id": "22ea5f5c-80b7-41e6-848e-f382ef5355fe",
+    "Brand": "Brand 21",
+    "Capacity": 66,
+    "Mileage": 57849.78859559382
+  },
+  {
+    "Id": "f60cc857-9a56-4aba-a86b-55d520c0103b",
+    "Brand": "Brand 43",
+    "Capacity": 41,
+    "Mileage": 1408.4999184378667
+  },
+  {
+    "Id": "4d19c9e0-6f70-4264-9388-743183d435cb",
+    "Brand": "Brand 37",
+    "Capacity": 37,
+    "Mileage": 54947.11049134292
+  },
+  {
+    "Id": "1ecc1d54-b98f-426d-855c-ac8e77205e74",
+    "Brand": "Brand 31",
+    "Capacity": 67,
+    "Mileage": 65245.919679094186
+  },
+  {
+    "Id": "295c6cb2-32be-4048-80a9-76d25c58f92f",
+    "Brand": "Brand 75",
+    "Capacity": 67,
+    "Mileage": 99479.25361399972
+  },
+  {
+    "Id": "4cdf0482-a225-4c2f-8493-e401f3a4de2b",
+    "Brand": "Brand 28",
+    "Capacity": 26,
+    "Mileage": 4589.75613767365
+  },
+  {
+    "Id": "886f4a95-998e-4542-a4e5-c9fb51c0776b",
+    "Brand": "Brand 22",
+    "Capacity": 28,
+    "Mileage": 13927.479844084057
+  },
+  {
+    "Id": "5f75e609-9179-432f-9c27-3addaee35acd",
+    "Brand": "Brand 66",
+    "Capacity": 44,
+    "Mileage": 28107.97561499907
+  },
+  {
+    "Id": "bf0dd52f-4a2a-4003-a600-cd8d37953bd1",
+    "Brand": "Brand 92",
+    "Capacity": 29,
+    "Mileage": 58113.0285688732
+  },
+  {
+    "Id": "71c1efef-a09d-4848-81aa-9edcc4b69844",
+    "Brand": "Brand 89",
+    "Capacity": 62,
+    "Mileage": 43605.077655491485
+  },
+  {
+    "Id": "249af6cf-50a2-401f-bb87-c947ee92fc2d",
+    "Brand": "Brand 27",
+    "Capacity": 64,
+    "Mileage": 56984.753618947085
+  },
+  {
+    "Id": "3c79c819-7b6c-444f-8f8a-c284bafaf02e",
+    "Brand": "Brand 52",
+    "Capacity": 45,
+    "Mileage": 62255.94111056862
+  },
+  {
+    "Id": "1a44f8ed-9d7e-4864-a37f-bed098ae8077",
+    "Brand": "Brand 30",
+    "Capacity": 43,
+    "Mileage": 54414.16747163832
+  },
+  {
+    "Id": "ac2eabc0-0051-4872-b15e-5780b696ec4f",
+    "Brand": "Brand 13",
+    "Capacity": 58,
+    "Mileage": 24748.630331094722
+  },
+  {
+    "Id": "8e884dfd-1537-44d3-9849-5a0091deb15c",
+    "Brand": "Brand 72",
+    "Capacity": 46,
+    "Mileage": 31582.34318096885
+  },
+  {
+    "Id": "db7cde4a-27c6-4931-9f95-6772aba22c4f",
+    "Brand": "Brand 86",
+    "Capacity": 62,
+    "Mileage": 90224.37348201717
+  },
+  {
+    "Id": "83a35f85-e2a2-40f7-a96a-5caf6ade69dc",
+    "Brand": "Brand 68",
+    "Capacity": 33,
+    "Mileage": 51631.55789083661
+  },
+  {
+    "Id": "246e89ea-0310-4502-a78a-c921db3f2860",
+    "Brand": "Brand 30",
+    "Capacity": 68,
+    "Mileage": 59997.8033226869
+  },
+  {
+    "Id": "bd3e481d-d9b9-4018-aef1-e974e3dbf4ba",
+    "Brand": "Brand 6",
+    "Capacity": 72,
+    "Mileage": 43919.39716299438
+  },
+  {
+    "Id": "fd3b15f0-26cd-475d-a3ef-82fd37349b54",
+    "Brand": "Brand 43",
+    "Capacity": 69,
+    "Mileage": 59184.53184978213
+  },
+  {
+    "Id": "da354a69-0c2a-4755-843f-4f05539ebfbf",
+    "Brand": "Brand 41",
+    "Capacity": 39,
+    "Mileage": 77066.15279016738
+  },
+  {
+    "Id": "1aa3b629-fd4a-4880-b056-31cc5a8caa3e",
+    "Brand": "Brand 44",
+    "Capacity": 30,
+    "Mileage": 50153.54419999197
+  },
+  {
+    "Id": "521a474d-cd56-4598-9b82-61a2afa0376a",
+    "Brand": "Brand 86",
+    "Capacity": 76,
+    "Mileage": 58537.3316498406
+  },
+  {
+    "Id": "d0d1f178-0351-4213-bf2d-b8022dd1e570",
+    "Brand": "Brand 64",
+    "Capacity": 53,
+    "Mileage": 85088.88062223775
+  },
+  {
+    "Id": "a73cb0ff-1a64-4065-8557-873446c957e6",
+    "Brand": "Brand 80",
+    "Capacity": 37,
+    "Mileage": 15458.790926415033
+  },
+  {
+    "Id": "23b38ac8-9e73-4f26-a5b4-315ab8ac3c19",
+    "Brand": "Brand 88",
+    "Capacity": 39,
+    "Mileage": 87363.75358483453
+  },
+  {
+    "Id": "b6419977-d4ff-4a6c-a132-c300983d7171",
+    "Brand": "Brand 46",
+    "Capacity": 48,
+    "Mileage": 67219.88852101547
+  },
+  {
+    "Id": "3476dbcb-ecd1-4951-8eb5-ee1cc5be5be8",
+    "Brand": "Brand 22",
+    "Capacity": 65,
+    "Mileage": 25627.600007754812
+  },
+  {
+    "Id": "1b996c88-0f79-4a77-8909-b1da9e7357a9",
+    "Brand": "Brand 62",
+    "Capacity": 75,
+    "Mileage": 10639.348623355105
+  },
+  {
+    "Id": "8771fd3f-7cc0-46a6-96ce-7a85da960c06",
+    "Brand": "Brand 4",
+    "Capacity": 34,
+    "Mileage": 97590.50788216987
+  },
+  {
+    "Id": "920f5874-d58e-4135-b685-e3ec20136493",
+    "Brand": "Brand 84",
+    "Capacity": 29,
+    "Mileage": 76028.8899819867
+  },
+  {
+    "Id": "26786a9e-62ed-4b86-a384-f637b431f14f",
+    "Brand": "Brand 17",
+    "Capacity": 42,
+    "Mileage": 83732.88179752673
+  },
+  {
+    "Id": "0939a46c-b131-400c-8cc5-23b42395a0f7",
+    "Brand": "Brand 92",
+    "Capacity": 53,
+    "Mileage": 20156.697049834627
+  },
+  {
+    "Id": "ce22df91-3d94-468e-8c17-520a0526b658",
+    "Brand": "Brand 78",
+    "Capacity": 52,
+    "Mileage": 24774.775091554315
+  },
+  {
+    "Id": "f5b1cc7c-587a-42e1-892c-66e3dc1778f3",
+    "Brand": "Brand 19",
+    "Capacity": 63,
+    "Mileage": 17752.814751429934
+  },
+  {
+    "Id": "e5a081a6-cec3-47df-a074-49fae6ebacd5",
+    "Brand": "Brand 82",
+    "Capacity": 50,
+    "Mileage": 43787.66768090394
+  },
+  {
+    "Id": "bef8ae21-8299-4f32-8475-f7477c78e86a",
+    "Brand": "Brand 34",
+    "Capacity": 69,
+    "Mileage": 20327.034834723225
+  },
+  {
+    "Id": "7d8de5fa-cd02-4b52-b906-b6e6d15e8493",
+    "Brand": "Brand 6",
+    "Capacity": 55,
+    "Mileage": 78700.49272728832
+  },
+  {
+    "Id": "e02817eb-4399-4c68-ad38-6db4949b8189",
+    "Brand": "Brand 31",
+    "Capacity": 66,
+    "Mileage": 85613.52593235478
+  },
+  {
+    "Id": "01b10f86-d391-4c21-8f2b-b756a93512a7",
+    "Brand": "Brand 20",
+    "Capacity": 62,
+    "Mileage": 15889.764163848075
+  },
+  {
+    "Id": "3fb27caf-1f58-4c89-8819-917f319655e8",
+    "Brand": "Brand 21",
+    "Capacity": 24,
+    "Mileage": 53774.45273479709
+  },
+  {
+    "Id": "d7a411e5-5eae-40ee-a945-0195eebe891e",
+    "Brand": "Brand 28",
+    "Capacity": 31,
+    "Mileage": 85144.30817935786
+  },
+  {
+    "Id": "8856c0d0-ff89-4b6e-a65c-32d2b29d2f62",
+    "Brand": "Brand 55",
+    "Capacity": 36,
+    "Mileage": 60081.295909584434
+  },
+  {
+    "Id": "b4019cb8-6628-47cc-baad-b5b181e81926",
+    "Brand": "Brand 95",
+    "Capacity": 38,
+    "Mileage": 8908.849357554083
+  },
+  {
+    "Id": "3a7bb862-3b7e-41ae-aa66-3f531ea67c66",
+    "Brand": "Brand 42",
+    "Capacity": 47,
+    "Mileage": 78288.86810693618
+  },
+  {
+    "Id": "c3e06a5f-d574-4dc8-9cc5-af9828d7ea95",
+    "Brand": "Brand 58",
+    "Capacity": 27,
+    "Mileage": 43893.24760729839
+  },
+  {
+    "Id": "9560c41a-d011-4af8-abd6-cc3af910f38e",
+    "Brand": "Brand 74",
+    "Capacity": 52,
+    "Mileage": 27683.27790241597
+  },
+  {
+    "Id": "04a06da6-eac6-46c5-94d3-c04787d52539",
+    "Brand": "Brand 73",
+    "Capacity": 24,
+    "Mileage": 36690.31244253733
+  },
+  {
+    "Id": "2c4a5cd2-8cb3-40e5-b84f-4c073bb4a1a2",
+    "Brand": "Brand 2",
+    "Capacity": 48,
+    "Mileage": 73102.04099990602
+  },
+  {
+    "Id": "cee4b722-2db3-4213-8506-b2613b9beb6f",
+    "Brand": "Brand 52",
+    "Capacity": 21,
+    "Mileage": 86144.24058740675
+  },
+  {
+    "Id": "6640e870-9edb-463a-a651-3ef5758189fb",
+    "Brand": "Brand 64",
+    "Capacity": 29,
+    "Mileage": 47819.79668446141
+  },
+  {
+    "Id": "bbf2f2b5-7a15-4024-8b2b-c7e9d4739e65",
+    "Brand": "Brand 35",
+    "Capacity": 60,
+    "Mileage": 9859.452040239114
+  },
+  {
+    "Id": "afb41ee2-f6d1-4728-b489-d3beb7e919eb",
+    "Brand": "Brand 54",
+    "Capacity": 42,
+    "Mileage": 12928.124981282219
+  },
+  {
+    "Id": "80091d29-1114-4c8a-b479-abce15042707",
+    "Brand": "Brand 4",
+    "Capacity": 20,
+    "Mileage": 32515.320642883504
+  },
+  {
+    "Id": "f5822f93-3c69-4efa-a019-04584798828a",
+    "Brand": "Brand 64",
+    "Capacity": 54,
+    "Mileage": 46508.20104694045
+  },
+  {
+    "Id": "e1a22ecc-5967-4db2-b6a6-fa7a3a84426b",
+    "Brand": "Brand 76",
+    "Capacity": 52,
+    "Mileage": 21152.41365482343
+  },
+  {
+    "Id": "bdb7f914-6842-4043-b91a-6b91633f755f",
+    "Brand": "Brand 81",
+    "Capacity": 22,
+    "Mileage": 61856.27790412135
+  },
+  {
+    "Id": "0a7420c8-cd21-486e-af53-535d8d4d0135",
+    "Brand": "Brand 64",
+    "Capacity": 49,
+    "Mileage": 93177.8931619915
+  },
+  {
+    "Id": "f0811b4d-37b5-48bb-a0c8-4e84face8888",
+    "Brand": "Brand 82",
+    "Capacity": 78,
+    "Mileage": 42586.27888953632
+  },
+  {
+    "Id": "c4251d19-f103-4fd6-9664-aaa784adbc46",
+    "Brand": "Brand 63",
+    "Capacity": 33,
+    "Mileage": 85458.12791553949
+  },
+  {
+    "Id": "b19924c6-8288-40f5-8ac0-f766d2089af3",
+    "Brand": "Brand 8",
+    "Capacity": 41,
+    "Mileage": 15487.224373733688
+  },
+  {
+    "Id": "ae7c4d68-505c-4527-bc7c-4a76584333ad",
+    "Brand": "Brand 24",
+    "Capacity": 61,
+    "Mileage": 7898.39688054318
+  },
+  {
+    "Id": "d9205a94-8dde-4e0c-b9a3-dff0d8bd9985",
+    "Brand": "Brand 35",
+    "Capacity": 55,
+    "Mileage": 91083.4021243674
+  },
+  {
+    "Id": "4065899f-b9be-4cb4-b2a2-c850f49a8703",
+    "Brand": "Brand 11",
+    "Capacity": 77,
+    "Mileage": 29968.973465921867
+  },
+  {
+    "Id": "b08f5e02-a9ca-49a2-9869-e870e7052a2d",
+    "Brand": "Brand 82",
+    "Capacity": 35,
+    "Mileage": 83533.38140484423
+  },
+  {
+    "Id": "4b2d8d60-1a29-46b6-8243-52181a738d6d",
+    "Brand": "Brand 72",
+    "Capacity": 75,
+    "Mileage": 35066.16704493321
+  },
+  {
+    "Id": "8ead4e53-8bcf-4df5-ba31-05686eea987e",
+    "Brand": "Brand 33",
+    "Capacity": 54,
+    "Mileage": 29267.878661007253
+  },
+  {
+    "Id": "a87f1c3b-9c79-4c26-a2a4-86a9ab3c2414",
+    "Brand": "Brand 95",
+    "Capacity": 51,
+    "Mileage": 55953.41452639135
+  },
+  {
+    "Id": "6a8cd350-14fc-4d05-9c99-b48f32b9c07b",
+    "Brand": "Brand 58",
+    "Capacity": 66,
+    "Mileage": 77726.61516629402
+  },
+  {
+    "Id": "61de6258-3f5d-4a2c-9702-9ce031e532e3",
+    "Brand": "Brand 19",
+    "Capacity": 64,
+    "Mileage": 21383.090233450253
+  },
+  {
+    "Id": "b928af92-c05c-4c17-b062-60afebe0cda9",
+    "Brand": "Brand 87",
+    "Capacity": 53,
+    "Mileage": 78580.25244792993
+  },
+  {
+    "Id": "96ad338f-c9e6-4441-86d8-8d4e0b3175c1",
+    "Brand": "Brand 26",
+    "Capacity": 76,
+    "Mileage": 66074.6400538633
+  },
+  {
+    "Id": "ec32bb57-c4b4-41f9-b0da-cca971c6ffc7",
+    "Brand": "Brand 78",
+    "Capacity": 23,
+    "Mileage": 35714.42121939632
+  },
+  {
+    "Id": "fc102850-cd76-431a-9807-fa56a5dfb942",
+    "Brand": "Brand 50",
+    "Capacity": 25,
+    "Mileage": 93176.68386528308
+  },
+  {
+    "Id": "493cd0fb-ce61-4a99-9dae-fa989057c3c1",
+    "Brand": "Brand 84",
+    "Capacity": 71,
+    "Mileage": 42958.44439580978
+  },
+  {
+    "Id": "b9435071-166f-445e-bc10-ecd82b02469d",
+    "Brand": "Brand 85",
+    "Capacity": 79,
+    "Mileage": 18215.693989380034
+  },
+  {
+    "Id": "d74ab99b-f007-4440-8785-9cf830318475",
+    "Brand": "Brand 47",
+    "Capacity": 56,
+    "Mileage": 45371.8536960378
+  },
+  {
+    "Id": "2e01783b-c1e9-4726-9742-a295ae35f1fe",
+    "Brand": "Brand 36",
+    "Capacity": 39,
+    "Mileage": 542.0795794704891
+  },
+  {
+    "Id": "70dca546-aa05-47d9-86d1-dcd666d8c7f1",
+    "Brand": "Brand 90",
+    "Capacity": 76,
+    "Mileage": 30666.387147759368
+  },
+  {
+    "Id": "f4fd4d17-95e3-4202-b166-2b12650ed200",
+    "Brand": "Brand 60",
+    "Capacity": 55,
+    "Mileage": 27379.619782788544
+  },
+  {
+    "Id": "de95aba2-411b-45db-ad25-5c196713cdb6",
+    "Brand": "Brand 31",
+    "Capacity": 74,
+    "Mileage": 15310.153093465828
+  },
+  {
+    "Id": "f8b13365-c703-49f4-a445-fe93850325be",
+    "Brand": "Brand 63",
+    "Capacity": 58,
+    "Mileage": 71686.24177358823
+  },
+  {
+    "Id": "c8a79dce-8140-4f7c-a611-7da087807d1e",
+    "Brand": "Brand 99",
+    "Capacity": 73,
+    "Mileage": 32742.182874575443
+  },
+  {
+    "Id": "41dca326-e0b5-482a-b993-4e22d3001682",
+    "Brand": "Brand 14",
+    "Capacity": 42,
+    "Mileage": 97307.02066155648
+  },
+  {
+    "Id": "17e06a88-034f-401b-b230-84f412193a7b",
+    "Brand": "Brand 86",
+    "Capacity": 79,
+    "Mileage": 26248.584644705443
+  },
+  {
+    "Id": "55ac573f-8f5c-4c2c-a826-b98f567fdcb7",
+    "Brand": "Brand 1",
+    "Capacity": 22,
+    "Mileage": 71805.11154846544
+  },
+  {
+    "Id": "f9c83938-9bd2-4fa5-976f-58d68ca19234",
+    "Brand": "Brand 73",
+    "Capacity": 40,
+    "Mileage": 32005.943015025252
+  },
+  {
+    "Id": "e925889b-0d65-4ba6-a610-9421a56b32eb",
+    "Brand": "Brand 85",
+    "Capacity": 78,
+    "Mileage": 82190.32014998206
+  },
+  {
+    "Id": "5866f0e3-fda7-4fbe-be56-f318f52a0b35",
+    "Brand": "Brand 52",
+    "Capacity": 37,
+    "Mileage": 53088.45468059855
+  },
+  {
+    "Id": "a9d11f91-d18c-4f5f-821e-f3c6bc04d7eb",
+    "Brand": "Brand 7",
+    "Capacity": 47,
+    "Mileage": 36417.82140348582
+  },
+  {
+    "Id": "08598e34-74c2-41f0-8153-d96abb095fee",
+    "Brand": "Brand 79",
+    "Capacity": 66,
+    "Mileage": 51069.67449801901
+  },
+  {
+    "Id": "b28bda49-ad38-4c87-bda0-eb51ddec7a4c",
+    "Brand": "Brand 53",
+    "Capacity": 62,
+    "Mileage": 16272.942267900837
+  },
+  {
+    "Id": "faee2f35-f032-4e6f-8c2b-75c61ef3415d",
+    "Brand": "Brand 22",
+    "Capacity": 69,
+    "Mileage": 74304.28020821077
+  },
+  {
+    "Id": "e57883b7-a127-4dfb-9f0d-57c1a95aac07",
+    "Brand": "Brand 7",
+    "Capacity": 70,
+    "Mileage": 95864.21782832689
+  },
+  {
+    "Id": "2bad7ff2-95d0-4e9b-ae98-f3f03d3fc4b1",
+    "Brand": "Brand 67",
+    "Capacity": 41,
+    "Mileage": 74636.37412318465
+  },
+  {
+    "Id": "5577b5d4-91ea-4a9e-a3b2-a86999f8b43e",
+    "Brand": "Brand 56",
+    "Capacity": 42,
+    "Mileage": 36557.91053173517
+  },
+  {
+    "Id": "6aeed908-8496-41de-ac1f-338daee717c2",
+    "Brand": "Brand 57",
+    "Capacity": 77,
+    "Mileage": 14252.794363316878
+  },
+  {
+    "Id": "74655e69-b059-47e5-8fcf-8c3dc5816b63",
+    "Brand": "Brand 51",
+    "Capacity": 49,
+    "Mileage": 15971.931315330967
+  },
+  {
+    "Id": "f0ed07cc-8190-4ed9-b61f-3005f5c29ab5",
+    "Brand": "Brand 45",
+    "Capacity": 39,
+    "Mileage": 68663.00507243653
+  },
+  {
+    "Id": "1c6133cc-2d1f-4526-9999-71c665f5c1e3",
+    "Brand": "Brand 61",
+    "Capacity": 37,
+    "Mileage": 24916.94621497308
+  },
+  {
+    "Id": "08e52a23-b180-41b9-95f1-563af5a25a14",
+    "Brand": "Brand 75",
+    "Capacity": 32,
+    "Mileage": 12726.522638812321
+  },
+  {
+    "Id": "e8832274-c34f-4228-8d7e-26a539629919",
+    "Brand": "Brand 89",
+    "Capacity": 49,
+    "Mileage": 31592.429600453754
+  },
+  {
+    "Id": "bc75e488-dce4-4497-aaca-5d6aa4e7f500",
+    "Brand": "Brand 87",
+    "Capacity": 58,
+    "Mileage": 79812.41183527753
+  },
+  {
+    "Id": "e4a1c585-df2d-4d32-9cc1-6217477049f9",
+    "Brand": "Brand 12",
+    "Capacity": 50,
+    "Mileage": 77962.9393876999
+  },
+  {
+    "Id": "4322d27e-6009-461e-a8a8-88b0ecc4d89a",
+    "Brand": "Brand 92",
+    "Capacity": 39,
+    "Mileage": 22582.636338292472
+  },
+  {
+    "Id": "7a95d793-a5fe-4f1d-9b4f-d3e05d661648",
+    "Brand": "Brand 56",
+    "Capacity": 64,
+    "Mileage": 75162.09506297801
+  },
+  {
+    "Id": "581eab5e-b881-48e2-ad40-afbcfb19670e",
+    "Brand": "Brand 97",
+    "Capacity": 22,
+    "Mileage": 34657.38783304681
+  },
+  {
+    "Id": "9103aabe-c13c-4e58-a1af-b485ae4eb8fb",
+    "Brand": "Brand 67",
+    "Capacity": 64,
+    "Mileage": 56767.307383447886
+  },
+  {
+    "Id": "36e6006b-020f-4980-b26e-ec4fa2d7dcf4",
+    "Brand": "Brand 48",
+    "Capacity": 69,
+    "Mileage": 84832.51179869138
+  },
+  {
+    "Id": "6264c9bd-8e22-4d5d-bb0b-0b4b4da5b698",
+    "Brand": "Brand 4",
+    "Capacity": 41,
+    "Mileage": 71313.40084153977
+  },
+  {
+    "Id": "bbd47540-5915-4f15-a3bc-9aef8825d504",
+    "Brand": "Brand 46",
+    "Capacity": 47,
+    "Mileage": 66769.90846875207
+  },
+  {
+    "Id": "e0456703-44dd-4900-a863-32ed7d118876",
+    "Brand": "Brand 57",
+    "Capacity": 31,
+    "Mileage": 73035.70302481974
+  },
+  {
+    "Id": "a835b10c-e0a9-4557-862a-ec2a6e72e22e",
+    "Brand": "Brand 11",
+    "Capacity": 70,
+    "Mileage": 43140.59921101481
+  },
+  {
+    "Id": "9e4cf882-ec2f-4d56-8339-637e44393c79",
+    "Brand": "Brand 30",
+    "Capacity": 55,
+    "Mileage": 43762.20944279504
+  },
+  {
+    "Id": "df786a37-fc18-46eb-aab2-e84c819b2a85",
+    "Brand": "Brand 93",
+    "Capacity": 28,
+    "Mileage": 5614.728449822337
+  },
+  {
+    "Id": "74276095-3128-4c42-8a6e-9d12cac081b6",
+    "Brand": "Brand 16",
+    "Capacity": 24,
+    "Mileage": 11008.38813072036
+  },
+  {
+    "Id": "d824f7c8-003f-4fff-9f17-ebb28ef6e6db",
+    "Brand": "Brand 40",
+    "Capacity": 45,
+    "Mileage": 9363.690475859254
+  },
+  {
+    "Id": "679ee7be-693b-4b17-9c83-7df592e71848",
+    "Brand": "Brand 84",
+    "Capacity": 76,
+    "Mileage": 98405.58615397559
+  },
+  {
+    "Id": "ea0ad9bd-14ff-406b-98ff-780715b109e1",
+    "Brand": "Brand 65",
+    "Capacity": 37,
+    "Mileage": 68597.9342886986
+  },
+  {
+    "Id": "b8eba630-36ca-45c5-b948-6fe58c1b56f1",
+    "Brand": "Brand 82",
+    "Capacity": 30,
+    "Mileage": 20322.208366997562
+  },
+  {
+    "Id": "170d0013-2b25-43e9-a36e-56468bce74a6",
+    "Brand": "Brand 41",
+    "Capacity": 44,
+    "Mileage": 4187.146823748245
+  },
+  {
+    "Id": "5c15663c-3568-4c6c-a002-b1ded43fdaac",
+    "Brand": "Brand 63",
+    "Capacity": 78,
+    "Mileage": 77329.37253766687
+  },
+  {
+    "Id": "9500a5c4-c08b-4ae8-b5c9-04d2d68c3e4a",
+    "Brand": "Brand 35",
+    "Capacity": 46,
+    "Mileage": 27174.700924692464
+  },
+  {
+    "Id": "a205e1a4-edfe-4e94-9a8b-81c398555a09",
+    "Brand": "Brand 24",
+    "Capacity": 48,
+    "Mileage": 51963.321784494045
+  },
+  {
+    "Id": "9db9c213-57a6-44b4-b2d8-25cba60aab52",
+    "Brand": "Brand 97",
+    "Capacity": 46,
+    "Mileage": 11024.904963853221
+  },
+  {
+    "Id": "8a529c82-c63e-465f-bb0d-50caffd21301",
+    "Brand": "Brand 29",
+    "Capacity": 32,
+    "Mileage": 50161.60581481156
+  },
+  {
+    "Id": "5cb1a7f7-e51d-482d-8ecb-6f38c94b505e",
+    "Brand": "Brand 54",
+    "Capacity": 52,
+    "Mileage": 77292.95298450008
+  },
+  {
+    "Id": "724533c3-295f-4aa3-95b7-bacbc321f263",
+    "Brand": "Brand 34",
+    "Capacity": 25,
+    "Mileage": 43722.88369175859
+  },
+  {
+    "Id": "c1ee3e33-ea31-4b5e-bf60-19cd13aa229b",
+    "Brand": "Brand 87",
+    "Capacity": 61,
+    "Mileage": 97421.83549842481
+  },
+  {
+    "Id": "315d4e3b-cb44-4ea9-802c-922e4e589578",
+    "Brand": "Brand 76",
+    "Capacity": 74,
+    "Mileage": 84745.84997451007
+  },
+  {
+    "Id": "80ab244f-0986-4fb3-92e4-ec958630faf7",
+    "Brand": "Brand 66",
+    "Capacity": 72,
+    "Mileage": 59552.85360297976
+  },
+  {
+    "Id": "14c5baea-8510-41cf-a43b-d58f70c594d4",
+    "Brand": "Brand 68",
+    "Capacity": 53,
+    "Mileage": 5004.192040412425
+  },
+  {
+    "Id": "05119d00-fcee-4343-b4bf-fdc28a920be9",
+    "Brand": "Brand 13",
+    "Capacity": 46,
+    "Mileage": 39747.40655287072
+  },
+  {
+    "Id": "c39b0923-20fe-4a7f-8d05-0c6fca1a72f6",
+    "Brand": "Brand 35",
+    "Capacity": 42,
+    "Mileage": 43430.00832820112
+  },
+  {
+    "Id": "6cbcab87-e9cc-4fc0-9c81-dedbbe644ffc",
+    "Brand": "Brand 92",
+    "Capacity": 26,
+    "Mileage": 28211.652005576838
+  },
+  {
+    "Id": "e755b07e-69a5-4d1a-af50-8fb12c88723f",
+    "Brand": "Brand 35",
+    "Capacity": 57,
+    "Mileage": 61334.80420763153
+  },
+  {
+    "Id": "829ab605-c0d3-4536-b7d6-7457266783f9",
+    "Brand": "Brand 16",
+    "Capacity": 68,
+    "Mileage": 76740.07448710888
+  },
+  {
+    "Id": "30a61dea-4d3e-4c5f-970d-98a6cd44aaa2",
+    "Brand": "Brand 88",
+    "Capacity": 41,
+    "Mileage": 57417.31946918811
+  },
+  {
+    "Id": "97769e50-4768-40a0-9c06-2282ee9f5417",
+    "Brand": "Brand 31",
+    "Capacity": 27,
+    "Mileage": 80847.6523445613
+  },
+  {
+    "Id": "c6133d12-4d9d-40ad-a883-e311fd58b536",
+    "Brand": "Brand 95",
+    "Capacity": 63,
+    "Mileage": 88974.46907605237
+  },
+  {
+    "Id": "403001ea-1485-480b-bf62-961a6aed7f3e",
+    "Brand": "Brand 47",
+    "Capacity": 76,
+    "Mileage": 46761.0935044906
+  },
+  {
+    "Id": "e652b10f-ded4-45f4-b4dd-5b7c5b5aa119",
+    "Brand": "Brand 48",
+    "Capacity": 65,
+    "Mileage": 7992.345345744112
+  },
+  {
+    "Id": "cacb4315-22d1-420b-bdc5-91ef920a4099",
+    "Brand": "Brand 29",
+    "Capacity": 32,
+    "Mileage": 63732.31987392909
+  },
+  {
+    "Id": "cc1fe57a-9ec2-4cd1-89f4-65aa4de086e4",
+    "Brand": "Brand 25",
+    "Capacity": 45,
+    "Mileage": 38914.73719651345
+  },
+  {
+    "Id": "5d1feeca-0fcd-4b24-8640-17075e0ba437",
+    "Brand": "Brand 53",
+    "Capacity": 36,
+    "Mileage": 47930.05633608921
+  },
+  {
+    "Id": "afb7b6cc-b2fd-4e90-99f0-d7b13621885b",
+    "Brand": "Brand 57",
+    "Capacity": 42,
+    "Mileage": 9233.36224696033
+  },
+  {
+    "Id": "d643ab0b-c826-4c6d-8da3-f178420cc58c",
+    "Brand": "Brand 74",
+    "Capacity": 59,
+    "Mileage": 49196.42590615004
+  },
+  {
+    "Id": "5eb85946-82ca-42ce-bf89-70ead9a6adb8",
+    "Brand": "Brand 70",
+    "Capacity": 54,
+    "Mileage": 91403.13112350811
+  },
+  {
+    "Id": "842a96a6-5ecd-43e8-9e3e-23c4f655e2e6",
+    "Brand": "Brand 76",
+    "Capacity": 20,
+    "Mileage": 91911.99934928965
+  },
+  {
+    "Id": "a9f510db-54ab-482e-bf4b-011564b3ed5c",
+    "Brand": "Brand 93",
+    "Capacity": 44,
+    "Mileage": 11880.139746580242
+  },
+  {
+    "Id": "581a14cb-ca1b-4f5b-8ea2-da327e0f47fa",
+    "Brand": "Brand 82",
+    "Capacity": 22,
+    "Mileage": 74030.28082093698
+  },
+  {
+    "Id": "ad675dca-c8ed-471b-9672-a97f521b75bb",
+    "Brand": "Brand 88",
+    "Capacity": 38,
+    "Mileage": 88571.1883313296
+  },
+  {
+    "Id": "fdd752d0-fb3d-484d-a68c-fbb2404c4647",
+    "Brand": "Brand 18",
+    "Capacity": 72,
+    "Mileage": 40672.01556456302
+  },
+  {
+    "Id": "bb26731a-c31f-4708-a217-15761274f823",
+    "Brand": "Brand 80",
+    "Capacity": 73,
+    "Mileage": 28049.314875845932
+  },
+  {
+    "Id": "7ed14dca-00da-47ec-84f4-5ea523fa0ffe",
+    "Brand": "Brand 49",
+    "Capacity": 71,
+    "Mileage": 31884.382526063117
+  },
+  {
+    "Id": "94cfee8a-e70a-4b88-93f2-cb161cf71ad3",
+    "Brand": "Brand 70",
+    "Capacity": 75,
+    "Mileage": 78115.61650600369
+  },
+  {
+    "Id": "b69fc155-9200-4ab8-9088-d8b548a31bfe",
+    "Brand": "Brand 67",
+    "Capacity": 20,
+    "Mileage": 83976.5358290801
+  },
+  {
+    "Id": "ab7a2644-f084-400e-9ab8-b080dbb0ea16",
+    "Brand": "Brand 2",
+    "Capacity": 67,
+    "Mileage": 82794.132048101
+  },
+  {
+    "Id": "0a303bf7-6879-4d49-b4c0-26fc8edc251c",
+    "Brand": "Brand 92",
+    "Capacity": 78,
+    "Mileage": 75823.22033096853
+  },
+  {
+    "Id": "c4590b9c-ce35-4f39-b7d6-b285558a7484",
+    "Brand": "Brand 75",
+    "Capacity": 29,
+    "Mileage": 33231.68005052828
+  },
+  {
+    "Id": "c94dbaec-4411-43ba-b614-05804b4f4e46",
+    "Brand": "Brand 56",
+    "Capacity": 75,
+    "Mileage": 6110.25048449072
+  },
+  {
+    "Id": "85b1ac94-797f-47c7-a1f2-4778fa514d88",
+    "Brand": "Brand 50",
+    "Capacity": 22,
+    "Mileage": 3851.4322661324154
+  },
+  {
+    "Id": "4a533df9-b284-47cd-bf18-dbe4a8eb9cac",
+    "Brand": "Brand 20",
+    "Capacity": 57,
+    "Mileage": 27549.995441853436
+  },
+  {
+    "Id": "e9414540-98ce-499f-b025-8031a792df78",
+    "Brand": "Brand 47",
+    "Capacity": 53,
+    "Mileage": 17000.901352178542
+  },
+  {
+    "Id": "268802ad-01b1-4717-a674-cb311cd5acff",
+    "Brand": "Brand 4",
+    "Capacity": 64,
+    "Mileage": 25268.084649398283
+  },
+  {
+    "Id": "71830ebc-f28c-4ed0-8db1-f81287350247",
+    "Brand": "Brand 90",
+    "Capacity": 33,
+    "Mileage": 92049.91989290716
+  },
+  {
+    "Id": "7c13a4a8-4bc9-48aa-b2c9-ade88f7b25db",
+    "Brand": "Brand 82",
+    "Capacity": 69,
+    "Mileage": 65766.92903380613
+  },
+  {
+    "Id": "7026e481-3ab2-40b0-a587-81a2b2c2fee1",
+    "Brand": "Brand 79",
+    "Capacity": 65,
+    "Mileage": 24770.32390612345
+  },
+  {
+    "Id": "5e556c98-11aa-4658-b856-44b2bcb72943",
+    "Brand": "Brand 31",
+    "Capacity": 53,
+    "Mileage": 43287.497579261195
+  },
+  {
+    "Id": "3be770ec-bf36-412c-9ff2-7c0ce14020e0",
+    "Brand": "Brand 8",
+    "Capacity": 69,
+    "Mileage": 66657.55939335939
+  },
+  {
+    "Id": "73e1e58c-f5d5-4c06-a312-8c2414273bdc",
+    "Brand": "Brand 77",
+    "Capacity": 27,
+    "Mileage": 21303.9435953835
+  },
+  {
+    "Id": "61c44754-e4ea-4a9a-a77b-b1ce4f2ee273",
+    "Brand": "Brand 65",
+    "Capacity": 39,
+    "Mileage": 11053.683787988888
+  },
+  {
+    "Id": "2788bb9b-c42b-450e-a0d0-14e943b3f000",
+    "Brand": "Brand 23",
+    "Capacity": 36,
+    "Mileage": 27148.480287959097
+  },
+  {
+    "Id": "649a447b-186a-4a59-8624-93b5eecf68a5",
+    "Brand": "Brand 69",
+    "Capacity": 54,
+    "Mileage": 70821.9268143521
+  },
+  {
+    "Id": "49158efa-3c0e-4121-bdf5-91bc6a46659a",
+    "Brand": "Brand 19",
+    "Capacity": 62,
+    "Mileage": 73688.09487268214
+  },
+  {
+    "Id": "3c0e46bc-faae-43e4-88ac-a9e66dd10bc5",
+    "Brand": "Brand 77",
+    "Capacity": 78,
+    "Mileage": 39532.04080552505
+  },
+  {
+    "Id": "8ff3c2db-02be-4f6f-9a5e-e52b5d3bb276",
+    "Brand": "Brand 40",
+    "Capacity": 78,
+    "Mileage": 9383.933999168426
+  },
+  {
+    "Id": "e59c3a8d-5941-41a3-af13-2872a7c4ccd3",
+    "Brand": "Brand 49",
+    "Capacity": 72,
+    "Mileage": 65619.29079560468
+  },
+  {
+    "Id": "34881dba-e788-4df7-8d40-7d2a00ba501d",
+    "Brand": "Brand 88",
+    "Capacity": 36,
+    "Mileage": 22984.43317892035
+  },
+  {
+    "Id": "a22cb63d-8a29-42c4-9b61-eec4dc78893b",
+    "Brand": "Brand 97",
+    "Capacity": 30,
+    "Mileage": 36609.280257088336
+  },
+  {
+    "Id": "20dea022-6333-4156-9657-9b7bb4964028",
+    "Brand": "Brand 55",
+    "Capacity": 72,
+    "Mileage": 54848.43117348341
+  },
+  {
+    "Id": "50127f7c-5bd4-4925-9db8-1ec50b80efcd",
+    "Brand": "Brand 70",
+    "Capacity": 53,
+    "Mileage": 39545.480898557675
+  },
+  {
+    "Id": "23c745ec-3d2f-451f-8e9c-02a6c7cbaea9",
+    "Brand": "Brand 99",
+    "Capacity": 35,
+    "Mileage": 22517.575182501747
+  },
+  {
+    "Id": "a1b8b053-16f4-4a95-94f2-6a71d4bb2736",
+    "Brand": "Brand 91",
+    "Capacity": 75,
+    "Mileage": 95691.24337097663
+  },
+  {
+    "Id": "a440232f-7a94-49b3-90b4-7956c07dc6d4",
+    "Brand": "Brand 76",
+    "Capacity": 39,
+    "Mileage": 29194.820001428667
+  },
+  {
+    "Id": "ee4dba31-bae6-46d4-89b2-1ca489f32c78",
+    "Brand": "Brand 65",
+    "Capacity": 61,
+    "Mileage": 46132.89211065406
+  },
+  {
+    "Id": "bc11157b-2001-4c83-8fd0-3695ca59bef9",
+    "Brand": "Brand 46",
+    "Capacity": 61,
+    "Mileage": 89027.67204788009
+  },
+  {
+    "Id": "e5a136bf-efb9-4cd0-b82b-1cce52bdb258",
+    "Brand": "Brand 99",
+    "Capacity": 25,
+    "Mileage": 39854.627042493
+  },
+  {
+    "Id": "ad2d23ff-83ce-44a4-970f-097b15608c74",
+    "Brand": "Brand 29",
+    "Capacity": 63,
+    "Mileage": 90896.89195621874
+  },
+  {
+    "Id": "9a9d784b-c397-412a-8990-0a80eb180262",
+    "Brand": "Brand 51",
+    "Capacity": 68,
+    "Mileage": 84558.19672119577
+  },
+  {
+    "Id": "e33d75b0-ee53-4e24-9bd3-66c4c1d0f506",
+    "Brand": "Brand 63",
+    "Capacity": 74,
+    "Mileage": 82022.56000426093
+  },
+  {
+    "Id": "5ab39c41-5f11-4778-a420-6870570f4254",
+    "Brand": "Brand 54",
+    "Capacity": 36,
+    "Mileage": 642.0961377958445
+  },
+  {
+    "Id": "b37eec76-e4b5-4d54-8128-5b76897b16bd",
+    "Brand": "Brand 76",
+    "Capacity": 51,
+    "Mileage": 89501.20992369975
+  },
+  {
+    "Id": "98133d8f-5dc4-4856-bfb8-8660a7db7b33",
+    "Brand": "Brand 53",
+    "Capacity": 69,
+    "Mileage": 8438.61075419554
+  },
+  {
+    "Id": "62c1ef0f-906a-4b1a-a9a4-651d7f65af2d",
+    "Brand": "Brand 99",
+    "Capacity": 39,
+    "Mileage": 83293.25952028313
+  },
+  {
+    "Id": "0cd1a874-8554-4e58-bbfc-3d488b84fe3b",
+    "Brand": "Brand 56",
+    "Capacity": 64,
+    "Mileage": 66829.26050203171
+  },
+  {
+    "Id": "501bc434-ab45-4fe6-bf4c-179f8a57a73f",
+    "Brand": "Brand 22",
+    "Capacity": 52,
+    "Mileage": 73598.28884140341
+  },
+  {
+    "Id": "d1d03425-643b-4cb5-88e9-1e065168b8f0",
+    "Brand": "Brand 99",
+    "Capacity": 60,
+    "Mileage": 27529.334864142853
+  },
+  {
+    "Id": "4df31ebb-290a-4e70-b8f5-0a106809295b",
+    "Brand": "Brand 52",
+    "Capacity": 50,
+    "Mileage": 44343.85411022661
+  },
+  {
+    "Id": "685b71b4-7ed2-4c22-9ed5-5309adb01321",
+    "Brand": "Brand 54",
+    "Capacity": 25,
+    "Mileage": 26432.09144504154
+  },
+  {
+    "Id": "c930850e-ed71-4f41-8dea-c138a1aa6ab9",
+    "Brand": "Brand 50",
+    "Capacity": 20,
+    "Mileage": 83746.44048497367
+  },
+  {
+    "Id": "c63438d4-62c1-4332-8fb9-7ab7a5b62301",
+    "Brand": "Brand 67",
+    "Capacity": 21,
+    "Mileage": 3906.8480621806234
+  },
+  {
+    "Id": "b795862f-6bcb-4a1f-a222-139aaa06390c",
+    "Brand": "Brand 41",
+    "Capacity": 44,
+    "Mileage": 21176.395594964302
+  },
+  {
+    "Id": "90017fa2-14f7-48e5-8058-6e705d93b4da",
+    "Brand": "Brand 30",
+    "Capacity": 29,
+    "Mileage": 59384.72108434894
+  },
+  {
+    "Id": "f3df0965-d3e9-4440-af30-0ced6841cc99",
+    "Brand": "Brand 47",
+    "Capacity": 70,
+    "Mileage": 40223.427238571116
+  },
+  {
+    "Id": "e203dc24-1545-416c-a438-e5b6824f2ac6",
+    "Brand": "Brand 96",
+    "Capacity": 63,
+    "Mileage": 28908.020007265488
+  },
+  {
+    "Id": "7fdf39a2-2bd9-4ec1-ae7a-07e47c8ce9bf",
+    "Brand": "Brand 23",
+    "Capacity": 72,
+    "Mileage": 47804.04255817909
+  },
+  {
+    "Id": "74fd2893-e7c8-46d0-b13a-634e3aa47437",
+    "Brand": "Brand 45",
+    "Capacity": 30,
+    "Mileage": 56284.10840597854
+  },
+  {
+    "Id": "c423cddc-369b-4072-8575-4ce8d8669703",
+    "Brand": "Brand 86",
+    "Capacity": 68,
+    "Mileage": 44200.368124047105
+  },
+  {
+    "Id": "da228a03-b4c6-4f93-85de-dc2eb2a2f658",
+    "Brand": "Brand 37",
+    "Capacity": 60,
+    "Mileage": 25989.101390444113
+  },
+  {
+    "Id": "1d50ca97-39be-4df3-b6e5-508beb0047a2",
+    "Brand": "Brand 77",
+    "Capacity": 55,
+    "Mileage": 45275.099338875916
+  },
+  {
+    "Id": "163782e2-3ce4-43a1-9eac-2fff213df2e1",
+    "Brand": "Brand 24",
+    "Capacity": 23,
+    "Mileage": 91198.5658069276
+  },
+  {
+    "Id": "bb2075e5-fc80-47ce-b353-a787a51bc35a",
+    "Brand": "Brand 43",
+    "Capacity": 75,
+    "Mileage": 10514.816467311504
+  },
+  {
+    "Id": "7b323704-fe8e-42c6-9da2-8bb787aa5953",
+    "Brand": "Brand 61",
+    "Capacity": 37,
+    "Mileage": 10909.384671403111
+  },
+  {
+    "Id": "fbadd574-6939-4f69-ad04-044a195a94cb",
+    "Brand": "Brand 2",
+    "Capacity": 72,
+    "Mileage": 95799.48622574222
+  },
+  {
+    "Id": "d4488121-e0fb-4d84-9691-7b36c08b19dc",
+    "Brand": "Brand 80",
+    "Capacity": 40,
+    "Mileage": 46766.0514127587
+  },
+  {
+    "Id": "2ad29198-d3aa-404c-889a-0616dbdab47d",
+    "Brand": "Brand 55",
+    "Capacity": 72,
+    "Mileage": 11717.1346704957
+  },
+  {
+    "Id": "88ae2d2e-83ee-4911-8a23-93f59c503121",
+    "Brand": "Brand 61",
+    "Capacity": 37,
+    "Mileage": 46858.86053581201
+  },
+  {
+    "Id": "c5bb0ea7-bcbb-4e43-be44-a45bd5f3a6c8",
+    "Brand": "Brand 60",
+    "Capacity": 59,
+    "Mileage": 88098.5057233623
+  },
+  {
+    "Id": "4a467efd-d56c-4aaf-b386-4e929929a77a",
+    "Brand": "Brand 78",
+    "Capacity": 34,
+    "Mileage": 99823.14082060764
+  },
+  {
+    "Id": "e07f5b62-c34b-4458-80ca-c84999013251",
+    "Brand": "Brand 61",
+    "Capacity": 35,
+    "Mileage": 21179.208455437594
+  },
+  {
+    "Id": "0a6f5fb8-674e-4ff4-8ffa-a314e4d23975",
+    "Brand": "Brand 54",
+    "Capacity": 45,
+    "Mileage": 39560.89107178053
+  },
+  {
+    "Id": "3bc78b62-759b-432c-8a39-0252e5d5e455",
+    "Brand": "Brand 69",
+    "Capacity": 38,
+    "Mileage": 62749.15103418077
+  },
+  {
+    "Id": "2853ba2b-9348-4013-be63-55b76bae804b",
+    "Brand": "Brand 65",
+    "Capacity": 65,
+    "Mileage": 3243.2359026980607
+  },
+  {
+    "Id": "2d8dfa2e-f84d-40e0-8ef9-f36b0c3367c9",
+    "Brand": "Brand 16",
+    "Capacity": 59,
+    "Mileage": 17406.70373654599
+  },
+  {
+    "Id": "a1f37b58-6283-4075-ad6a-184e16a61306",
+    "Brand": "Brand 54",
+    "Capacity": 20,
+    "Mileage": 48830.117112976666
+  },
+  {
+    "Id": "97d915b7-1fbb-4040-9c5f-49a2c7de48b7",
+    "Brand": "Brand 44",
+    "Capacity": 30,
+    "Mileage": 85952.46037798865
+  },
+  {
+    "Id": "8f59dd77-ed51-4ab6-84f0-862b51be6a03",
+    "Brand": "Brand 17",
+    "Capacity": 59,
+    "Mileage": 66510.63293850864
+  },
+  {
+    "Id": "85ba5529-991f-4811-ae2d-d127de1f456c",
+    "Brand": "Brand 84",
+    "Capacity": 58,
+    "Mileage": 64856.443131472755
+  },
+  {
+    "Id": "1c2b7ab2-5d58-4102-a581-7efc85bc4234",
+    "Brand": "Brand 85",
+    "Capacity": 39,
+    "Mileage": 67333.77858811633
+  },
+  {
+    "Id": "66ac87f2-799c-48ce-a050-aa7d6a735cfe",
+    "Brand": "Brand 13",
+    "Capacity": 45,
+    "Mileage": 28087.19612993671
+  },
+  {
+    "Id": "082aaa12-5bcd-4240-9038-53f6deab22b2",
+    "Brand": "Brand 41",
+    "Capacity": 61,
+    "Mileage": 42979.991343645066
+  },
+  {
+    "Id": "278959b7-d8ec-4ebd-9dbc-48b85c5342a7",
+    "Brand": "Brand 53",
+    "Capacity": 52,
+    "Mileage": 28536.60832784117
+  },
+  {
+    "Id": "3851611d-f545-4e2a-8b48-026e2e4d4b2c",
+    "Brand": "Brand 28",
+    "Capacity": 71,
+    "Mileage": 11897.948231181788
+  },
+  {
+    "Id": "f098d6cc-ae52-4567-9fc9-7f7d008078d8",
+    "Brand": "Brand 80",
+    "Capacity": 52,
+    "Mileage": 34988.1270659557
+  },
+  {
+    "Id": "114e5b09-8ff0-48b1-b5a4-1c04eb7cce46",
+    "Brand": "Brand 45",
+    "Capacity": 25,
+    "Mileage": 68443.83483238435
+  },
+  {
+    "Id": "65a83755-7ece-4e9e-8ad4-697daaa92cde",
+    "Brand": "Brand 49",
+    "Capacity": 27,
+    "Mileage": 99510.44063790838
+  },
+  {
+    "Id": "a58b1656-7f0e-4669-bccc-cbe8c59ddcbc",
+    "Brand": "Brand 86",
+    "Capacity": 42,
+    "Mileage": 3233.1371313259583
+  },
+  {
+    "Id": "8af0b1eb-dd90-4fe3-8427-20eac9b4dfad",
+    "Brand": "Brand 28",
+    "Capacity": 33,
+    "Mileage": 54183.67549500033
+  },
+  {
+    "Id": "3ce1a60d-96a3-48c0-ac85-eca7db81919f",
+    "Brand": "Brand 82",
+    "Capacity": 35,
+    "Mileage": 71836.29300519133
+  },
+  {
+    "Id": "1b052e6d-ecc9-4aa0-9445-b12a6e10e4ce",
+    "Brand": "Brand 36",
+    "Capacity": 26,
+    "Mileage": 82605.7859325334
+  },
+  {
+    "Id": "40d4e8f4-4ba4-4914-9b18-b42b58cef3ec",
+    "Brand": "Brand 75",
+    "Capacity": 26,
+    "Mileage": 65073.65448577398
+  },
+  {
+    "Id": "f6459a36-a30e-44b9-9c3d-93c01d374b89",
+    "Brand": "Brand 53",
+    "Capacity": 66,
+    "Mileage": 42397.986811790935
+  },
+  {
+    "Id": "3bc2ad38-a2a9-4ab3-ad37-80f76c4ac4ae",
+    "Brand": "Brand 34",
+    "Capacity": 32,
+    "Mileage": 82542.66398171565
+  },
+  {
+    "Id": "e8bdeadc-bd67-49f5-9ef0-4c6576742c42",
+    "Brand": "Brand 45",
+    "Capacity": 78,
+    "Mileage": 41175.8618838556
+  },
+  {
+    "Id": "a5af9b59-21d5-4f15-b990-4f94a08464d0",
+    "Brand": "Brand 44",
+    "Capacity": 33,
+    "Mileage": 34768.26993099119
+  },
+  {
+    "Id": "2bbdd3ef-0fb9-4286-9ad4-9e850b48ce42",
+    "Brand": "Brand 44",
+    "Capacity": 21,
+    "Mileage": 44440.22862202097
+  },
+  {
+    "Id": "45285281-f2b1-4938-9da9-cffdad63bfe2",
+    "Brand": "Brand 89",
+    "Capacity": 36,
+    "Mileage": 11759.446535522255
+  },
+  {
+    "Id": "c57c4816-90c5-4f22-9e5a-e230a8db2dd3",
+    "Brand": "Brand 25",
+    "Capacity": 20,
+    "Mileage": 46851.05886542624
+  },
+  {
+    "Id": "3dd22f7d-1573-404c-b08b-795098ec185c",
+    "Brand": "Brand 71",
+    "Capacity": 32,
+    "Mileage": 8818.187432501058
+  },
+  {
+    "Id": "117aa7bb-df29-41ff-8fcd-4d1e333cb433",
+    "Brand": "Brand 65",
+    "Capacity": 21,
+    "Mileage": 76020.12165773641
+  },
+  {
+    "Id": "dd58ddb1-da00-4864-aba4-9765c8c22e89",
+    "Brand": "Brand 33",
+    "Capacity": 25,
+    "Mileage": 1283.2014203766118
+  },
+  {
+    "Id": "7f1842dc-8e32-475d-a93e-5fb9b3e550bb",
+    "Brand": "Brand 45",
+    "Capacity": 63,
+    "Mileage": 44879.15233143622
+  },
+  {
+    "Id": "a8965dc3-b8b9-4ea0-bb76-7353873f30fd",
+    "Brand": "Brand 87",
+    "Capacity": 20,
+    "Mileage": 27939.026874437222
+  },
+  {
+    "Id": "d6c324af-5d0d-4417-b9bc-7ccc6eb22f6c",
+    "Brand": "Brand 59",
+    "Capacity": 42,
+    "Mileage": 94937.00798004138
+  },
+  {
+    "Id": "f92870e8-4f2f-4bf0-bc42-8c89eacbd3b1",
+    "Brand": "Brand 5",
+    "Capacity": 23,
+    "Mileage": 80949.00300314144
+  },
+  {
+    "Id": "9c2be0a1-d6fc-49b7-bc24-7af54632c992",
+    "Brand": "Brand 77",
+    "Capacity": 21,
+    "Mileage": 66941.46764711308
+  },
+  {
+    "Id": "f2d4cb91-9a58-46ec-bdd2-cb784759848e",
+    "Brand": "Brand 12",
+    "Capacity": 43,
+    "Mileage": 49500.2743135765
+  },
+  {
+    "Id": "d96a8f70-fae5-443c-90da-38bba6d0e7c9",
+    "Brand": "Brand 11",
+    "Capacity": 52,
+    "Mileage": 38288.62483942075
+  },
+  {
+    "Id": "9f4578e7-55eb-4af9-b766-f4e03633c182",
+    "Brand": "Brand 65",
+    "Capacity": 75,
+    "Mileage": 61584.91135939579
+  },
+  {
+    "Id": "76116c5c-bb0c-492b-9e44-98fd8792a0c8",
+    "Brand": "Brand 4",
+    "Capacity": 54,
+    "Mileage": 19495.28033923581
+  },
+  {
+    "Id": "233a6a57-dc5f-47af-bdfc-1635cd171cc8",
+    "Brand": "Brand 35",
+    "Capacity": 23,
+    "Mileage": 3873.7623666545874
+  },
+  {
+    "Id": "76f1b893-66c9-4b53-93a9-ccebcb221ffb",
+    "Brand": "Brand 92",
+    "Capacity": 37,
+    "Mileage": 21734.247357760505
+  },
+  {
+    "Id": "d81d35c6-71e9-4f0e-82ef-b691a130d24b",
+    "Brand": "Brand 16",
+    "Capacity": 70,
+    "Mileage": 78800.47806077448
+  },
+  {
+    "Id": "57540c65-52b0-42f3-b93f-5ea387b41065",
+    "Brand": "Brand 81",
+    "Capacity": 25,
+    "Mileage": 51323.64457131527
+  },
+  {
+    "Id": "ae7d1ea9-b392-4f39-879a-28eb267144d6",
+    "Brand": "Brand 63",
+    "Capacity": 74,
+    "Mileage": 77148.04443384755
+  },
+  {
+    "Id": "330568e1-c328-430b-842b-7d2ccd9536c8",
+    "Brand": "Brand 69",
+    "Capacity": 65,
+    "Mileage": 10027.919552633914
+  },
+  {
+    "Id": "c5f596d9-bfed-48bb-9e6c-8e7a18bc32b1",
+    "Brand": "Brand 35",
+    "Capacity": 77,
+    "Mileage": 87349.27681096214
+  },
+  {
+    "Id": "d8ce6318-a2a3-4cae-bd6f-06a6fb32ed3d",
+    "Brand": "Brand 70",
+    "Capacity": 50,
+    "Mileage": 63590.351555294124
+  },
+  {
+    "Id": "ca157c23-025c-476a-9b7f-6c7d39b15bba",
+    "Brand": "Brand 25",
+    "Capacity": 33,
+    "Mileage": 89098.09593474148
+  },
+  {
+    "Id": "927e0aa6-23aa-470f-8e4f-6ace52d3873b",
+    "Brand": "Brand 68",
+    "Capacity": 33,
+    "Mileage": 99956.52956310552
+  },
+  {
+    "Id": "23186755-7a7d-4f6c-bb4d-24d7f5bec2e6",
+    "Brand": "Brand 46",
+    "Capacity": 43,
+    "Mileage": 88178.03829807423
+  },
+  {
+    "Id": "b9410202-b2fc-49b0-92d6-3bb63fa7a76d",
+    "Brand": "Brand 11",
+    "Capacity": 39,
+    "Mileage": 52587.338239507975
+  },
+  {
+    "Id": "3747033a-cb66-4c19-8c54-710ad34710fd",
+    "Brand": "Brand 53",
+    "Capacity": 78,
+    "Mileage": 44227.14048859863
+  },
+  {
+    "Id": "1d7c6a46-db6e-4eb6-bb3d-c7e52b99f321",
+    "Brand": "Brand 20",
+    "Capacity": 34,
+    "Mileage": 72379.88400843913
+  },
+  {
+    "Id": "850f8e2e-8320-42ca-b30f-768e283ec2f4",
+    "Brand": "Brand 7",
+    "Capacity": 48,
+    "Mileage": 98891.44443104083
+  },
+  {
+    "Id": "c1919420-de80-4a9c-8fb8-0a1cc435073c",
+    "Brand": "Brand 89",
+    "Capacity": 76,
+    "Mileage": 17678.362708822548
+  },
+  {
+    "Id": "c78ae247-29cb-4ca3-b087-4e8f1b63d8d4",
+    "Brand": "Brand 89",
+    "Capacity": 31,
+    "Mileage": 54068.071800203164
+  },
+  {
+    "Id": "fd73b1d8-baa3-467b-8987-ebe98b883134",
+    "Brand": "Brand 5",
+    "Capacity": 72,
+    "Mileage": 77747.48102511381
+  },
+  {
+    "Id": "5134998d-8cda-4bfe-a878-6a925e8dfcd8",
+    "Brand": "Brand 53",
+    "Capacity": 65,
+    "Mileage": 50775.8420452272
+  },
+  {
+    "Id": "8b51577a-c115-4f6a-9f8a-a55aecad8d68",
+    "Brand": "Brand 79",
+    "Capacity": 32,
+    "Mileage": 67435.37329318559
+  },
+  {
+    "Id": "2d621a0e-eba5-4917-80c3-6519f0da669f",
+    "Brand": "Brand 53",
+    "Capacity": 33,
+    "Mileage": 91817.76975060528
+  },
+  {
+    "Id": "1a6c48b8-9995-474b-92d2-8a950e2a0e35",
+    "Brand": "Brand 29",
+    "Capacity": 29,
+    "Mileage": 89005.71764660862
+  },
+  {
+    "Id": "f713f009-d155-4d33-b6b8-fa16c4c44e29",
+    "Brand": "Brand 25",
+    "Capacity": 41,
+    "Mileage": 64652.251564141065
+  },
+  {
+    "Id": "bd94b591-c1b5-4f87-83aa-abc94013d818",
+    "Brand": "Brand 81",
+    "Capacity": 28,
+    "Mileage": 55620.414887941384
+  },
+  {
+    "Id": "a1ab5020-c058-427b-9b0c-cb2473e1369c",
+    "Brand": "Brand 18",
+    "Capacity": 63,
+    "Mileage": 68216.16771363791
+  },
+  {
+    "Id": "80c3bfd3-bae1-4ac3-84a0-7b9eecf4faba",
+    "Brand": "Brand 59",
+    "Capacity": 47,
+    "Mileage": 75374.66728464614
+  },
+  {
+    "Id": "ac01316b-4c60-4da4-af5f-dce4fdebc4d6",
+    "Brand": "Brand 49",
+    "Capacity": 75,
+    "Mileage": 85561.97697162894
+  },
+  {
+    "Id": "88b1e3ce-d8e0-4ea4-a090-764d4eaab6ac",
+    "Brand": "Brand 52",
+    "Capacity": 62,
+    "Mileage": 3607.6223276131027
+  },
+  {
+    "Id": "0bb92097-981b-407d-bc1a-834a68d3edea",
+    "Brand": "Brand 17",
+    "Capacity": 54,
+    "Mileage": 72168.15062010843
+  },
+  {
+    "Id": "5de060f9-4f86-469c-9203-f0a32f34a310",
+    "Brand": "Brand 68",
+    "Capacity": 37,
+    "Mileage": 92343.19552997802
+  },
+  {
+    "Id": "dfabfec6-6ad8-4974-b64c-52e8238bbfd3",
+    "Brand": "Brand 93",
+    "Capacity": 35,
+    "Mileage": 97831.0807147065
+  },
+  {
+    "Id": "c4df7ee2-2af4-4e64-bf88-6fdf3fe43c21",
+    "Brand": "Brand 56",
+    "Capacity": 42,
+    "Mileage": 94813.04448376314
+  },
+  {
+    "Id": "93c72fa4-8484-4e8b-b849-3f51eb9bfad3",
+    "Brand": "Brand 96",
+    "Capacity": 34,
+    "Mileage": 64022.4133423253
+  },
+  {
+    "Id": "720779bf-ae82-4ec6-bd52-b6421be60582",
+    "Brand": "Brand 7",
+    "Capacity": 24,
+    "Mileage": 43358.0123702927
+  },
+  {
+    "Id": "ed8996bb-ab55-4480-a1a9-381f9179696b",
+    "Brand": "Brand 14",
+    "Capacity": 63,
+    "Mileage": 5570.406520811411
+  },
+  {
+    "Id": "d615b4d9-701b-4464-affb-f36aa82bf23a",
+    "Brand": "Brand 62",
+    "Capacity": 40,
+    "Mileage": 30754.928964995197
+  },
+  {
+    "Id": "ef326601-7455-474a-b082-ccdfd66b8e8f",
+    "Brand": "Brand 20",
+    "Capacity": 46,
+    "Mileage": 55659.511650275395
+  },
+  {
+    "Id": "5cce5d2c-eab6-4b97-a716-714afb0da5b3",
+    "Brand": "Brand 89",
+    "Capacity": 75,
+    "Mileage": 99646.91551108804
+  },
+  {
+    "Id": "ac479131-00f1-46b0-8fbd-2bcfe767c805",
+    "Brand": "Brand 45",
+    "Capacity": 47,
+    "Mileage": 88354.11914569455
+  },
+  {
+    "Id": "abf49f7a-048b-464f-aea4-2c9255e65133",
+    "Brand": "Brand 91",
+    "Capacity": 47,
+    "Mileage": 72740.62048869235
+  },
+  {
+    "Id": "153cfdfa-9606-422c-88da-907af742261c",
+    "Brand": "Brand 18",
+    "Capacity": 37,
+    "Mileage": 11412.787341677078
+  },
+  {
+    "Id": "fd5d1373-6a6f-488b-bd04-8f8882fbb1d2",
+    "Brand": "Brand 64",
+    "Capacity": 63,
+    "Mileage": 72783.77481755061
+  },
+  {
+    "Id": "dbd534dc-c9b8-4310-b413-fe0e73a18227",
+    "Brand": "Brand 37",
+    "Capacity": 40,
+    "Mileage": 61711.24264697754
+  },
+  {
+    "Id": "29c5fca6-d16b-44f5-ab2e-adf78ca1381e",
+    "Brand": "Brand 8",
+    "Capacity": 64,
+    "Mileage": 45893.558253824296
+  },
+  {
+    "Id": "2db1e886-ce7d-4a95-95e4-bb6ee3c7f7c5",
+    "Brand": "Brand 46",
+    "Capacity": 45,
+    "Mileage": 96806.39254194015
+  },
+  {
+    "Id": "e82fd648-a923-4fe6-a688-15cb1b800dbe",
+    "Brand": "Brand 14",
+    "Capacity": 71,
+    "Mileage": 41813.2882450284
+  },
+  {
+    "Id": "1f38414d-9176-42f9-8dd5-946ab91d9b2d",
+    "Brand": "Brand 93",
+    "Capacity": 79,
+    "Mileage": 32458.180447863426
+  },
+  {
+    "Id": "a155f10d-4a97-47a6-b59d-6ae30c2f7605",
+    "Brand": "Brand 48",
+    "Capacity": 48,
+    "Mileage": 25566.186299888937
+  },
+  {
+    "Id": "4beb2383-d857-4204-951d-06cffd561fb6",
+    "Brand": "Brand 82",
+    "Capacity": 74,
+    "Mileage": 85509.71499652647
+  },
+  {
+    "Id": "683c3d40-cce5-4530-bd55-565eefc9e12d",
+    "Brand": "Brand 67",
+    "Capacity": 32,
+    "Mileage": 19118.86786838528
+  },
+  {
+    "Id": "54dd64ab-a465-4190-8e6a-bbb4601d678a",
+    "Brand": "Brand 36",
+    "Capacity": 34,
+    "Mileage": 38482.631506529266
+  },
+  {
+    "Id": "683bc886-81ef-41bb-8183-aa4ee0145d38",
+    "Brand": "Brand 7",
+    "Capacity": 55,
+    "Mileage": 18876.357810868984
+  },
+  {
+    "Id": "3fbac1b1-1403-4eea-99a2-dfc0ac0fb37b",
+    "Brand": "Brand 29",
+    "Capacity": 51,
+    "Mileage": 4885.708824382485
+  },
+  {
+    "Id": "c19311c0-1d72-411b-86ff-cb80a6e61290",
+    "Brand": "Brand 50",
+    "Capacity": 51,
+    "Mileage": 71368.82929248287
+  },
+  {
+    "Id": "cd9a3999-933a-4cf9-9859-1fd0ef664f8d",
+    "Brand": "Brand 64",
+    "Capacity": 30,
+    "Mileage": 51230.97257234986
+  },
+  {
+    "Id": "8e07465b-aa0a-4f07-b598-3b14eb570a48",
+    "Brand": "Brand 62",
+    "Capacity": 71,
+    "Mileage": 11227.719036392858
+  },
+  {
+    "Id": "c3419fc2-9d8f-477d-9a3a-ae0e38e3fb57",
+    "Brand": "Brand 78",
+    "Capacity": 52,
+    "Mileage": 73106.97608689983
+  },
+  {
+    "Id": "c228cd0d-0b7b-4fc4-bf2a-3244a4cf0deb",
+    "Brand": "Brand 9",
+    "Capacity": 58,
+    "Mileage": 30968.242725798977
+  },
+  {
+    "Id": "9e6b965b-fd27-46c8-b371-5e9f5bc8723c",
+    "Brand": "Brand 38",
+    "Capacity": 49,
+    "Mileage": 99383.22664960404
+  },
+  {
+    "Id": "6d2c56c4-61d2-49ef-a031-5c16234e3702",
+    "Brand": "Brand 41",
+    "Capacity": 35,
+    "Mileage": 10878.915293931934
+  },
+  {
+    "Id": "f8b9f44f-0d72-4a40-8d3b-50ce4862a6f8",
+    "Brand": "Brand 20",
+    "Capacity": 27,
+    "Mileage": 87781.25630169624
+  },
+  {
+    "Id": "b8817756-7f10-4d98-a52d-c8562d5b1682",
+    "Brand": "Brand 66",
+    "Capacity": 55,
+    "Mileage": 67748.49693776738
+  },
+  {
+    "Id": "f3eb4ee0-bbe2-4cdb-9174-1f98d8389a56",
+    "Brand": "Brand 64",
+    "Capacity": 39,
+    "Mileage": 98406.9760397399
+  },
+  {
+    "Id": "b7eba820-8542-4906-8220-32e1a9f2615c",
+    "Brand": "Brand 63",
+    "Capacity": 77,
+    "Mileage": 489.0295369053943
+  },
+  {
+    "Id": "10cf8ca8-e5e4-4e6c-92bd-d2a5911be8d0",
+    "Brand": "Brand 55",
+    "Capacity": 68,
+    "Mileage": 14116.252674671081
+  },
+  {
+    "Id": "50bbb542-3a19-4ff1-b301-dbf1e2ae4846",
+    "Brand": "Brand 93",
+    "Capacity": 23,
+    "Mileage": 70530.92200637281
+  },
+  {
+    "Id": "cd620870-6ed6-4e06-b369-f8b6e4a95730",
+    "Brand": "Brand 52",
+    "Capacity": 28,
+    "Mileage": 92769.69381390543
+  },
+  {
+    "Id": "1d5e5610-af27-4aa6-89d4-0ee653c3cc2d",
+    "Brand": "Brand 11",
+    "Capacity": 27,
+    "Mileage": 82871.79044547785
+  },
+  {
+    "Id": "04aaf4be-5df8-4f18-8653-2cdad12c6216",
+    "Brand": "Brand 11",
+    "Capacity": 23,
+    "Mileage": 47894.96138204666
+  },
+  {
+    "Id": "44c7b07e-4eae-4346-b0b3-0284180629c6",
+    "Brand": "Brand 51",
+    "Capacity": 24,
+    "Mileage": 89425.97435008407
+  },
+  {
+    "Id": "6d652d24-77ed-44d5-8bdc-71a26e91e7e6",
+    "Brand": "Brand 73",
+    "Capacity": 22,
+    "Mileage": 42688.62866996527
+  },
+  {
+    "Id": "9a8ec397-a93b-444b-889e-a64487a6a31c",
+    "Brand": "Brand 40",
+    "Capacity": 55,
+    "Mileage": 14740.239099570452
+  },
+  {
+    "Id": "26cb444d-6cc8-490b-bc92-51132706e221",
+    "Brand": "Brand 6",
+    "Capacity": 41,
+    "Mileage": 6802.907768512223
+  },
+  {
+    "Id": "a3c93461-5fe9-490a-9157-547cdb46a13f",
+    "Brand": "Brand 62",
+    "Capacity": 25,
+    "Mileage": 67450.18238642161
+  },
+  {
+    "Id": "9477f646-155f-4870-81ac-11b18b7639f0",
+    "Brand": "Brand 93",
+    "Capacity": 26,
+    "Mileage": 98534.07377704952
+  },
+  {
+    "Id": "c520ddee-2da5-4e38-906c-58a4b9981581",
+    "Brand": "Brand 16",
+    "Capacity": 22,
+    "Mileage": 5741.533352348593
+  },
+  {
+    "Id": "3ff05b9d-0961-4249-9a32-4a90e65bc9c6",
+    "Brand": "Brand 23",
+    "Capacity": 50,
+    "Mileage": 69610.82540645725
+  },
+  {
+    "Id": "ab198066-cdc6-4c17-9d6e-47beb451c7ce",
+    "Brand": "Brand 79",
+    "Capacity": 26,
+    "Mileage": 51923.13228768258
+  },
+  {
+    "Id": "533e6bbf-3a3d-490f-9164-0700e7cbae4a",
+    "Brand": "Brand 31",
+    "Capacity": 48,
+    "Mileage": 46930.14788117823
+  },
+  {
+    "Id": "e62f1f58-1f9a-48c0-8d90-9a7e8ccf761e",
+    "Brand": "Brand 26",
+    "Capacity": 73,
+    "Mileage": 5942.827294668029
+  },
+  {
+    "Id": "9121b525-1253-4ad5-bc09-c7ba15702706",
+    "Brand": "Brand 13",
+    "Capacity": 27,
+    "Mileage": 42571.08677563355
+  },
+  {
+    "Id": "389b5363-166c-4a7c-be39-d6685c60eef6",
+    "Brand": "Brand 40",
+    "Capacity": 44,
+    "Mileage": 89999.90484907872
+  },
+  {
+    "Id": "d2a32336-041a-4b36-8e93-bec555935ff2",
+    "Brand": "Brand 18",
+    "Capacity": 57,
+    "Mileage": 73049.22493883247
+  }
+]
