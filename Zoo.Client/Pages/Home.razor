@@ -1,0 +1,155 @@
+﻿@page "/"
+@using System.Net
+@using Zoo.Infrastructure.Data
+
+@inject HttpClient Client
+
+<InputText @bind-Value="Id" DisplayName="Id"></InputText>
+
+<InputText @bind-Value="Name" DisplayName="Name"></InputText>
+<InputNumber @bind-Value="Age" DisplayName="Age"></InputNumber>
+<InputCheckbox @bind-Value="IsAlpha" DisplayName="IsAlpha"></InputCheckbox>
+
+<p>@Status</p>
+
+<table>
+    <tr>
+        <td>Id</td>
+        <td>Name</td>
+        <td>Age</td>
+        <td>IsAlpha</td>
+    </tr>
+    @foreach (var value in Lions)
+    {
+        <tr>
+            <td>@value.Id</td>
+            <td>@value.Name</td>
+            <td>@value.Age</td>
+            <td>@value.IsAlpha</td>
+        </tr>
+    }
+</table>
+
+<button @onclick="Create">Create</button>
+<button @onclick="Update">Update</button>
+<button @onclick="Delete">Delete</button>
+<button @onclick="Find">Find</button>
+<button @onclick="FindAll">Find All</button>
+
+@code {
+
+    public string Id { get; set; } = string.Empty;
+
+    public string Name { get; set; } = string.Empty;
+
+    public int Age { get; set; }
+    
+    public bool IsAlpha { get; set; }
+    
+    public HttpStatusCode Status { get; set; }
+
+    public List<LionModel> Lions { get; set; } = new();
+
+    public async Task Create()
+    {
+        try
+        {
+            var response = await Client.PostAsJsonAsync("/lions", new
+            {
+                Name,
+                Age,
+                IsAlpha
+            });
+
+            Status = response.StatusCode;
+        
+            if (response.IsSuccessStatusCode is false)
+                return;
+        
+            Lions = [(await response.Content.ReadFromJsonAsync<LionModel>())!];
+        }
+        catch (Exception exception)
+        {
+            Status = HttpStatusCode.BadRequest;
+        }
+    }
+    
+    public async Task Update()
+    {
+        try
+        {
+            var response = await Client.PatchAsJsonAsync($"/lions/{Guid.Parse(Id)}", new
+            {
+                Name,
+                Age,
+                IsAlpha
+            });
+
+            Status = response.StatusCode;
+        
+            if (response.IsSuccessStatusCode is false)
+                return;
+        
+            Lions = [(await response.Content.ReadFromJsonAsync<LionModel>())!];
+        }
+        catch (Exception exception)
+        {
+            Status = HttpStatusCode.BadRequest;
+        }
+    }
+
+    public async Task Delete()
+    {
+        try
+        {
+            var response = await Client.DeleteAsync($"/lions/{Guid.Parse(Id)}");
+
+            Status = response.StatusCode;
+            
+            if (response.IsSuccessStatusCode)
+                Lions.Clear();
+        }
+        catch (Exception exception)
+        {
+            Status = HttpStatusCode.BadRequest;
+        }
+    }
+    
+    public async Task Find()
+    {
+        try
+        {
+            var response = await Client.GetAsync($"/lions/{Guid.Parse(Id)}");
+
+            Status = response.StatusCode;
+            
+            if (response.IsSuccessStatusCode is false)
+                return;
+
+            Lions = [(await response.Content.ReadFromJsonAsync<LionModel>())!];
+        }
+        catch (Exception exception)
+        {
+            Status = HttpStatusCode.BadRequest;
+        }
+    }
+    
+    public async Task FindAll()
+    {
+        try
+        {
+            var response = await Client.GetAsync("/lions");
+
+            Status = response.StatusCode;
+            
+            if (response.IsSuccessStatusCode is false)
+                return;
+
+            Lions = (await response.Content.ReadFromJsonAsync<List<LionModel>>())!;
+        }
+        catch (Exception exception)
+        {
+            Status = HttpStatusCode.BadRequest;
+        }
+    }
+}
